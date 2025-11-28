@@ -56,7 +56,7 @@ Hệ thống thiết kế là một pipeline đầy đủ để:
 
 ├── answer.md                        # File kết quả cuối (TASK EXTRACT + TASK QA)
 ├── main.py                     
-└── submission_output.zip            # File nộp cuối cùng cho BTC 
+└── submission_output.zip            # File nộp cuối cùng
 ```
 
 ---
@@ -194,7 +194,7 @@ Pipeline:
 **Kết quả sau Task 2**
 
 * `test/model_Qwen3-4b_qwen.csv` – bảng chi tiết đáp án.
-* `answer.md` – file đầy đủ theo format BTC (TASK EXTRACT + TASK QA).
+* `answer.md` – file đầy đủ theo format (TASK EXTRACT + TASK QA).
 * `submission_output.zip` - file nén chứa toàn bộ nội dung
 
 ---
