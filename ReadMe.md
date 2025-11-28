@@ -223,7 +223,7 @@ num_correct,answers
 
 Trong đó:
 
-* `num_correct` là số đáp án đúng của câu hỏi (BTC cung cấp trong question.csv).
+* `num_correct` là số đáp án đúng của câu hỏi (cung cấp trong question.csv).
 * `answers` là các lựa chọn mà model dự đoán (A/B/C/D),
   nếu nhiều hơn một đáp án thì ghi `"A,C"` (có ngoặc kép, phân tách bởi dấu phẩy).
 
