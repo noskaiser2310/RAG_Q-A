@@ -1,0 +1,20 @@
+[
+  {
+    "text": "1. Ký hiệu vách ngăn",
+    "level": 2,
+    "page": 1,
+    "probability": 0.7041908028628112,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. Ký hiệu vách ngăn"
+  },
+  {
+    "text": "2. Ký hiệu các bộ phận cần sửa chữa",
+    "level": 2,
+    "page": 3,
+    "probability": 0.9205609338108444,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. Ký hiệu các bộ phận cần sửa chữa"
+  }
+]

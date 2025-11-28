@@ -1,0 +1,310 @@
+[
+    {
+        "prefix": "",
+        "text": "1. CÁC LOẠI MÁY TÍNH PHỔ BIẾN",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 0,
+        "bbox": [
+            78.02400207519531,
+            105.5311508178711,
+            311.4700012207031,
+            120.05931091308594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Phân biệt các loại máy tính Máy tính để bàn Máy tính xách tay Máy tính bảng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 4,
+        "bbox": [
+            217.49000549316406,
+            285.62261962890625,
+            534.239990234375,
+            334.04931640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2. CÁC BỘ PHẬN CƠ BẢN CỦA MÁY TÍNH Bộ phận Hình dạng nhận biết Chức năng CPU",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 6,
+        "bbox": [
+            97.8239974975586,
+            139.0111846923828,
+            435.66998291015625,
+            229.2593231201172
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "RAM",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 10,
+        "bbox": [
+            97.8239974975586,
+            552.8826293945312,
+            132.13999938964844,
+            567.2293701171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý:",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 13,
+        "bbox": [
+            262.8500061035156,
+            664.0325927734375,
+            299.5699768066406,
+            678.3793334960938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Mainboard",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            97.8239974975586,
+            169.91259765625,
+            225.77000427246094,
+            185.81932067871094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Ổ cứng hay ổ đĩa cứng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 10,
+        "bbox": [
+            97.8239974975586,
+            478.48260498046875,
+            165.260009765625,
+            512.1493530273438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 2,
+        "bbox": [
+            97.8239974975586,
+            171.47259521484375,
+            155.66000366210938,
+            185.81932067871094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bàn phím",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 8,
+        "bbox": [
+            97.8239974975586,
+            405.0226135253906,
+            155.66000366210938,
+            419.36932373046875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chuột máy tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 11,
+        "bbox": [
+            97.8239974975586,
+            498.6426086425781,
+            162.72769165039062,
+            530.7493286132812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. TRÌNH TỰ KHI SỬ DỤNG MÁY TÍNH",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 16,
+        "bbox": [
+            99.26399993896484,
+            615.8511352539062,
+            357.42999267578125,
+            630.3793334960938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 1 Kiểm tra kết nối giữa các bộ phận, kết nối máy tính với nguồn điện.",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            97.58399963378906,
+            118.5526123046875,
+            543.530517578125,
+            150.4193572998047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 2 Bật máy tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 5,
+        "bbox": [
+            97.58399963378906,
+            310.34259033203125,
+            254.45001220703125,
+            324.6893005371094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 3 Đăng nhập vào hệ điều hành",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 1,
+        "bbox": [
+            97.58399963378906,
+            118.5526123046875,
+            340.75,
+            132.8993377685547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 4 Mở và làm việc với ứng dụng hoặc chương trình:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 13,
+        "bbox": [
+            97.58399963378906,
+            577.2426147460938,
+            457.05999755859375,
+            591.58935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 5 Đóng ứng dụng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 4,
+        "bbox": [
+            97.58399963378906,
+            171.8326416015625,
+            268.0099792480469,
+            186.1793670654297
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trên hệ điều hành Windows:",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 9,
+        "bbox": [
+            178.94000244140625,
+            356.5426025390625,
+            332.4700012207031,
+            370.8893127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trên hệ điều hành Mac OS",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 18,
+        "bbox": [
+            178.94000244140625,
+            585.0726318359375,
+            322.6300048828125,
+            599.4193725585938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trên hệ điều hành Linux:",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 3,
+        "bbox": [
+            177.02000427246094,
+            136.0726318359375,
+            312.4100036621094,
+            150.4193572998047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 6 Tắt máy tính:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 7,
+        "bbox": [
+            97.58399963378906,
+            241.70263671875,
+            255.37806701660156,
+            256.0493469238281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trên hệ điều hành Windows:",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 9,
+        "bbox": [
+            178.94000244140625,
+            322.10260009765625,
+            332.4700012207031,
+            336.4493103027344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trên hệ điều hành Mac OS",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 13,
+        "bbox": [
+            178.94000244140625,
+            409.60260009765625,
+            322.6300048828125,
+            423.9493103027344
+        ]
+    }
+]

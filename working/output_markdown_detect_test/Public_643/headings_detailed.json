@@ -1,0 +1,173 @@
+[
+  {
+    "text": "Hệ thống trần",
+    "level": 2,
+    "page": 1,
+    "probability": 0.8153278376545735,
+    "font_size": 9.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Hệ thống trần"
+  },
+  {
+    "text": "(B-Shaped, màu trắng, màu đen. Sơn tĩnh điện gia nhiệt PE, phụ kiện: khung xương thép tiêu chuẩn, 1.2m/m², móc treo...)",
+    "level": 4,
+    "page": 11,
+    "probability": 0.7478629736986269,
+    "font_size": 9.960000038146973,
+    "detection_method": "ml",
+    "text_original": "(B-Shaped, màu trắng, màu đen. Sơn tĩnh điện gia nhiệt PE, phụ kiện: khung xương thép tiêu chuẩn, 1.2m/m², móc treo...)"
+  },
+  {
+    "text": "Sơn nước ngoài trời",
+    "level": 1,
+    "page": 16,
+    "probability": 0.788307424499326,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn nước ngoài trời"
+  },
+  {
+    "text": "Sơn màu pha sẵn trong và ngoài nhà",
+    "level": 1,
+    "page": 17,
+    "probability": 0.8971124168390703,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn màu pha sẵn trong và ngoài nhà"
+  },
+  {
+    "text": "Sơn phủ bóng không màu trong suốt",
+    "level": 1,
+    "page": 18,
+    "probability": 0.8399379584654931,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn phủ bóng không màu trong suốt"
+  },
+  {
+    "text": "Mầu sơn",
+    "level": 1,
+    "page": 19,
+    "probability": 0.8713394892344495,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Mầu sơn"
+  },
+  {
+    "text": "Sơn nội Thất",
+    "level": 1,
+    "page": 21,
+    "probability": 0.8173078307276634,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn nội Thất"
+  },
+  {
+    "text": "Sơn ngoại thất",
+    "level": 1,
+    "page": 22,
+    "probability": 0.9161876464666299,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn ngoại thất"
+  },
+  {
+    "text": "Sơn lót",
+    "level": 1,
+    "page": 22,
+    "probability": 0.8324670610213198,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn lót"
+  },
+  {
+    "text": "Sơn chống thấm",
+    "level": 1,
+    "page": 23,
+    "probability": 0.9094651563123964,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn chống thấm"
+  },
+  {
+    "text": "Sơn đặc biệt",
+    "level": 1,
+    "page": 23,
+    "probability": 0.8858470721489482,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn đặc biệt"
+  },
+  {
+    "text": "Bột bả",
+    "level": 1,
+    "page": 26,
+    "probability": 0.7081951530332891,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Bột bả"
+  },
+  {
+    "text": "Sơn Lót",
+    "level": 1,
+    "page": 26,
+    "probability": 0.6780152922589817,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn Lót"
+  },
+  {
+    "text": "Sơn nội thất",
+    "level": 1,
+    "page": 26,
+    "probability": 0.690331236100689,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn nội thất"
+  },
+  {
+    "text": "Sơn phủ nội thất",
+    "level": 1,
+    "page": 29,
+    "probability": 0.9409499031010109,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn phủ nội thất"
+  },
+  {
+    "text": "Sơn phủ ngoại thất",
+    "level": 1,
+    "page": 30,
+    "probability": 0.9013952057179203,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn phủ ngoại thất"
+  },
+  {
+    "text": "Sơn ngoài trời",
+    "level": 1,
+    "page": 33,
+    "probability": 0.9128092523085245,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn ngoài trời"
+  },
+  {
+    "text": "Sơn sàn công nghiệp",
+    "level": 1,
+    "page": 40,
+    "probability": 0.8975779560673693,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn sàn công nghiệp"
+  },
+  {
+    "text": "Sơn tường",
+    "level": 1,
+    "page": 42,
+    "probability": 0.8350556941341841,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Sơn tường"
+  }
+]

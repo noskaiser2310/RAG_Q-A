@@ -1,0 +1,2060 @@
+[
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường A Mô tả chung tính năng kỹ thuật của sản phẩm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 12,
+        "bbox": [
+            58.91999816894531,
+            113.40800476074219,
+            787.0599975585938,
+            199.92201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "B Chỉ tiêu kỹ thuật chi tiết cho Hệ thống giám sát điều hành dịch vụ khách hàng I",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 16,
+        "bbox": [
+            62.880001068115234,
+            348.77801513671875,
+            501.6700134277344,
+            377.9020080566406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chỉ tiêu tính năng 1.1",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 1,
+        "block_num": 16,
+        "bbox": [
+            59.400001525878906,
+            364.6180114746094,
+            724.2999877929688,
+            394.1020202636719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tính phù hợp chức năng",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 1,
+        "block_num": 16,
+        "bbox": [
+            99.26399993896484,
+            380.8180236816406,
+            223.49998474121094,
+            394.1020202636719
+        ]
+    },
+    {
+        "prefix": "1.1.1",
+        "text": "Tính phù hợp chức năng",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 1,
+        "block_num": 17,
+        "bbox": [
+            99.26399993896484,
+            444.6880187988281,
+            143.85601806640625,
+            499.3680114746094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "sát điều hành B3: Chọn cụm màn hình",
+        "text": "TV1-4",
+        "suffix": "B4: Hiển thị thông tin Dashboard điều hành giải đáp CĐBR",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 16,
+        "bbox": [
+            387.5299987792969,
+            188.7980194091797,
+            417.5299987792969,
+            202.08201599121094
+        ]
+    },
+    {
+        "prefix": "B1: Đăng nhập hệ thống B2: Chọn chức năng Giám sát điều hành B3: Chọn cụm màn hình",
+        "text": "dhgd-dd",
+        "suffix": "B4: Hiển thị thông tin Dashboard điều hành giải đáp CĐBR",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 21,
+        "bbox": [
+            387.5299987792969,
+            299.79803466796875,
+            427.489990234375,
+            313.08203125
+        ]
+    },
+    {
+        "prefix": "B1: Đăng nhập hệ thống B2: Chọn chức năng Giám sát điều hành B3: Chọn cụm màn hình",
+        "text": "dhgd-sme",
+        "suffix": "B4: Hiển thị thông tin Dashboard điều hành giải đáp CĐBR",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 27,
+        "bbox": [
+            387.5299987792969,
+            410.6980285644531,
+            434.1499938964844,
+            423.9820251464844
+        ]
+    },
+    {
+        "prefix": "B1: Đăng nhập hệ thống B2: Chọn chức năng Giám sát điều hành B3: Chọn cụm màn hình",
+        "text": "dhgd-1789",
+        "suffix": "B4: Hiển thị thông tin",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 33,
+        "bbox": [
+            387.5299987792969,
+            521.60400390625,
+            439.489990234375,
+            534.8880004882812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "B1: Đăng nhập hệ thống B2: Chọn chức năng Giám sát điều hành B3: Chọn cụm màn hình",
+        "text": "mhc",
+        "suffix": "B4: Hiển thị thông tin các chỉ số chung điều hành giải đáp, xử lý phản ánh, giám sát chất lượng, chăm sóc khách hàng và hiển thị từng chỉ số qua chu kỳ tháng và chu kỳ ngày",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 32,
+        "bbox": [
+            508.510009765625,
+            452.6080017089844,
+            528.5020141601562,
+            465.8919982910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "B1: Đăng nhập hệ thống B2: Chọn chức năng Giám sát điều hành B3: Chọn cụm màn hình",
+        "text": "tttt",
+        "suffix": "B4: Hiển thị thông tin Dashboard thu thập thông tin",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 19,
+        "bbox": [
+            508.510009765625,
+            202.59800720214844,
+            524.9259643554688,
+            215.8820037841797
+        ]
+    },
+    {
+        "prefix": "B1: Đăng nhập hệ thống B2: Chọn chức năng Giám sát điều hành B3: Chọn cụm màn hình",
+        "text": "bh",
+        "suffix": "B4: Hiển thị thông tin liên quan tới bảo hành: hợp đồng có chủng loại thiết bị vượt KPI lỗi, tỷ lệ lỗi",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 25,
+        "bbox": [
+            508.510009765625,
+            285.9980163574219,
+            520.510009765625,
+            299.2820129394531
+        ]
+    },
+    {
+        "prefix": "B1: Đăng nhập hệ thống B2: Chọn chức năng Giám sát điều hành B3: Chọn cụm màn hình",
+        "text": "cskh",
+        "suffix": "B4: Hiển thị thông tin Dashboard Chăm sóc khách hàng",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 31,
+        "bbox": [
+            505.6300048828125,
+            396.8980407714844,
+            529.7500610351562,
+            410.1820373535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.2 Tính chính xác",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 10,
+        "block_num": 34,
+        "bbox": [
+            45.47999954223633,
+            453.9280090332031,
+            175.34397888183594,
+            467.2120056152344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tính chính xác",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 10,
+        "block_num": 36,
+        "bbox": [
+            99.26399993896484,
+            480.5680236816406,
+            131.0279998779297,
+            521.3280029296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.3 Khả năng tương tác",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 11,
+        "block_num": 27,
+        "bbox": [
+            45.47999954223633,
+            341.218017578125,
+            198.5640106201172,
+            354.50201416015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.4 Tính bảo mật",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 20,
+        "bbox": [
+            59.400001525878906,
+            294.7580261230469,
+            171.6199951171875,
+            308.0420227050781
+        ]
+    },
+    {
+        "prefix": "1.4.1",
+        "text": "Quản lý xác thực",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 12,
+        "block_num": 21,
+        "bbox": [
+            99.26399993896484,
+            344.8180236816406,
+            145.10000610351562,
+            371.9020080566406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "ATTT ứng dụng web",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 12,
+        "block_num": 26,
+        "bbox": [
+            99.26399993896484,
+            414.4179992675781,
+            132.28799438476562,
+            469.01202392578125
+        ]
+    },
+    {
+        "prefix": "1.4.3",
+        "text": "Mã hóa",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 12,
+        "block_num": 30,
+        "bbox": [
+            99.26399993896484,
+            497.7240295410156,
+            140.66000366210938,
+            511.0080261230469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "ATTT Webserv er",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 13,
+        "block_num": 17,
+        "bbox": [
+            99.26399993896484,
+            175.08799743652344,
+            141.1800079345703,
+            215.8820037841797
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "ATTT Cơ sở dữ liệu",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 13,
+        "block_num": 22,
+        "bbox": [
+            99.26399993896484,
+            244.59800720214844,
+            137.17999267578125,
+            285.4820251464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "II Chỉ tiêu phi chức năng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 26,
+        "bbox": [
+            62.279998779296875,
+            301.2380065917969,
+            724.2999877929688,
+            314.5220031738281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2.1 Kiến trúc và công nghệ",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 13,
+        "block_num": 26,
+        "bbox": [
+            59.400001525878906,
+            317.4580078125,
+            724.2999877929688,
+            330.74200439453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Kiến trúc hệ thống",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 13,
+        "block_num": 28,
+        "bbox": [
+            99.26399993896484,
+            402.2980041503906,
+            137.27999877929688,
+            457.01202392578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Kiến trúc lập trình",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 14,
+        "block_num": 17,
+        "bbox": [
+            99.26399993896484,
+            161.2880096435547,
+            140.6280059814453,
+            202.08201599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Công nghệ áp dụng",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 14,
+        "block_num": 23,
+        "bbox": [
+            99.26399993896484,
+            352.4980163574219,
+            141.96002197265625,
+            393.38201904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2.2 Tính tin cậy",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 15,
+        "block_num": 16,
+        "bbox": [
+            59.400001525878906,
+            162.2480010986328,
+            724.2999877929688,
+            175.53199768066406
+        ]
+    },
+    {
+        "prefix": "2.2.1",
+        "text": "Tính tin cậy",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 15,
+        "block_num": 17,
+        "bbox": [
+            99.26399993896484,
+            225.9980010986328,
+            142.66799926757812,
+            253.08201599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng chịu lỗi",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 15,
+        "block_num": 23,
+        "bbox": [
+            99.26399993896484,
+            399.53802490234375,
+            139.94000244140625,
+            440.4220275878906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng phục hồi",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 18,
+        "block_num": 20,
+        "bbox": [
+            99.26399993896484,
+            318.1780090332031,
+            127.68001556396484,
+            372.8620300292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2.3 Tính khả dụng",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 18,
+        "block_num": 30,
+        "bbox": [
+            59.400001525878906,
+            436.1679992675781,
+            724.2999877929688,
+            449.4519958496094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tính dễ hiểu/ dễ học",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 18,
+        "block_num": 33,
+        "bbox": [
+            100.94000244140625,
+            452.968017578125,
+            143.63601684570312,
+            493.8520202636719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng vận hành",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 19,
+        "block_num": 17,
+        "bbox": [
+            99.26399993896484,
+            327.89801025390625,
+            128.3000030517578,
+            382.5820007324219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng hạn chế lỗi người dùng",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 20,
+        "block_num": 25,
+        "bbox": [
+            99.26399993896484,
+            341.6980285644531,
+            141.94801330566406,
+            423.9820251464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2.4",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 20,
+        "block_num": 31,
+        "bbox": [
+            59.400001525878906,
+            475.28802490234375,
+            77.4000015258789,
+            488.572021484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thời gian xử lý",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 21,
+        "block_num": 16,
+        "bbox": [
+            99.26399993896484,
+            202.59800720214844,
+            140.52000427246094,
+            257.2820129394531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Sử dụng tài nguyên",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 21,
+        "block_num": 23,
+        "bbox": [
+            99.26399993896484,
+            348.2980041503906,
+            144.5880126953125,
+            389.1820373535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng đáp ứng",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 21,
+        "block_num": 29,
+        "bbox": [
+            99.26399993896484,
+            473.4880065917969,
+            143.17999267578125,
+            514.3679809570312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "đăng nhập không thành công) - RAM đáp ứng: 90%, Redis <=30% - CPU: 75% 2.5",
+        "text": "Khả năng bảo trì",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 22,
+        "block_num": 18,
+        "bbox": [
+            99.26399993896484,
+            231.2779998779297,
+            724.2999877929688,
+            244.56199645996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng phân tích",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 22,
+        "block_num": 20,
+        "bbox": [
+            99.26399993896484,
+            357.4179992675781,
+            127.68001556396484,
+            425.9020080566406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng thay đổi được",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 23,
+        "block_num": 18,
+        "bbox": [
+            99.26399993896484,
+            230.55799865722656,
+            141.947998046875,
+            285.24200439453125
+        ]
+    },
+    {
+        "prefix": "2.6",
+        "text": "Tính khả chuyển",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 23,
+        "block_num": 23,
+        "bbox": [
+            99.26399993896484,
+            328.8580017089844,
+            724.2999877929688,
+            342.1419982910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng tương thích",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 23,
+        "block_num": 25,
+        "bbox": [
+            99.26399993896484,
+            406.2580261230469,
+            131.98800659179688,
+            460.9720153808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng cài đặt phần mềm",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 24,
+        "block_num": 18,
+        "bbox": [
+            99.26399993896484,
+            209.55799865722656,
+            145.29600524902344,
+            278.0420227050781
+        ]
+    },
+    {
+        "prefix": "2.7",
+        "text": "Tính bảo mật",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 24,
+        "block_num": 22,
+        "bbox": [
+            99.26399993896484,
+            294.7580261230469,
+            168.97999572753906,
+            308.0420227050781
+        ]
+    },
+    {
+        "prefix": "2.7.1",
+        "text": "ATTT",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 24,
+        "block_num": 23,
+        "bbox": [
+            99.26399993896484,
+            331.7380065917969,
+            132.25999450683594,
+            345.0220031738281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "III",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 26,
+        "bbox": [
+            59.880001068115234,
+            368.6980285644531,
+            73.90799713134766,
+            381.9820251464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chỉ tiêu về quản trị dữ liệu 3.1",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 27,
+        "bbox": [
+            59.400001525878906,
+            368.6980285644531,
+            237.75196838378906,
+            418.9420166015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Quản trị dữ liệu",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 24,
+        "block_num": 27,
+        "bbox": [
+            99.26399993896484,
+            398.8180236816406,
+            144.72000122070312,
+            425.9020080566406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.2",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 32,
+        "bbox": [
+            59.400001525878906,
+            468.5680236816406,
+            77.4000015258789,
+            481.8520202636719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bảo mật dữ liệu",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 24,
+        "block_num": 32,
+        "bbox": [
+            99.26399993896484,
+            461.6080322265625,
+            144.0,
+            488.6920166015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.3",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 34,
+        "bbox": [
+            59.400001525878906,
+            508.7640075683594,
+            77.4000015258789,
+            522.0479736328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chất lượng dữ liệu",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 25,
+        "block_num": 35,
+        "bbox": [
+            99.26399993896484,
+            494.9640197753906,
+            137.17999267578125,
+            535.8479614257812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 27,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 27,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 27,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.4",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 24,
+        "bbox": [
+            59.400001525878906,
+            411.1780090332031,
+            77.4000015258789,
+            424.4620056152344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Quản lý siêu dữ liệu",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 28,
+        "block_num": 25,
+        "bbox": [
+            99.26399993896484,
+            397.3780212402344,
+            141.99600219726562,
+            438.26202392578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.5",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 23,
+        "bbox": [
+            59.400001525878906,
+            411.4179992675781,
+            77.4000015258789,
+            424.7019958496094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu trữ và vận hành dữ liệu",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 29,
+        "block_num": 24,
+        "bbox": [
+            99.26399993896484,
+            390.65802001953125,
+            144.57603454589844,
+            445.3720397949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIETTEL AI RACE",
+        "suffix": "TD441",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 1,
+        "bbox": [
+            318.4100036621094,
+            40.66798400878906,
+            428.0899963378906,
+            53.95198440551758
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BỘ CHỈ TIÊU KỸ THUẬT CHO HỆ THỐNG vCOC",
+        "suffix": "Lần ban hành: 1",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 2,
+        "bbox": [
+            233.77999877929688,
+            64.80799865722656,
+            512.8299560546875,
+            78.09200286865234
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Nội dung Chỉ tiêu kỹ thuật Loại yêu cầu (M-Bắt buộc/ O- Tùy chọn) Chuẩn tham chiếu (nếu có) Bài đo Bước thực hiện Kết quả mong muốn Số lần đo Môi trường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 15,
+        "bbox": [
+            58.91999816894531,
+            91.68800354003906,
+            787.0599975585938,
+            160.17201232910156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "IV",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 25,
+        "bbox": [
+            60.2400016784668,
+            351.0580139160156,
+            73.58399963378906,
+            364.3420104980469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Yêu cầu tài liệu",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 30,
+        "block_num": 28,
+        "bbox": [
+            100.69999694824219,
+            426.53802490234375,
+            143.99598693847656,
+            453.6520080566406
+        ]
+    }
+]

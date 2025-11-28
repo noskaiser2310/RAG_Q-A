@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Thông tin kỹ thuật máy bay Airbus A321",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9960514189613716,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Thông tin kỹ thuật máy bay Airbus A321"
+  },
+  {
+    "text": "Thiết kế tổng thể",
+    "level": 1,
+    "page": 2,
+    "probability": 0.9985931556190535,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Thiết kế tổng thể"
+  },
+  {
+    "text": "Động cơ",
+    "level": 1,
+    "page": 3,
+    "probability": 0.9978170927025128,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Động cơ"
+  },
+  {
+    "text": "Hệ thống điện tử và điều khiển bay",
+    "level": 1,
+    "page": 3,
+    "probability": 0.995509731700237,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Hệ thống điện tử và điều khiển bay"
+  },
+  {
+    "text": "Hiệu suất khai thác",
+    "level": 1,
+    "page": 3,
+    "probability": 0.9963799420048111,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Hiệu suất khai thác"
+  },
+  {
+    "text": "Thông số vận hành bổ sung",
+    "level": 1,
+    "page": 4,
+    "probability": 0.995116376059905,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Thông số vận hành bổ sung"
+  },
+  {
+    "text": "Sự phát triển và ứng dụng",
+    "level": 1,
+    "page": 4,
+    "probability": 0.993894094760497,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Sự phát triển và ứng dụng"
+  },
+  {
+    "text": "Kết luận",
+    "level": 1,
+    "page": 4,
+    "probability": 0.9986035757547471,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Kết luận"
+  }
+]

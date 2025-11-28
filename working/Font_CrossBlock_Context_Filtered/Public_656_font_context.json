@@ -1,0 +1,464 @@
+[
+    {
+        "prefix": "",
+        "text": "1. LED",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 0,
+        "bbox": [
+            108.0199966430664,
+            120.05123138427734,
+            156.02000427246094,
+            134.5793914794922
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Đèn LED Tình trạng của máy",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 10,
+        "bbox": [
+            119.9000015258789,
+            514.8426513671875,
+            420.19000244140625,
+            529.1893920898438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "SLEEP",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 12,
+        "bbox": [
+            207.41000366210938,
+            537.7626342773438,
+            248.4442596435547,
+            552.109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "DEEP SLEEP",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 16,
+        "bbox": [
+            207.41000366210938,
+            628.0326538085938,
+            286.3623046875,
+            642.37939453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "READY",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            207.41000366210938,
+            164.63262939453125,
+            253.49432373046875,
+            178.97935485839844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "PRINTING",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 6,
+        "bbox": [
+            207.41000366210938,
+            209.87261962890625,
+            272.3136901855469,
+            224.21934509277344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "WARMING UP",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 12,
+        "bbox": [
+            207.41000366210938,
+            257.0626220703125,
+            296.4322204589844,
+            271.4093322753906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "COOLING DOWN",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 14,
+        "bbox": [
+            207.41000366210938,
+            302.4226379394531,
+            315.2630920410156,
+            316.76934814453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "RECEIVING DATA",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 17,
+        "bbox": [
+            207.41000366210938,
+            370.2226257324219,
+            322.45587158203125,
+            384.5693359375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "DATA REMAINING",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 20,
+        "bbox": [
+            207.41000366210938,
+            438.0426330566406,
+            326.07177734375,
+            452.38934326171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TONER LOW",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 25,
+        "bbox": [
+            207.41000366210938,
+            528.1626586914062,
+            288.526611328125,
+            542.5093994140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "REPLACE TONER",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 30,
+        "bbox": [
+            207.41000366210938,
+            618.4326171875,
+            318.85302734375,
+            632.7793579101562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CARTRIDGE ERROR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 32,
+        "bbox": [
+            207.41000366210938,
+            663.192626953125,
+            336.9710693359375,
+            677.5393676757812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "NO TONER",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 1,
+        "bbox": [
+            207.41000366210938,
+            119.27264404296875,
+            276.2794494628906,
+            133.61936950683594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "REPLACE TONER",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 4,
+        "bbox": [
+            207.41000366210938,
+            164.63262939453125,
+            318.85302734375,
+            178.97935485839844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TONER ENDED",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 8,
+        "bbox": [
+            207.41000366210938,
+            242.0626220703125,
+            302.3030700683594,
+            256.4093322753906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "DRUM END SOON",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 11,
+        "bbox": [
+            207.41000366210938,
+            313.5826416015625,
+            318.5030822753906,
+            327.9293518066406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "REPLACE DRUM",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 15,
+        "bbox": [
+            207.41000366210938,
+            390.50262451171875,
+            313.0858154296875,
+            404.8493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "NO PAPER T1",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 18,
+        "bbox": [
+            207.41000366210938,
+            466.00262451171875,
+            291.7536926269531,
+            480.3493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "MANUAL FEED",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 20,
+        "bbox": [
+            207.41000366210938,
+            511.3626708984375,
+            303.74163818359375,
+            525.7094116210938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "DRUM ERROR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 23,
+        "bbox": [
+            207.41000366210938,
+            556.72265625,
+            297.87078857421875,
+            571.0693969726562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "DRUM STOP",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 26,
+        "bbox": [
+            207.41000366210938,
+            631.2726440429688,
+            284.9237365722656,
+            645.619384765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "FRONT COVER OPEN",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 1,
+        "bbox": [
+            207.41000366210938,
+            96.8326416015625,
+            342.3624267578125,
+            111.17936706542969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "FUSER COVER OPEN",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            207.41000366210938,
+            142.192626953125,
+            339.4853210449219,
+            156.5393524169922
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "JAM TRAY 1/ JAM INSIDE/ JAM REAR/ JAM DUPLEX",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 7,
+        "bbox": [
+            207.41000366210938,
+            209.87261962890625,
+            481.6435241699219,
+            246.6593475341797
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "MEMORY FULL",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 10,
+        "bbox": [
+            207.41000366210938,
+            299.6626281738281,
+            307.3445129394531,
+            314.00933837890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "PRINT OVER RUN",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 13,
+        "bbox": [
+            207.41000366210938,
+            367.462646484375,
+            319.9286804199219,
+            381.8093566894531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "SIZE ERROR DX (HL-2240D/ HL-2250DN/ HL- 2270DW)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 17,
+        "bbox": [
+            207.41000366210938,
+            435.1626281738281,
+            479.9756774902344,
+            471.9493408203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "DUPLEX DISABLED (HL-2240D/ HL-2250DN/ HL- 2270DW)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 22,
+        "bbox": [
+            207.41000366210938,
+            547.8426513671875,
+            501.3356628417969,
+            584.62939453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Đèn LED Hư bo chính Hư khối sấy Hư Laser Hư Mô tơ chính Hư bo cao áp Quạt bị hư Bo nguồn bị lỗi Tone",
+        "suffix": "tắt vàng",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 17,
+        "bbox": [
+            85.94400024414062,
+            331.2226257324219,
+            533.4922485351562,
+            415.0493469238281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Drum",
+        "suffix": "tắt tắt vàng tắt vàng vàng vàng",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 18,
+        "bbox": [
+            83.42400360107422,
+            433.3626403808594,
+            119.9000015258789,
+            447.7093505859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Error",
+        "suffix": "cam tắt tắt cam tắt cam cam",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 19,
+        "bbox": [
+            83.78399658203125,
+            461.5626220703125,
+            119.54000091552734,
+            475.9093322753906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Ready",
+        "suffix": "tắt tắt tắt tắt tắt tắt tắt",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 20,
+        "bbox": [
+            82.34400177001953,
+            492.76263427734375,
+            120.97999572753906,
+            507.1093444824219
+        ]
+    }
+]

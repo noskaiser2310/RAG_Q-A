@@ -1,0 +1,235 @@
+{
+  "version": "heading_detector_20251110_203311_main",
+  "saved_at": "2025-11-10T20:33:12.023250",
+  "feature_count": 22,
+  "feature_names": [
+    "font_size",
+    "font_ratio",
+    "z_score",
+    "is_bold",
+    "font_differs",
+    "y_position",
+    "x_position",
+    "left_margin",
+    "gap_before",
+    "gap_after",
+    "is_first",
+    "text_length",
+    "word_count",
+    "capital_ratio",
+    "upper_ratio",
+    "punct_count",
+    "period_count",
+    "ends_period",
+    "starts_number",
+    "numbered_pattern",
+    "all_caps",
+    "placeholder"
+  ],
+  "metrics": {
+    "overall_accuracy": 0.9954848841774637,
+    "heading_accuracy": 0.9267139479905437,
+    "heading_precision": 0.989873916469661,
+    "heading_recall": 0.9267139479905437,
+    "heading_f1": 0.9570026709859462,
+    "heading_confusion_matrix": [
+      [
+        196,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        118,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        70,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        8
+      ]
+    ],
+    "heading_classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "per_class_metrics": [
+      [
+        1.0,
+        0.9833333333333333,
+        0.9722222222222222,
+        1.0
+      ],
+      [
+        0.9514563106796117,
+        0.8939393939393939,
+        0.9333333333333333,
+        0.8
+      ],
+      [
+        0.9751243781094527,
+        0.9365079365079365,
+        0.9523809523809523,
+        0.8888888888888888
+      ],
+      [
+        206,
+        132,
+        75,
+        10
+      ]
+    ],
+    "heading_detection": {
+      "detection_precision": 0.9635036496350365,
+      "detection_recall": 0.9361702127659575,
+      "detection_f1": 0.9496402877697842,
+      "level_accuracy": 0.98989898989899,
+      "total_headings": 423,
+      "detected_headings": 411,
+      "correct_detections": 396,
+      "false_negatives": 27
+    }
+  },
+  "training_info": {
+    "training_date": "2025-11-10T20:33:11.964131",
+    "dataset_info": {
+      "total_samples": 101871,
+      "training_samples": 76402,
+      "validation_samples": 15281,
+      "test_samples": 10188,
+      "class_distribution": {
+        "0": 97640,
+        "1": 2059,
+        "2": 1324,
+        "3": 752,
+        "4": 96
+      },
+      "optimal_thresholds": {
+        "1": 0.85,
+        "2": 0.85,
+        "3": 0.85,
+        "4": 0.85
+      }
+    },
+    "model_metrics": {
+      "overall_accuracy": 0.9954848841774637,
+      "heading_accuracy": 0.9267139479905437,
+      "heading_precision": 0.989873916469661,
+      "heading_recall": 0.9267139479905437,
+      "heading_f1": 0.9570026709859462,
+      "heading_confusion_matrix": [
+        [
+          196,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          118,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          70,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          8
+        ]
+      ],
+      "heading_classes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "per_class_metrics": [
+        [
+          1.0,
+          0.9833333333333333,
+          0.9722222222222222,
+          1.0
+        ],
+        [
+          0.9514563106796117,
+          0.8939393939393939,
+          0.9333333333333333,
+          0.8
+        ],
+        [
+          0.9751243781094527,
+          0.9365079365079365,
+          0.9523809523809523,
+          0.8888888888888888
+        ],
+        [
+          206,
+          132,
+          75,
+          10
+        ]
+      ],
+      "heading_detection": {
+        "detection_precision": 0.9635036496350365,
+        "detection_recall": 0.9361702127659575,
+        "detection_f1": 0.9496402877697842,
+        "level_accuracy": 0.98989898989899,
+        "total_headings": 423,
+        "detected_headings": 411,
+        "correct_detections": 396,
+        "false_negatives": 27
+      }
+    },
+    "cross_validation_results": {
+      "accuracy": [
+        0.9773575027812316,
+        0.9840978993521367,
+        0.9818717277486911,
+        0.9807591623036649,
+        0.9807591623036649
+      ],
+      "precision": [
+        0.9822552173154436,
+        0.98568329124281,
+        0.9827294648443188,
+        0.9823613607192392,
+        0.982196751046989
+      ],
+      "recall": [
+        0.9773575027812316,
+        0.9840978993521367,
+        0.9818717277486911,
+        0.9807591623036649,
+        0.9807591623036649
+      ],
+      "f1": [
+        0.9794374744110625,
+        0.9847068331317546,
+        0.9822270473361322,
+        0.9813535752853475,
+        0.9812969410734141
+      ]
+    },
+    "cache_key": "f7c8cdecd417cd7d",
+    "data_validation": {
+      "overall_quality_score": 0.8
+    }
+  }
+}

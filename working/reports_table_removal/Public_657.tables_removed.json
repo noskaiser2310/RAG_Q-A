@@ -1,0 +1,187 @@
+{
+  "file": "Public_657.pdf",
+  "config": {
+    "keywords": [
+      "VIETTEL\\s+AI\\s+RACE",
+      "PUBLIC\\s*\\d{1,4}",
+      "LAN\\s+BAN\\s+HANH"
+    ],
+    "min_width_ratio": 0.5,
+    "max_height_ratio": 0.25,
+    "merge_pad": 6,
+    "pad_pts": 12,
+    "veto_threshold": 0.12,
+    "allow_text_fallback": false
+  },
+  "targets": {
+    "0": [
+      [
+        72.02,
+        36.0,
+        508.54,
+        82.68
+      ]
+    ],
+    "1": [
+      [
+        72.02,
+        36.0,
+        508.54,
+        82.68
+      ]
+    ],
+    "2": [
+      [
+        72.02,
+        36.0,
+        508.54,
+        82.68
+      ]
+    ],
+    "3": [
+      [
+        72.02,
+        36.0,
+        508.54,
+        82.68
+      ]
+    ],
+    "4": [
+      [
+        72.02,
+        36.0,
+        508.54,
+        82.68
+      ]
+    ]
+  },
+  "debug": {
+    "0": {
+      "tables": [
+        [
+          72.02,
+          36.0,
+          508.54,
+          82.68
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.02,
+            36.0,
+            508.54,
+            82.68
+          ],
+          "sample_text": "VIETTEL AI RACE TD657 GIAO DIEN MAN HINH CAM UNG E-MULTI LAN BAN HANH: 1"
+        }
+      ]
+    },
+    "1": {
+      "tables": [
+        [
+          72.02,
+          36.0,
+          508.54,
+          82.68
+        ],
+        [
+          109.1,
+          95.18,
+          540.34,
+          191.78
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.02,
+            36.0,
+            508.54,
+            82.68
+          ],
+          "sample_text": "VIETTEL AI RACE TD657 GIAO DIEN MAN HINH CAM UNG E-MULTI LAN BAN HANH: 1"
+        }
+      ]
+    },
+    "2": {
+      "tables": [
+        [
+          72.02,
+          36.0,
+          508.54,
+          82.68
+        ],
+        [
+          108.02,
+          95.18,
+          540.1,
+          148.1
+        ],
+        [
+          126.02,
+          651.46,
+          540.1,
+          705.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.02,
+            36.0,
+            508.54,
+            82.68
+          ],
+          "sample_text": "VIETTEL AI RACE TD657 GIAO DIEN MAN HINH CAM UNG E-MULTI LAN BAN HANH: 1"
+        }
+      ]
+    },
+    "3": {
+      "tables": [
+        [
+          72.02,
+          36.0,
+          508.54,
+          82.68
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.02,
+            36.0,
+            508.54,
+            82.68
+          ],
+          "sample_text": "VIETTEL AI RACE TD657 GIAO DIEN MAN HINH CAM UNG E-MULTI LAN BAN HANH: 1"
+        }
+      ]
+    },
+    "4": {
+      "tables": [
+        [
+          72.02,
+          36.0,
+          508.54,
+          82.68
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.02,
+            36.0,
+            508.54,
+            82.68
+          ],
+          "sample_text": "VIETTEL AI RACE TD657 GIAO DIEN MAN HINH CAM UNG E-MULTI LAN BAN HANH: 1"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "processing_time_sec": 0.21,
+    "pages_affected": 5
+  }
+}

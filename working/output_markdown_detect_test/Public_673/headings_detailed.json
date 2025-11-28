@@ -1,0 +1,47 @@
+[
+  {
+    "text": "1. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ ĐIỆN CHIẾU SÁNG: CÁC LOẠI",
+    "level": 2,
+    "page": 1,
+    "probability": 0.6952807488552541,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ ĐIỆN CHIẾU SÁNG: CÁC LOẠI"
+  },
+  {
+    "text": "Công tắc xoay 4 cực",
+    "level": 4,
+    "page": 2,
+    "probability": 0.4817915802104296,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Công tắc xoay 4 cực"
+  },
+  {
+    "text": "2. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ ĐIỆN CHIẾU SÁNG: CÁC LOẠI",
+    "level": 2,
+    "page": 4,
+    "probability": 0.7341117050993484,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ ĐIỆN CHIẾU SÁNG: CÁC LOẠI"
+  },
+  {
+    "text": "3. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ CUNG CẤP ĐIỆN",
+    "level": 1,
+    "page": 6,
+    "probability": 0.5865346963171681,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ CUNG CẤP ĐIỆN"
+  },
+  {
+    "text": "Tên gọi",
+    "level": 3,
+    "page": 6,
+    "probability": 0.5234342284696731,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Tên gọi"
+  }
+]

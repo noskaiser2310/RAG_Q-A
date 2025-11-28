@@ -1,0 +1,114 @@
+[
+    {
+        "prefix": "•",
+        "text": "Vẽ các ký hiệu phòng ốc và mặt bằng xây dựng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 11,
+        "bbox": [
+            108.0199966430664,
+            426.1626281738281,
+            369.78997802734375,
+            440.50933837890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Ghi chú",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 14,
+        "bbox": [
+            77.78399658203125,
+            494.0826416015625,
+            517.4199829101562,
+            508.4293518066406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Ghi chú",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 0,
+        "bbox": [
+            77.78399658203125,
+            111.232666015625,
+            517.4199829101562,
+            125.57939147949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Ghi chú",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 0,
+        "bbox": [
+            77.78399658203125,
+            111.232666015625,
+            517.4199829101562,
+            125.57939147949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Ghi chú",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 1,
+        "bbox": [
+            85.2239990234375,
+            133.5526123046875,
+            518.1400146484375,
+            147.8993377685547
+        ]
+    },
+    {
+        "prefix": "2 Dòng điện xoay chiều AC;",
+        "text": "~",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            380.8299865722656,
+            189.95263671875,
+            390.30999755859375,
+            204.2993621826172
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Các loại đèn điện và thiết bị dùng điện",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 42,
+        "bbox": [
+            108.0199966430664,
+            643.2726440429688,
+            322.3699951171875,
+            657.619384765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên gọi Ký hiệu Trên sơ đồ nguyên lí Trên sơ đồ vị trí",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            126.9800033569336,
+            111.11260986328125,
+            515.260009765625,
+            148.37937927246094
+        ]
+    }
+]

@@ -1,0 +1,720 @@
+{
+  "file": "Public_650.pdf",
+  "config": {
+    "keywords": [
+      "VIETTEL\\s+AI\\s+RACE",
+      "PUBLIC\\s*\\d{1,4}",
+      "LAN\\s+BAN\\s+HANH"
+    ],
+    "min_width_ratio": 0.5,
+    "max_height_ratio": 0.25,
+    "merge_pad": 6,
+    "pad_pts": 12,
+    "veto_threshold": 0.12,
+    "allow_text_fallback": false
+  },
+  "targets": {
+    "0": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "1": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "2": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "3": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "4": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "5": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "6": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "7": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "8": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "9": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "10": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "11": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "12": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "13": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "14": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "15": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "16": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "17": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "18": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "19": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "20": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "21": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "22": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ],
+    "23": [
+      [
+        72.0,
+        50.64,
+        720.1,
+        117.98
+      ]
+    ]
+  },
+  "debug": {
+    "0": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "1": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "2": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "3": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "4": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "5": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "6": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "7": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "8": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "9": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "10": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "11": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "12": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "13": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "14": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "15": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "16": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "17": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "18": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "19": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "20": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "21": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "22": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    },
+    "23": {
+      "tables": [
+        [
+          72.0,
+          50.64,
+          720.1,
+          117.98
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            50.64,
+            720.1,
+            117.98
+          ],
+          "sample_text": "VIETTEL AI RACE TD650 DANH MUC MAY MOC, THIET BI, NGUYEN LIEU, VAT TU, LINH KIEN NGANH VIEN THONG - CONG NGHE THONG TIN,"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "processing_time_sec": 0.84,
+    "pages_affected": 24
+  }
+}

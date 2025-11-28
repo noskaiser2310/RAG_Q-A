@@ -1,0 +1,29 @@
+[
+  {
+    "text": "1. BÀN DI CHUỘT",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9018082360423897,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. BÀN DI CHUỘT"
+  },
+  {
+    "text": "4. PHÍM ĐẶC BIỆT",
+    "level": 2,
+    "page": 4,
+    "probability": 0.7536804512171776,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "4. PHÍM ĐẶC BIỆT"
+  },
+  {
+    "text": "5. PHÍM THAO TÁC",
+    "level": 2,
+    "page": 6,
+    "probability": 0.9090296143269407,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "5. PHÍM THAO TÁC"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Cửa sổ khung thép sơn tĩnh điện sần ngoài trời",
+    "level": 1,
+    "page": 6,
+    "probability": 0.8281305206652326,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cửa sổ khung thép sơn tĩnh điện sần ngoài trời"
+  },
+  {
+    "text": "Thanh nhôm định hình",
+    "level": 1,
+    "page": 17,
+    "probability": 0.9143105290125191,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Thanh nhôm định hình"
+  },
+  {
+    "text": "Cửa cuốn",
+    "level": 1,
+    "page": 37,
+    "probability": 0.5665516933651901,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cửa cuốn"
+  },
+  {
+    "text": "Phụ kiện",
+    "level": 1,
+    "page": 43,
+    "probability": 0.7758779654212384,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Phụ kiện"
+  },
+  {
+    "text": "Khung cửa gỗ nhóm IV,V",
+    "level": 1,
+    "page": 45,
+    "probability": 0.6922949683624613,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Khung cửa gỗ nhóm IV,V"
+  },
+  {
+    "text": "Cánh cửa gỗ nhóm II ( dày 4 cm)",
+    "level": 1,
+    "page": 45,
+    "probability": 0.8586576657273725,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cánh cửa gỗ nhóm II ( dày 4 cm)"
+  },
+  {
+    "text": "Cánh cửa gỗ nhóm IV,V ( dày 4 cm)",
+    "level": 1,
+    "page": 46,
+    "probability": 0.6017401085321112,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cánh cửa gỗ nhóm IV,V ( dày 4 cm)"
+  },
+  {
+    "text": "Nẹp khuôn, tay vịn lan can",
+    "level": 1,
+    "page": 46,
+    "probability": 0.8897592956001429,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Nẹp khuôn, tay vịn lan can"
+  }
+]

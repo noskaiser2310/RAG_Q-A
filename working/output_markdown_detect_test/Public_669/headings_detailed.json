@@ -1,0 +1,29 @@
+[
+  {
+    "text": "1. Phạm vi áp dụng",
+    "level": 2,
+    "page": 1,
+    "probability": 0.8205295988698876,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. Phạm vi áp dụng"
+  },
+  {
+    "text": "2. Ký hiệu lỗ trống",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9237672869149911,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. Ký hiệu lỗ trống"
+  },
+  {
+    "text": "3. Ký hiệu cửa sổ",
+    "level": 2,
+    "page": 1,
+    "probability": 0.8363244475207474,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. Ký hiệu cửa sổ"
+  }
+]

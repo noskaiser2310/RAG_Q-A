@@ -1,0 +1,19 @@
+{
+  "high_confidence_samples": [
+    {
+      "text": "Xác suất thống kê và ứng dụng",
+      "true_label": 3,
+      "predicted_label": 3,
+      "confidence": 0.999955367864949,
+      "is_correct": true
+    }
+  ],
+  "low_confidence_samples": [],
+  "potential_misclassifications": [],
+  "pattern_analysis": {
+    "true_positives": 0,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "pattern_examples": []
+  }
+}

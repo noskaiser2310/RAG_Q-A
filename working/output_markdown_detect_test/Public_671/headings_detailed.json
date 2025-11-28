@@ -1,0 +1,38 @@
+[
+  {
+    "text": "1. GIỚI THIỆU",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9484744564509463,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. GIỚI THIỆU"
+  },
+  {
+    "text": "2. MỤC TIÊU",
+    "level": 1,
+    "page": 1,
+    "probability": 0.5600769164398756,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. MỤC TIÊU"
+  },
+  {
+    "text": "3. MỘT SỐ KÍ HIỆU QUY ƯỚC TRONG BẢN VẼ SƠ ĐỒ HỆ THỐNG ĐIỆN:",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9328602889213263,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. MỘT SỐ KÍ HIỆU QUY ƯỚC TRONG BẢN VẼ SƠ ĐỒ HỆ THỐNG ĐIỆN:"
+  },
+  {
+    "text": "4. CÁC LOẠI SƠ ĐỒ ĐIỆN:",
+    "level": 2,
+    "page": 3,
+    "probability": 0.9732916015445223,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "4. CÁC LOẠI SƠ ĐỒ ĐIỆN:"
+  }
+]

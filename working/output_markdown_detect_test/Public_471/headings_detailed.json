@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Mật độ quang học",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9989453037017734,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Mật độ quang học"
+  },
+  {
+    "text": "Ngoại quan",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9989166892205085,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Ngoại quan"
+  },
+  {
+    "text": "Độ bền ánh sáng",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9984192806659471,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Độ bền ánh sáng"
+  },
+  {
+    "text": "Độ bền nước",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9989049649577728,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Độ bền nước"
+  },
+  {
+    "text": "Chuyển bản ghi",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9992457896375831,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Chuyển bản ghi"
+  },
+  {
+    "text": "Độ bền mài mòn",
+    "level": 1,
+    "page": 4,
+    "probability": 0.9984567183052508,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Độ bền mài mòn"
+  },
+  {
+    "text": "Độ bền nhiệt",
+    "level": 1,
+    "page": 4,
+    "probability": 0.9980058193821286,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Độ bền nhiệt"
+  },
+  {
+    "text": "Ảnh hưởng của việc ghi đến độ bền cơ học của giấy",
+    "level": 1,
+    "page": 5,
+    "probability": 0.9984573372028932,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Ảnh hưởng của việc ghi đến độ bền cơ học của giấy"
+  },
+  {
+    "text": "Sự hấp thụ năng lượng độ bền kéo",
+    "level": 1,
+    "page": 5,
+    "probability": 0.9983854206694297,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Sự hấp thụ năng lượng độ bền kéo"
+  },
+  {
+    "text": "10. Độ bền gấp",
+    "level": 1,
+    "page": 5,
+    "probability": 0.7187860623595687,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "10. Độ bền gấp"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "text": "1. Thanh trên cùng – Hiển thị trạng thái",
+    "level": 1,
+    "page": 1,
+    "probability": 0.4966868464424264,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. Thanh trên cùng – Hiển thị trạng thái"
+  },
+  {
+    "text": "2. Các biểu tượng chuyển động hiện hoạt",
+    "level": 2,
+    "page": 2,
+    "probability": 0.8566050792645361,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. Các biểu tượng chuyển động hiện hoạt"
+  },
+  {
+    "text": "3. Biểu tượng trạng thái",
+    "level": 2,
+    "page": 3,
+    "probability": 0.894461536587182,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. Biểu tượng trạng thái"
+  },
+  {
+    "text": "4. Thanh dưới cùng, các nút điều hướng màn hình",
+    "level": 2,
+    "page": 3,
+    "probability": 0.8268823942425894,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "4. Thanh dưới cùng, các nút điều hướng màn hình"
+  }
+]

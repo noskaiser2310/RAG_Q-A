@@ -1,0 +1,534 @@
+[
+    {
+        "prefix": "",
+        "text": "1. CÁC PHIÊN BẢN HỆ ĐIỀU HÀNH WINDOWS STT Hệ điều hành Tên hệ điều hành",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 2,
+        "bbox": [
+            90.02400207519531,
+            139.99998474121094,
+            491.739990234375,
+            187.89198303222656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trên màn hình destop, bạn sẽ thường thấy",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 1,
+        "bbox": [
+            90.02400207519531,
+            122.16798400878906,
+            310.010009765625,
+            135.4519805908203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Một vài cách tận dụng hiệu quả Taskbar",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            90.02400207519531,
+            315.51800537109375,
+            300.1700134277344,
+            328.802001953125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 1",
+        "suffix": "Chọn biểu tượng Windows hoặc nút Start (bắt đầu)",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 1,
+        "bbox": [
+            83.78399658203125,
+            134.6480255126953,
+            122.9000015258789,
+            147.93202209472656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 2",
+        "suffix": "Tìm biểu biểu tượng hình răng cưa nhỏ và nhấp chuột vào biểu tượng",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 3,
+        "bbox": [
+            83.78399658203125,
+            200.52796936035156,
+            122.9000015258789,
+            213.8119659423828
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 3",
+        "suffix": "Cửa sổ cài dặt hệ thống sẽ được hiển thị để bạn lựa chọn",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 5,
+        "bbox": [
+            83.78399658203125,
+            286.8380126953125,
+            122.9000015258789,
+            300.12200927734375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 4",
+        "suffix": "Nhấp chuột vào Hệ thống (System)",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 6,
+        "bbox": [
+            83.78399658203125,
+            337.2380065917969,
+            122.9000015258789,
+            350.5220031738281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 5",
+        "suffix": "Nhấp chuột vào mục Hiển thị (Display)",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 7,
+        "bbox": [
+            83.78399658203125,
+            387.63800048828125,
+            122.9000015258789,
+            400.9219970703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 6",
+        "suffix": "Lựa chọn tính năng hiển thị",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 8,
+        "bbox": [
+            83.78399658203125,
+            438.1780090332031,
+            122.9000015258789,
+            451.4620056152344
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Một số tính năng hiển thị",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 10,
+        "bbox": [
+            108.0199966430664,
+            507.4179992675781,
+            240.0500030517578,
+            520.7019653320312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Minh hoạ Tên gọi Mô tả 1",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 12,
+        "bbox": [
+            101.30000305175781,
+            557.8179931640625,
+            462.4599914550781,
+            621.531982421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Brightness:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 12,
+        "bbox": [
+            248.4499969482422,
+            608.2479858398438,
+            313.1300048828125,
+            621.531982421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Night light:",
+        "suffix": "Ánh sáng ban đêm",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 9,
+        "bbox": [
+            248.4499969482422,
+            466.3780212402344,
+            314.73760986328125,
+            479.6620178222656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 11,
+        "bbox": [
+            109.58000183105469,
+            592.8880004882812,
+            118.58000183105469,
+            606.1719970703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Scale:",
+        "suffix": "Tăng giảm kích cỡ của ký tự, biểu tượng ứng dụng và các mục khác",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 13,
+        "bbox": [
+            248.4499969482422,
+            592.8880004882812,
+            283.1494140625,
+            606.1719970703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 2,
+        "bbox": [
+            109.58000183105469,
+            191.04798889160156,
+            118.58000183105469,
+            204.3319854736328
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Display resolution:",
+        "suffix": "Chỉnh sửa độ phân giải màn hình phù hợp với kích cỡ của thiết bị",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 4,
+        "bbox": [
+            248.4499969482422,
+            191.04798889160156,
+            308.25762939453125,
+            222.2119903564453
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "5",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 8,
+        "bbox": [
+            109.58000183105469,
+            407.0780029296875,
+            118.58000183105469,
+            420.36199951171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Display orientation:",
+        "suffix": "Tính năng xoay màn hình",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 10,
+        "bbox": [
+            248.4499969482422,
+            407.0780029296875,
+            307.8860168457031,
+            438.26202392578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4. CÀI ĐẶT NGÀY GIỜ  VÀ NGÔN NGỮ HIỂN THỊ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 13,
+        "bbox": [
+            90.02400207519531,
+            585.0400390625,
+            376.6300048828125,
+            598.4920043945312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Minh họa Tên gọi Mô tả 1",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 2,
+        "bbox": [
+            96.74400329589844,
+            134.6480255126953,
+            437.4700012207031,
+            198.3319854736328
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Date & Time",
+        "suffix": "(ngày và giờ)",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 4,
+        "bbox": [
+            205.00999450683594,
+            185.04798889160156,
+            279.67401123046875,
+            198.3319854736328
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cài đặt ngày giờ tự động",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 5,
+        "bbox": [
+            304.25,
+            185.04798889160156,
+            434.1099853515625,
+            198.3319854736328
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cài đặt ngày giờ thủ công",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 8,
+        "bbox": [
+            304.25,
+            422.4580078125,
+            439.0299987792969,
+            435.74200439453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 2,
+        "bbox": [
+            105.0199966430664,
+            226.92799377441406,
+            114.0199966430664,
+            240.2119903564453
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Language & Region",
+        "suffix": "(Ngôn ngữ và khu vực)",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 4,
+        "bbox": [
+            205.00999450683594,
+            226.92799377441406,
+            296.4019775390625,
+            258.1220397949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 2,
+        "bbox": [
+            105.0199966430664,
+            191.04798889160156,
+            114.0199966430664,
+            204.3319854736328
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Country or Region:",
+        "suffix": "(Quốc",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 5,
+        "bbox": [
+            205.00999450683594,
+            191.27264404296875,
+            296.69000244140625,
+            225.0593719482422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4 Regional format",
+        "suffix": "Lựa chọn tiếng Việt (Vietnamese (Vietnam))",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 10,
+        "bbox": [
+            105.0199966430664,
+            301.2380065917969,
+            296.69000244140625,
+            315.8093566894531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 1: Mở Microsoft Store",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 3,
+        "bbox": [
+            90.02400207519531,
+            172.79266357421875,
+            240.77000427246094,
+            187.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 2",
+        "suffix": ": Tìm kiếm ứng dụng: Nhập tên ứng dụng bạn muốn tìm kiếm vào thanh tìm kiếm ở đầu màn hình.",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 5,
+        "bbox": [
+            90.02400207519531,
+            251.66265869140625,
+            127.81999969482422,
+            266.0093688964844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 3",
+        "suffix": ": Chọn ứng dụng: Khi bạn tìm thấy ứng dụng bạn muốn, hãy nhấp vào nó.",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 6,
+        "bbox": [
+            90.02400207519531,
+            310.462646484375,
+            128.05999755859375,
+            324.8093566894531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 4",
+        "suffix": ": Nhấp vào Nhận hoặc Cài đặt: Giá của ứng dụng sẽ được hiển thị ở đây. Nếu",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 7,
+        "bbox": [
+            90.02400207519531,
+            349.942626953125,
+            127.46576690673828,
+            364.2893371582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 5",
+        "suffix": ": Làm theo hướng dẫn: Sau khi tải xuống, ứng dụng sẽ tự động cài đặt. Bạn",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 10,
+        "bbox": [
+            90.02400207519531,
+            428.20263671875,
+            127.46576690673828,
+            442.5493469238281
+        ]
+    },
+    {
+        "prefix": "-",
+        "text": "Tải xuống tệp cài đặt:",
+        "suffix": "Truy cập trang web của nhà phát triển ứng dụng và tải",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 14,
+        "bbox": [
+            108.0199966430664,
+            572.922607421875,
+            228.41000366210938,
+            587.2693481445312
+        ]
+    },
+    {
+        "prefix": "-",
+        "text": "Chạy tệp cài đặt",
+        "suffix": ": Nhấp đúp vào tệp cài đặt đã tải xuống.",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 17,
+        "bbox": [
+            108.0199966430664,
+            631.2726440429688,
+            194.66287231445312,
+            645.619384765625
+        ]
+    },
+    {
+        "prefix": "-",
+        "text": "Làm theo hướng dẫn",
+        "suffix": ": Trình cài đặt sẽ hướng dẫn bạn qua quy trình cài đặt.",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 18,
+        "bbox": [
+            108.0199966430664,
+            650.712646484375,
+            218.92999267578125,
+            665.0593872070312
+        ]
+    },
+    {
+        "prefix": "-",
+        "text": "Hoàn tất cài đặt",
+        "suffix": ": Khi cài đặt hoàn tất, bạn có thể khởi động ứng dụng từ menu",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 1,
+        "bbox": [
+            108.0199966430664,
+            122.39263916015625,
+            193.702880859375,
+            136.73936462402344
+        ]
+    }
+]

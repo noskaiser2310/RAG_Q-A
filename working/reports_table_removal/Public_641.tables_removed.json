@@ -1,0 +1,1329 @@
+{
+  "file": "Public_641.pdf",
+  "config": {
+    "keywords": [
+      "VIETTEL\\s+AI\\s+RACE",
+      "PUBLIC\\s*\\d{1,4}",
+      "LAN\\s+BAN\\s+HANH"
+    ],
+    "min_width_ratio": 0.5,
+    "max_height_ratio": 0.25,
+    "merge_pad": 6,
+    "pad_pts": 12,
+    "veto_threshold": 0.12,
+    "allow_text_fallback": false
+  },
+  "targets": {
+    "0": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "1": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "2": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "3": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "4": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "5": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "6": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "7": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "8": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "9": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "10": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "11": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "12": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "13": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "14": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "15": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "16": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "17": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "18": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "19": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "20": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "21": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "22": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "23": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "24": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "25": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "26": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "27": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "28": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "29": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "30": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "31": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "32": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "33": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "34": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "35": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "36": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "37": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "38": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "39": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "40": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "41": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "42": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "43": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ],
+    "44": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        118.22
+      ]
+    ]
+  },
+  "debug": {
+    "0": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "1": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "2": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "3": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "4": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "5": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "6": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "7": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "8": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "9": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "10": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "11": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "12": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "13": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "14": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "15": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "16": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "17": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "18": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "19": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "20": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "21": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "22": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "23": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "24": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "25": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "26": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "27": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "28": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "29": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "30": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "31": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "32": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "33": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "34": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "35": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "36": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "37": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "38": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "39": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "40": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "41": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "42": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "43": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    },
+    "44": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          118.22
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            118.22
+          ],
+          "sample_text": "VIETTEL AI RACE TD641 GIA VAT LIEU XAY DUNG THANG 4 NAM 2025 TREN ĐIA BAN TINH LANG SON: ĐA XAY DUNG, GACH XAY DUNG, CAT"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "processing_time_sec": 4.8,
+    "pages_affected": 45
+  }
+}

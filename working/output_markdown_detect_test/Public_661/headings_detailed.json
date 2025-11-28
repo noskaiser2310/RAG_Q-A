@@ -1,0 +1,20 @@
+[
+  {
+    "text": "1. Màn hình cài đặt (Cấp độ giám sát)",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9745210319270241,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. Màn hình cài đặt (Cấp độ giám sát)"
+  },
+  {
+    "text": "2. Màn hình cài đặt cửa van",
+    "level": 2,
+    "page": 4,
+    "probability": 0.9785240174401795,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. Màn hình cài đặt cửa van"
+  }
+]

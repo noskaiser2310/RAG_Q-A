@@ -1,0 +1,6652 @@
+[
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VIII Hệ thống cửa đi, cửa sổ, vách kính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 15,
+        "bbox": [
+            50.880001068115234,
+            154.6533203125,
+            221.62998962402344,
+            165.14768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7,1 Công ty TNHH MTV Xây dựng và TM Cửa Việt",
+        "suffix": "(Địa chỉ: Số 04, phố Tinh Dầu, phường Vĩnh Trại, tp Lạng Sơn)",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 15,
+        "bbox": [
+            53.880001068115234,
+            168.21331787109375,
+            279.458251953125,
+            178.7076873779297
+        ]
+    },
+    {
+        "prefix": "(Địa chỉ: Số 04, phố Tinh Dầu, phường Vĩnh Trại, tp Lạng Sơn)",
+        "text": "* CỬA NHÔM CAO CẤP HỆ FRAVI XINGFA ( * Nhôm sơn tĩnh điện màu : Nâu café ; ghi ; trắng* Độ dày nhôm hệ 1.0mm* Độ dày kính 5mm)",
+        "suffix": "333 Cửa sổ 1 cánh Mở quay ra ngoài, hệ thanh sử dụng HXF",
+        "style": "bold_italic",
+        "page_num": 1,
+        "block_num": 15,
+        "bbox": [
+            57.47999954223633,
+            181.6533203125,
+            604.56494140625,
+            203.09767150878906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 19,
+        "bbox": [
+            549.6699829101562,
+            204.00332641601562,
+            619.37646484375,
+            258.29766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 25,
+        "bbox": [
+            549.6699829101562,
+            280.5633239746094,
+            619.37646484375,
+            334.7576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            357.0233154296875,
+            619.37646484375,
+            411.31768798828125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            433.58331298828125,
+            619.37646484375,
+            487.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 19,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.37646484375,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 25,
+        "bbox": [
+            549.6699829101562,
+            231.24331665039062,
+            619.37646484375,
+            285.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            307.6833190917969,
+            619.37646484375,
+            361.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            384.2633361816406,
+            619.37646484375,
+            438.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            460.7333068847656,
+            619.37646484375,
+            514.9036865234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 19,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.37646484375,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 25,
+        "bbox": [
+            549.6699829101562,
+            231.24331665039062,
+            619.37646484375,
+            285.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            307.6833190917969,
+            619.37646484375,
+            361.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            384.2633361816406,
+            619.37646484375,
+            438.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            460.7333068847656,
+            619.37646484375,
+            514.9036865234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 19,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.37646484375,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 25,
+        "bbox": [
+            549.6699829101562,
+            231.24331665039062,
+            619.37646484375,
+            285.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            307.6833190917969,
+            619.37646484375,
+            361.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            384.2633361816406,
+            619.37646484375,
+            438.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            460.7333068847656,
+            619.37646484375,
+            514.9036865234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 19,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.37646484375,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 25,
+        "bbox": [
+            549.6699829101562,
+            231.24331665039062,
+            619.37646484375,
+            285.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            307.6833190917969,
+            619.37646484375,
+            361.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại thành phố Lạng Sơn đã bao gồm chi phí vận chuyển đến chân công trình",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 35,
+        "bbox": [
+            549.6699829101562,
+            370.70330810546875,
+            619.37646484375,
+            424.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Sử dụng kính đơn dày 8mm cộng thêm 120.000 đồng/m2 - Sử dụng kính đơn dày 6,38mm cộng thêm 180.000 đồng/m2 - Cửa nhôm có chia ô trên cánh công thêm 200.00 đồng/m2",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 39,
+        "bbox": [
+            79.80000305175781,
+            433.70330810546875,
+            314.05999755859375,
+            471.2276611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8,1",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 39,
+        "bbox": [
+            53.880001068115234,
+            474.2933044433594,
+            68.1300048828125,
+            484.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa thép",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 5,
+        "block_num": 39,
+        "bbox": [
+            79.80000305175781,
+            474.2933044433594,
+            118.25088500976562,
+            484.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "(Công ty TNHH thiết bị Bảo Minh An)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 39,
+        "bbox": [
+            118.33999633789062,
+            474.2933044433594,
+            275.1960754394531,
+            484.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Văn phòng đại diện tại Lạng Sơn: số 98, đường Bắc Sơn, thị trấn Hữu Lũng, huyện Hữu Lũng, tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 40,
+        "bbox": [
+            79.80000305175781,
+            487.7333068847656,
+            498.2799987792969,
+            498.2276611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cửa đi khung thép sơn tĩnh điện sần ngoài trời",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 5,
+        "block_num": 40,
+        "bbox": [
+            57.47999954223633,
+            501.2933044433594,
+            266.7799987792969,
+            511.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 23,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cửa sổ khung thép sơn tĩnh điện sần ngoài trời",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 6,
+        "block_num": 25,
+        "bbox": [
+            57.47999954223633,
+            198.84332275390625,
+            267.8599853515625,
+            209.3376922607422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 34,
+        "bbox": [
+            549.6699829101562,
+            212.4033203125,
+            619.8504638671875,
+            255.6576690673828
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 44,
+        "bbox": [
+            549.6699829101562,
+            256.5633239746094,
+            619.8504638671875,
+            299.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Kính cường lực 5mm thì đơn giá tăng them 120.000 đồng/m2",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 46,
+        "bbox": [
+            79.80000305175781,
+            300.84332275390625,
+            320.6600036621094,
+            311.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8,2",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 46,
+        "bbox": [
+            53.880001068115234,
+            314.2833251953125,
+            68.1300048828125,
+            324.7776794433594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa kính khung nhôm (Công ty Cổ phần tập đoàn AUSDOOR)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 6,
+        "block_num": 46,
+        "bbox": [
+            79.80000305175781,
+            314.2833251953125,
+            331.2200012207031,
+            324.7776794433594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Địa chỉ: Số 37 đường Lê văn Thiêm, phường Nhân Chính, quận Thanh Xuân, HN",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 47,
+        "bbox": [
+            79.80000305175781,
+            327.8633117675781,
+            391.6999816894531,
+            338.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cửa nhôm sơn tĩnh điện (Topal Prima) - (Khung cửa đi(55x65,5)mm dày 2mm; Khung cửa sổ (55x48,5)mm dày 1,4mm; Khung cửa lùa (58,2x48)mm dày 1,6mm. Gioăng EPDM và phụ kiện đồng bộ. Kính dán an toàn dày 8,38mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 6,
+        "block_num": 47,
+        "bbox": [
+            57.47999954223633,
+            341.3033142089844,
+            716.6853637695312,
+            362.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 55,
+        "bbox": [
+            549.6699829101562,
+            363.6233215332031,
+            619.8504638671875,
+            406.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 65,
+        "bbox": [
+            549.6699829101562,
+            407.9033203125,
+            619.8504638671875,
+            451.15765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 74,
+        "bbox": [
+            549.6699829101562,
+            452.0932922363281,
+            619.8504638671875,
+            495.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 83,
+        "bbox": [
+            549.6699829101562,
+            496.2533264160156,
+            619.8504638671875,
+            539.503662109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 40,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 49,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 58,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 67,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 76,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Gía bổ sung với các mầu xám đá, ghi ánh kim",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            464.0932922363281,
+            262.5799865722656,
+            474.587646484375
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "- Giá bổ sung với mầu vân gỗ",
+        "suffix": "300,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            477.6533203125,
+            195.22999572753906,
+            488.1476745605469
+        ]
+    },
+    {
+        "prefix": "300,000",
+        "text": "- Giá bổ sung khi dùng khung bao 11cm",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            491.09332275390625,
+            234.70999145507812,
+            501.5876770019531
+        ]
+    },
+    {
+        "prefix": "200,000",
+        "text": "- Giá bổ sung khi dùng kính dán an toàn 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            504.6493225097656,
+            273.6199951171875,
+            515.1436767578125
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "* Cửa nhôm sơn tĩnh điện (Topal Slima) - (Cửa đi, cửa sổ: Khung (47,5x52,2)mm dày 1,1mm; cửa lùa: Khung (47,5x87)mm dày 1,1mm. Gioăng EPDM và phụ kiện đồng bộ. Kính dán an toàn dày 6,38mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 7,
+        "block_num": 78,
+        "bbox": [
+            57.47999954223633,
+            518.08935546875,
+            742.5250244140625,
+            539.503662109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 32,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 41,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 50,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 59,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 68,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 77,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 86,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            619.8504638671875,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 40,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Gía bổ sung với các mầu xám đá, ghi ánh kim",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 42,
+        "bbox": [
+            79.80000305175781,
+            287.2833251953125,
+            262.5799865722656,
+            297.7776794433594
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "- Giá bổ sung với mầu vân gỗ",
+        "suffix": "300,000",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 42,
+        "bbox": [
+            79.80000305175781,
+            300.84332275390625,
+            195.22999572753906,
+            311.3376770019531
+        ]
+    },
+    {
+        "prefix": "300,000",
+        "text": "- Giá bổ sung khi dùng khung bao 11cm",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 42,
+        "bbox": [
+            79.80000305175781,
+            314.2833251953125,
+            234.70999145507812,
+            324.7776794433594
+        ]
+    },
+    {
+        "prefix": "200,000",
+        "text": "- Giá bổ sung khi dùng kính dán an toàn 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 42,
+        "bbox": [
+            79.80000305175781,
+            327.8633117675781,
+            273.6199951171875,
+            338.357666015625
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "* Cửa nhôm sơn tĩnh điện (Topal Slima) - (Cửa đi, cửa sổ: Khung (47,5x52,2)mm dày 1,1mm; cửa lùa: Khung (47,5x87)mm dày 1,1mm. Gioăng EPDM và phụ kiện đồng bộ. Kính dán an toàn dày 6,38mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 9,
+        "block_num": 42,
+        "bbox": [
+            57.47999954223633,
+            341.3033142089844,
+            610.6652221679688,
+            373.6376647949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 51,
+        "bbox": [
+            549.6699829101562,
+            374.5433044433594,
+            619.8504638671875,
+            417.79766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 61,
+        "bbox": [
+            549.6699829101562,
+            418.8233337402344,
+            619.8504638671875,
+            462.107666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 70,
+        "bbox": [
+            549.6699829101562,
+            463.0133361816406,
+            619.8504638671875,
+            506.2676696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 40,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 49,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 58,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 67,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung với mầu vân gỗ",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 69,
+        "bbox": [
+            79.80000305175781,
+            419.9033203125,
+            195.22999572753906,
+            430.3976745605469
+        ]
+    },
+    {
+        "prefix": "200,000",
+        "text": "- Giá bổ sung khi dùng khung bao 10cm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 69,
+        "bbox": [
+            79.80000305175781,
+            433.3432922363281,
+            234.70999145507812,
+            443.837646484375
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "- Giá bổ sung khi dùng khóa đa điểm",
+        "suffix": "50,000",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 69,
+        "bbox": [
+            79.80000305175781,
+            446.9333190917969,
+            223.0699920654297,
+            457.42767333984375
+        ]
+    },
+    {
+        "prefix": "50,000",
+        "text": "- Giá bổ sung khi dùng kính dán an toàn 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 69,
+        "bbox": [
+            79.80000305175781,
+            460.3733215332031,
+            268.82000732421875,
+            470.86767578125
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "* Cửa nhôm sơn tĩnh điện (Topal XFAD) - (Cửa đi: Khung (54,8x66)mm dày 2mm; Cửa sổ: Khung (54,8x50)mm dày 1,4mm; cửa lùa: Khung (54,8x76)mm dày 1,4mm. Gioăng EPDM và phụ kiện đồng bộ. Kính dán an toàn dày 6,38mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 10,
+        "block_num": 69,
+        "bbox": [
+            57.47999954223633,
+            473.9333190917969,
+            603.2623291015625,
+            495.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 77,
+        "bbox": [
+            549.6699829101562,
+            496.2533264160156,
+            619.8504638671875,
+            539.503662109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 23,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 32,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 41,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 50,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 59,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 68,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 77,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 86,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            619.8504638671875,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Gía bổ sung với các mầu xám đá",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 33,
+        "bbox": [
+            79.80000305175781,
+            243.12332153320312,
+            212.8699951171875,
+            253.61769104003906
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "- Giá bổ sung với mầu vân gỗ",
+        "suffix": "300,000",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 33,
+        "bbox": [
+            79.80000305175781,
+            256.5633239746094,
+            195.22999572753906,
+            267.05767822265625
+        ]
+    },
+    {
+        "prefix": "300,000",
+        "text": "- Giá bổ sung khi dùng kính dán an toàn 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 33,
+        "bbox": [
+            79.80000305175781,
+            270.1233215332031,
+            268.82000732421875,
+            280.61767578125
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "- Giá bổ sung khi dùng kính dán an toàn 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 33,
+        "bbox": [
+            79.80000305175781,
+            283.5633239746094,
+            273.6199951171875,
+            294.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện (Topal XFEC) -  (Cửa đi: Khung (54,8x66)mm dày 1,2mm; Cửa sổ: Khung (54,8x50)mm dày 1,2mm; cửa lùa: Khung (54,8x76)mm dày 1,2mm. Gioăng EPDM và phụ kiện đồng bộ. Kính dán an toàn dày 6,38mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 12,
+        "block_num": 34,
+        "bbox": [
+            79.80000305175781,
+            297.1233215332031,
+            612.2354125976562,
+            318.53765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 42,
+        "bbox": [
+            549.6699829101562,
+            319.46331787109375,
+            619.8504638671875,
+            362.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 52,
+        "bbox": [
+            549.6699829101562,
+            363.6233215332031,
+            619.8504638671875,
+            406.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 61,
+        "bbox": [
+            549.6699829101562,
+            407.9033203125,
+            619.8504638671875,
+            451.15765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 70,
+        "bbox": [
+            549.6699829101562,
+            452.0932922363281,
+            619.8504638671875,
+            495.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 79,
+        "bbox": [
+            549.6699829101562,
+            496.2533264160156,
+            619.8504638671875,
+            539.503662109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 40,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 49,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung với mầu vân gỗ",
+        "suffix": "300,000",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 51,
+        "bbox": [
+            79.80000305175781,
+            331.46331787109375,
+            195.22999572753906,
+            341.9576721191406
+        ]
+    },
+    {
+        "prefix": "300,000",
+        "text": "- Giá bổ sung khi dùng kính dán an toàn 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 51,
+        "bbox": [
+            79.80000305175781,
+            345.0233154296875,
+            268.82000732421875,
+            355.5176696777344
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "* Cửa nhôm sơn tĩnh điện (Topal mặt dựng) - (khung Dày 2,5mm. Kính dán an toàn dày 8,38mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 13,
+        "block_num": 51,
+        "bbox": [
+            57.47999954223633,
+            358.46331787109375,
+            462.1600036621094,
+            368.9576721191406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 60,
+        "bbox": [
+            549.6699829101562,
+            372.0233154296875,
+            619.8504638671875,
+            415.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 70,
+        "bbox": [
+            549.6699829101562,
+            416.1833190917969,
+            619.8504638671875,
+            459.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung khi dùng kính an toán 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 72,
+        "bbox": [
+            79.80000305175781,
+            460.3733215332031,
+            256.94000244140625,
+            470.86767578125
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "* Cửa nhôm sơn tĩnh điện (Topal thủy lực) - (Dày 2mm. Gioăng EPDM và phụ kiện đồng bộ. Kính hộp dày 19mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 13,
+        "block_num": 72,
+        "bbox": [
+            57.47999954223633,
+            473.9333190917969,
+            528.4000244140625,
+            484.42767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 80,
+        "bbox": [
+            549.6699829101562,
+            487.3733215332031,
+            619.8504638671875,
+            530.74365234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 32,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung khi dùng kính hộp 21mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 34,
+        "bbox": [
+            79.80000305175781,
+            243.12332153320312,
+            230.50999450683594,
+            253.61769104003906
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "- Giá bổ sung mầu xám đá",
+        "suffix": "150,000",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 34,
+        "bbox": [
+            79.80000305175781,
+            256.5633239746094,
+            182.989990234375,
+            267.05767822265625
+        ]
+    },
+    {
+        "prefix": "150,000",
+        "text": "- Giá bổ sung mầu vân gỗ",
+        "suffix": "350,000",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 34,
+        "bbox": [
+            79.80000305175781,
+            270.1233215332031,
+            180.8300018310547,
+            280.61767578125
+        ]
+    },
+    {
+        "prefix": "350,000",
+        "text": "8,3",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 34,
+        "bbox": [
+            53.880001068115234,
+            283.5633239746094,
+            68.1300048828125,
+            294.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa kính khung nhôm (Công ty TNHH Huihuang Việt Nam)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 14,
+        "block_num": 34,
+        "bbox": [
+            79.80000305175781,
+            283.5633239746094,
+            323.6600036621094,
+            294.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Địa chỉ: Lô E3, KCN Đình Trám, Việt Yên, Bắc Giang",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 35,
+        "bbox": [
+            79.80000305175781,
+            297.1233215332031,
+            289.3399963378906,
+            307.61767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cửa nhôm sơn tĩnh điện - (Cửa đi: Khung (55x65,5)mm dày 2mm; cửa sổ: khung (55x48,5)mm dày 1,4mm; cửa lùa: khung (58,2x48)mm dày 1,6mm; kính trắng dày 8,38mm).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 14,
+        "block_num": 35,
+        "bbox": [
+            57.47999954223633,
+            310.5633239746094,
+            730.4901733398438,
+            331.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            332.9033203125,
+            619.8504638671875,
+            376.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            377.1833190917969,
+            619.8504638671875,
+            420.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 62,
+        "bbox": [
+            549.6699829101562,
+            421.3432922363281,
+            619.8504638671875,
+            464.627685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 71,
+        "bbox": [
+            549.6699829101562,
+            465.5332946777344,
+            619.8504638671875,
+            508.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 40,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 49,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 58,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 67,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 76,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung màu xám, màu ánh kim",
+        "suffix": "105,000",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            464.0932922363281,
+            224.989990234375,
+            474.587646484375
+        ]
+    },
+    {
+        "prefix": "105,000",
+        "text": "- Giá bổ sung màu vân gỗ",
+        "suffix": "305,000",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            477.6533203125,
+            180.8300018310547,
+            488.1476745605469
+        ]
+    },
+    {
+        "prefix": "305,000",
+        "text": "- Giá bổ sung có thêm khung bao 11cm",
+        "suffix": "205,000",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            491.09332275390625,
+            231.58999633789062,
+            501.5876770019531
+        ]
+    },
+    {
+        "prefix": "205,000",
+        "text": "- Giá bổ sung, dùng kính trắng 10,38mm",
+        "suffix": "105,000",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 78,
+        "bbox": [
+            79.80000305175781,
+            504.6493225097656,
+            236.989990234375,
+            515.1436767578125
+        ]
+    },
+    {
+        "prefix": "105,000",
+        "text": "* Cửa nhôm sơn tĩnh điện - (Khung (47,5x52x2)mm dày 1,1mm; kính an toàn 6,38mm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 15,
+        "block_num": 78,
+        "bbox": [
+            57.47999954223633,
+            518.08935546875,
+            417.739990234375,
+            528.5836791992188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 32,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 41,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 50,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 59,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 68,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 77,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 86,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            619.8504638671875,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung màu vân gỗ",
+        "suffix": "205,000",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 24,
+        "bbox": [
+            79.80000305175781,
+            198.84332275390625,
+            180.8300018310547,
+            209.3376922607422
+        ]
+    },
+    {
+        "prefix": "205,000",
+        "text": "- Giá bổ sung có thêm khung bao 10cm",
+        "suffix": "105,000",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 24,
+        "bbox": [
+            79.80000305175781,
+            212.4033203125,
+            231.58999633789062,
+            222.89768981933594
+        ]
+    },
+    {
+        "prefix": "105,000",
+        "text": "- Giá bổ sung dùng kính trắng 8,38mm",
+        "suffix": "82,000",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 24,
+        "bbox": [
+            79.80000305175781,
+            225.84332275390625,
+            229.9099884033203,
+            236.3376922607422
+        ]
+    },
+    {
+        "prefix": "82,000",
+        "text": "- Giá bổ sung dùng khóa đa điểm",
+        "suffix": "55,000",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 24,
+        "bbox": [
+            79.80000305175781,
+            239.4033203125,
+            209.14999389648438,
+            249.89768981933594
+        ]
+    },
+    {
+        "prefix": "55,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 24,
+        "bbox": [
+            57.47999954223633,
+            252.84332275390625,
+            64.6500015258789,
+            263.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vách mặt dựng - (Hệ khung dày 2,5mm, kính an toàn 8,38mm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 17,
+        "block_num": 24,
+        "bbox": [
+            79.80000305175781,
+            252.84332275390625,
+            330.1399841308594,
+            263.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 33,
+        "bbox": [
+            549.6699829101562,
+            266.4033203125,
+            619.8504638671875,
+            309.65765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            310.5633239746094,
+            619.8504638671875,
+            353.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung khi dùng kính an toàn 10,38mm",
+        "suffix": "120,000",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 45,
+        "bbox": [
+            79.80000305175781,
+            354.8633117675781,
+            256.94000244140625,
+            365.357666015625
+        ]
+    },
+    {
+        "prefix": "120,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 45,
+        "bbox": [
+            57.47999954223633,
+            368.3033142089844,
+            64.6500015258789,
+            378.79766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thanh nhôm định hình",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 17,
+        "block_num": 45,
+        "bbox": [
+            79.80000305175781,
+            368.3033142089844,
+            174.8300018310547,
+            378.79766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 52,
+        "bbox": [
+            549.6699829101562,
+            381.8633117675781,
+            619.8504638671875,
+            425.11767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 59,
+        "bbox": [
+            549.6699829101562,
+            426.0233154296875,
+            619.8504638671875,
+            469.30767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 67,
+        "bbox": [
+            549.6699829101562,
+            470.21331787109375,
+            619.8504638671875,
+            513.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8,4",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 22,
+        "bbox": [
+            53.880001068115234,
+            198.84332275390625,
+            68.1300048828125,
+            209.3376922607422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa kính khung nhôm (Công ty Cổ phần EUROHOUSE Việt Nam )",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 18,
+        "block_num": 22,
+        "bbox": [
+            79.80000305175781,
+            198.84332275390625,
+            350.5400085449219,
+            209.3376922607422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Địa chỉ: Km2, đường 196, Yên Tập, xã Nhân Hòa, huyện Mỹ hào, Hưng Yên",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 23,
+        "bbox": [
+            79.80000305175781,
+            212.4033203125,
+            372.8599853515625,
+            222.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 23,
+        "bbox": [
+            57.47999954223633,
+            225.84332275390625,
+            64.6500015258789,
+            236.3376922607422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện - Hệ vát cạnh. Màu trắng, xám, nâu (khung cửa đi, cửa sổ (54,6x55)mm dày 1,2mm; khung cửa lùa (54,6x42)mm dày 1mm; kính trắng an toàn dày 6,38mm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 18,
+        "block_num": 23,
+        "bbox": [
+            79.80000305175781,
+            225.84332275390625,
+            667.8699951171875,
+            247.25767517089844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            248.2833251953125,
+            619.8504638671875,
+            291.53765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 39,
+        "bbox": [
+            549.6699829101562,
+            292.4433288574219,
+            619.8504638671875,
+            335.7176818847656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 47,
+        "bbox": [
+            549.6699829101562,
+            336.6233215332031,
+            619.8504638671875,
+            379.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 55,
+        "bbox": [
+            549.6699829101562,
+            380.9033203125,
+            619.8504638671875,
+            424.15765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 63,
+        "bbox": [
+            549.6699829101562,
+            425.0633239746094,
+            619.8504638671875,
+            468.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 71,
+        "bbox": [
+            549.6699829101562,
+            469.2533264160156,
+            619.8504638671875,
+            512.5076904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung Màu vân gỗ",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 39,
+        "bbox": [
+            79.80000305175781,
+            287.2833251953125,
+            181.9099884033203,
+            297.7776794433594
+        ]
+    },
+    {
+        "prefix": "250,000",
+        "text": "- Giá bổ sung Màu cà phê",
+        "suffix": "50,000",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 39,
+        "bbox": [
+            79.80000305175781,
+            300.84332275390625,
+            181.42999267578125,
+            311.3376770019531
+        ]
+    },
+    {
+        "prefix": "50,000",
+        "text": "- Giá bổ sung Dùng kính trắng 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 39,
+        "bbox": [
+            79.80000305175781,
+            314.2833251953125,
+            232.0699920654297,
+            324.7776794433594
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "- Giá bổ sung Dùng kính trắng 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 39,
+        "bbox": [
+            79.80000305175781,
+            327.8633117675781,
+            236.75,
+            338.357666015625
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 39,
+        "bbox": [
+            57.47999954223633,
+            341.3033142089844,
+            64.6500015258789,
+            351.79766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện - (khung cửa đi, cửa sổ (54,68x50)mm dày 1mm; khung cửa lùa (54,6x42)mm dày 1mm; kính trắng an toàn dày 6,38mm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 19,
+        "block_num": 39,
+        "bbox": [
+            79.80000305175781,
+            341.3033142089844,
+            656.22998046875,
+            351.79766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 45,
+        "bbox": [
+            549.6699829101562,
+            354.8633117675781,
+            619.8504638671875,
+            398.11767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            399.0233154296875,
+            619.8504638671875,
+            442.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 60,
+        "bbox": [
+            549.6699829101562,
+            443.1833190917969,
+            619.8504638671875,
+            486.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 67,
+        "bbox": [
+            549.6699829101562,
+            487.3733215332031,
+            619.8504638671875,
+            530.74365234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 27,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 34,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 41,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 48,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung Màu vân gỗ",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 50,
+        "bbox": [
+            79.80000305175781,
+            375.7433166503906,
+            181.9099884033203,
+            386.2376708984375
+        ]
+    },
+    {
+        "prefix": "250,000",
+        "text": "- Giá bổ sung Dùng kính trắng 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 50,
+        "bbox": [
+            79.80000305175781,
+            389.1833190917969,
+            232.0699920654297,
+            399.67767333984375
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "- Giá bổ sung Dùng kính trắng 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 50,
+        "bbox": [
+            79.80000305175781,
+            402.7433166503906,
+            236.75,
+            413.2376708984375
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 50,
+        "bbox": [
+            57.47999954223633,
+            416.1833190917969,
+            64.6500015258789,
+            426.67767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện - Hệ XF (khung: cửa lùa (54,8x66)mm dày 2mm; cửa lùa (54,8x76)mm dày 1,4mm; cửa sổ (54,8x50)mm dày 1,4mm. Kính trắng an toàn dày 6,38mm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 20,
+        "block_num": 50,
+        "bbox": [
+            79.80000305175781,
+            416.1833190917969,
+            732.5499877929688,
+            437.59765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 57,
+        "bbox": [
+            549.6699829101562,
+            438.5033264160156,
+            619.8504638671875,
+            481.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 66,
+        "bbox": [
+            549.6699829101562,
+            482.8133239746094,
+            619.8504638671875,
+            526.0636596679688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 45,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 61,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 69,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 77,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            619.8504638671875,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung Màu vân gỗ",
+        "suffix": "50,000",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 23,
+        "bbox": [
+            79.80000305175781,
+            198.84332275390625,
+            181.9099884033203,
+            209.3376922607422
+        ]
+    },
+    {
+        "prefix": "50,000",
+        "text": "- Giá bổ sung Màu cà phê",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 23,
+        "bbox": [
+            79.80000305175781,
+            212.4033203125,
+            181.42999267578125,
+            222.89768981933594
+        ]
+    },
+    {
+        "prefix": "250,000",
+        "text": "- Giá bổ sung Dùng kính trắng 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 23,
+        "bbox": [
+            79.80000305175781,
+            225.84332275390625,
+            232.0699920654297,
+            236.3376922607422
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "- Giá bổ sung Dùng kính trắng 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 23,
+        "bbox": [
+            79.80000305175781,
+            239.4033203125,
+            236.75,
+            249.89768981933594
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 23,
+        "bbox": [
+            57.47999954223633,
+            252.84332275390625,
+            64.6500015258789,
+            263.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện - Hệ XF mỏng (khung: cửa lùa (54,8x66)mm dày 1,4mm; cửa lùa (54,8x76)mm dày 1,2mm; cửa sổ (54,8x50)mm dày 1,2mm. Kính trắng an toàn dày 6,38mm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 22,
+        "block_num": 23,
+        "bbox": [
+            79.80000305175781,
+            252.84332275390625,
+            670.27001953125,
+            274.2576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            275.2833251953125,
+            619.8504638671875,
+            318.53765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 39,
+        "bbox": [
+            549.6699829101562,
+            319.46331787109375,
+            619.8504638671875,
+            362.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 47,
+        "bbox": [
+            549.6699829101562,
+            363.6233215332031,
+            619.8504638671875,
+            406.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 55,
+        "bbox": [
+            549.6699829101562,
+            407.9033203125,
+            619.8504638671875,
+            451.15765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 63,
+        "bbox": [
+            549.6699829101562,
+            452.0932922363281,
+            619.8504638671875,
+            495.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 71,
+        "bbox": [
+            549.6699829101562,
+            496.2533264160156,
+            619.8504638671875,
+            539.503662109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 45,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung Màu vân gỗ",
+        "suffix": "50,000",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 55,
+        "bbox": [
+            79.80000305175781,
+            375.7433166503906,
+            181.9099884033203,
+            386.2376708984375
+        ]
+    },
+    {
+        "prefix": "50,000",
+        "text": "- Giá bổ sung Màu cà phê",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 55,
+        "bbox": [
+            79.80000305175781,
+            389.1833190917969,
+            181.42999267578125,
+            399.67767333984375
+        ]
+    },
+    {
+        "prefix": "250,000",
+        "text": "- Giá bổ sung Dùng kính trắng 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 55,
+        "bbox": [
+            79.80000305175781,
+            402.7433166503906,
+            232.0699920654297,
+            413.2376708984375
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "- Giá bổ sung Dùng kính trắng 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 55,
+        "bbox": [
+            79.80000305175781,
+            416.1833190917969,
+            236.75,
+            426.67767333984375
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 55,
+        "bbox": [
+            57.47999954223633,
+            429.7433166503906,
+            64.6500015258789,
+            440.2376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện - Hệ đa khoang cách âm, cách nhiệt (khung: cửa đi, cửa sổ (78,6x60)mm dày 1,4mm; cửa lùa (110x42)mm dày 1,5mm. Kính an toàn dày 6,38mm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 23,
+        "block_num": 55,
+        "bbox": [
+            79.80000305175781,
+            429.7433166503906,
+            718.0299682617188,
+            451.15765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 61,
+        "bbox": [
+            549.6699829101562,
+            452.0932922363281,
+            619.8504638671875,
+            495.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 69,
+        "bbox": [
+            549.6699829101562,
+            496.2533264160156,
+            619.8504638671875,
+            539.503662109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 27,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 34,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 41,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 48,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 55,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 62,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung Màu vân gỗ",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 64,
+        "bbox": [
+            79.80000305175781,
+            464.0932922363281,
+            181.9099884033203,
+            474.587646484375
+        ]
+    },
+    {
+        "prefix": "250,000",
+        "text": "- Giá bổ sung Dùng kính trắng 8,38mm",
+        "suffix": "80,000",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 64,
+        "bbox": [
+            79.80000305175781,
+            477.6533203125,
+            232.0699920654297,
+            488.1476745605469
+        ]
+    },
+    {
+        "prefix": "80,000",
+        "text": "- Giá bổ sung Dùng kính trắng 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 64,
+        "bbox": [
+            79.80000305175781,
+            491.09332275390625,
+            236.75,
+            501.5876770019531
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 64,
+        "bbox": [
+            57.47999954223633,
+            504.6493225097656,
+            64.6500015258789,
+            515.1436767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện - Mặt dựng. Màu trắng, xám, nâu (khung dày 2-2,5mm; kính an toàn dày 8,38mm",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 24,
+        "block_num": 64,
+        "bbox": [
+            79.80000305175781,
+            504.6493225097656,
+            502.47998046875,
+            515.1436767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung khi dùng kính trắng an toàn dày 10,38mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 31,
+        "bbox": [
+            79.80000305175781,
+            243.12332153320312,
+            295.94000244140625,
+            253.61769104003906
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 31,
+        "bbox": [
+            57.47999954223633,
+            256.5633239746094,
+            64.6500015258789,
+            267.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm sơn tĩnh điện, hệ thủy lực - Màu nâu, xám (khung dày 2mm); kính hộp dày 19mm",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 25,
+        "block_num": 31,
+        "bbox": [
+            79.80000305175781,
+            256.5633239746094,
+            448.239990234375,
+            267.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            270.1233215332031,
+            619.8504638671875,
+            313.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 44,
+        "bbox": [
+            549.6699829101562,
+            314.2833251953125,
+            619.8504638671875,
+            357.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 52,
+        "bbox": [
+            549.6699829101562,
+            358.46331787109375,
+            619.8504638671875,
+            401.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Giá bổ sung dùng kính hộp dày 21mm",
+        "suffix": "100,000",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 54,
+        "bbox": [
+            79.80000305175781,
+            402.7433166503906,
+            232.54998779296875,
+            413.2376708984375
+        ]
+    },
+    {
+        "prefix": "100,000",
+        "text": "- Giá bổ sung dùng màu vân gỗ",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 54,
+        "bbox": [
+            79.80000305175781,
+            416.1833190917969,
+            202.30999755859375,
+            426.67767333984375
+        ]
+    },
+    {
+        "prefix": "250,000",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 54,
+        "bbox": [
+            57.47999954223633,
+            429.7433166503906,
+            64.6500015258789,
+            440.2376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thanh nhôm định hình",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 25,
+        "block_num": 54,
+        "bbox": [
+            79.80000305175781,
+            429.7433166503906,
+            174.8300018310547,
+            440.2376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 60,
+        "bbox": [
+            549.6699829101562,
+            443.1833190917969,
+            619.8504638671875,
+            486.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 67,
+        "bbox": [
+            549.6699829101562,
+            487.3733215332031,
+            619.8504638671875,
+            530.74365234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 27,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 35,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 42,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 49,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 56,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 64,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 71,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            619.8504638671875,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 27,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 28,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 35,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            619.8504638671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 44,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            619.8504638671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 52,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            619.8504638671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 60,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            619.8504638671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 68,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            619.8504638671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 76,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            619.8504638671875,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8,5 Cửa kính khung nhôm (Công ty CP Tập đoàn SINGHAL )",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 31,
+        "bbox": [
+            53.880001068115234,
+            243.12332153320312,
+            319.6999816894531,
+            253.61769104003906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Địa chỉ: CCN Hà Mãn – Trí Quả, P. Trí Quả, TX. Thuận Thành, Tỉnh Bắc Ninh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 32,
+        "bbox": [
+            79.80000305175781,
+            256.5633239746094,
+            385.94000244140625,
+            267.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 32,
+        "bbox": [
+            57.47999954223633,
+            270.1233215332031,
+            64.6500015258789,
+            280.61767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm tĩnh điện - Hệ 55 vát cạnh (kính dán an toàn 6.38mm trắng, gioăng 1mm ±5%)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 28,
+        "block_num": 32,
+        "bbox": [
+            79.80000305175781,
+            270.1233215332031,
+            436.0,
+            280.61767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 39,
+        "bbox": [
+            549.6699829101562,
+            283.5633239746094,
+            616.987548828125,
+            337.7576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 48,
+        "bbox": [
+            549.6699829101562,
+            346.58331298828125,
+            616.987548828125,
+            400.7576904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 57,
+        "bbox": [
+            549.6699829101562,
+            409.58331298828125,
+            616.987548828125,
+            463.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 66,
+        "bbox": [
+            549.6699829101562,
+            472.6133117675781,
+            616.987548828125,
+            526.78369140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 39,
+        "bbox": [
+            549.6699829101562,
+            280.6833190917969,
+            616.987548828125,
+            334.8776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 41,
+        "bbox": [
+            57.47999954223633,
+            343.70330810546875,
+            64.6500015258789,
+            354.1976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm tĩnh điện - Hệ 55 XINHFA mặt cắt (kính dán an toàn 6.38mm trắng, gioăng 1mm ±5%)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 29,
+        "block_num": 41,
+        "bbox": [
+            79.80000305175781,
+            343.70330810546875,
+            470.55999755859375,
+            354.1976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 48,
+        "bbox": [
+            549.6699829101562,
+            357.2633361816406,
+            616.987548828125,
+            411.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 57,
+        "bbox": [
+            549.6699829101562,
+            420.2633361816406,
+            616.987548828125,
+            474.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 38,
+        "bbox": [
+            549.6699829101562,
+            280.6833190917969,
+            616.987548828125,
+            334.8776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 40,
+        "bbox": [
+            57.47999954223633,
+            343.70330810546875,
+            64.6500015258789,
+            354.1976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa nhôm tĩnh điện - Hệ 56 sập liền (kính dán an toàn 6.38mm trắng, gioăng 1,4mm ±5%)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 30,
+        "block_num": 40,
+        "bbox": [
+            79.80000305175781,
+            343.70330810546875,
+            439.9599914550781,
+            354.1976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 48,
+        "bbox": [
+            549.6699829101562,
+            357.2633361816406,
+            616.987548828125,
+            411.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 56,
+        "bbox": [
+            549.6699829101562,
+            420.2633361816406,
+            616.987548828125,
+            474.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 31,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            280.6833190917969,
+            616.987548828125,
+            334.8776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 45,
+        "bbox": [
+            549.6699829101562,
+            343.70330810546875,
+            616.987548828125,
+            397.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            406.70330810546875,
+            616.987548828125,
+            460.90765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 62,
+        "bbox": [
+            549.6699829101562,
+            469.7333068847656,
+            616.987548828125,
+            523.9036865234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 32,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            280.6833190917969,
+            616.987548828125,
+            334.8776550292969
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            343.70330810546875,
+            616.987548828125,
+            397.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 51,
+        "bbox": [
+            549.6699829101562,
+            398.7832946777344,
+            616.987548828125,
+            453.0776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 59,
+        "bbox": [
+            549.6699829101562,
+            461.8133239746094,
+            616.987548828125,
+            516.1036987304688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 33,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 27,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 35,
+        "bbox": [
+            549.6699829101562,
+            272.7633056640625,
+            616.987548828125,
+            327.0776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            335.7833251953125,
+            616.987548828125,
+            390.0776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 51,
+        "bbox": [
+            549.6699829101562,
+            398.7832946777344,
+            616.987548828125,
+            453.0776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 59,
+        "bbox": [
+            549.6699829101562,
+            461.8133239746094,
+            616.987548828125,
+            516.1036987304688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 34,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            280.6833190917969,
+            616.987548828125,
+            334.8776550292969
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 43,
+        "bbox": [
+            549.6699829101562,
+            343.70330810546875,
+            616.987548828125,
+            397.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 52,
+        "bbox": [
+            549.6699829101562,
+            398.7832946777344,
+            616.987548828125,
+            453.0776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 34,
+        "block_num": 54,
+        "bbox": [
+            57.47999954223633,
+            461.8133239746094,
+            64.6500015258789,
+            472.30767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hệ mặt dựng - 65 ( kính dán an toàn 6.38mm trắng, gioăng 2.5mm ±5%)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 34,
+        "block_num": 54,
+        "bbox": [
+            79.80000305175781,
+            461.8133239746094,
+            367.94000244140625,
+            472.30767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 62,
+        "bbox": [
+            549.6699829101562,
+            475.3733215332031,
+            616.987548828125,
+            529.5436401367188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 35,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 31,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 35,
+        "block_num": 33,
+        "bbox": [
+            57.47999954223633,
+            280.6833190917969,
+            64.6500015258789,
+            291.17767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hệ mặt dựng - 25 (kính dán an toàn 6.38mm trắng, gioăng 2mm ±5%)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 35,
+        "block_num": 33,
+        "bbox": [
+            79.80000305175781,
+            280.6833190917969,
+            358.3399963378906,
+            291.17767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 41,
+        "bbox": [
+            549.6699829101562,
+            294.2433166503906,
+            616.987548828125,
+            348.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 50,
+        "bbox": [
+            549.6699829101562,
+            357.2633361816406,
+            616.987548828125,
+            411.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 59,
+        "bbox": [
+            549.6699829101562,
+            420.2633361816406,
+            616.987548828125,
+            474.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 35,
+        "block_num": 61,
+        "bbox": [
+            57.47999954223633,
+            483.2933044433594,
+            64.6500015258789,
+            493.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hệ thuỷ lực (kính dán an toàn 6.38mm trắng, gioăng 2mm ±5%)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 35,
+        "block_num": 61,
+        "bbox": [
+            79.80000305175781,
+            483.1710510253906,
+            354.92156982421875,
+            494.8609619140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 36,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            217.68331909179688,
+            616.987548828125,
+            271.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            280.6833190917969,
+            616.987548828125,
+            334.8776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 45,
+        "bbox": [
+            549.6699829101562,
+            343.70330810546875,
+            616.987548828125,
+            397.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            406.70330810546875,
+            616.987548828125,
+            460.90765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 61,
+        "bbox": [
+            549.6699829101562,
+            469.7333068847656,
+            616.987548828125,
+            523.9036865234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 37,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cửa cuốn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 37,
+        "block_num": 15,
+        "bbox": [
+            57.47999954223633,
+            154.6533203125,
+            121.43000030517578,
+            165.14768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 23,
+        "bbox": [
+            549.6699829101562,
+            168.21331787109375,
+            616.987548828125,
+            222.4176788330078
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 35,
+        "bbox": [
+            549.6699829101562,
+            256.08331298828125,
+            616.987548828125,
+            310.2576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 47,
+        "bbox": [
+            549.6699829101562,
+            333.0233154296875,
+            616.987548828125,
+            387.31768798828125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 57,
+        "bbox": [
+            549.6699829101562,
+            410.0633239746094,
+            616.987548828125,
+            464.2676696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 38,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 22,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            616.987548828125,
+            208.85768127441406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 32,
+        "bbox": [
+            549.6699829101562,
+            242.643310546875,
+            616.987548828125,
+            296.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn (đã bao gồm phụ kiện)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 44,
+        "bbox": [
+            549.6699829101562,
+            319.58331298828125,
+            616.987548828125,
+            373.7576904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Phụ kiện",
+        "suffix": "571 Vật liệu hoàn thiện",
+        "style": "bold",
+        "page_num": 38,
+        "block_num": 47,
+        "bbox": [
+            57.47999954223633,
+            407.5433044433594,
+            118.31000518798828,
+            418.03765869140625
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            421.1033020019531,
+            611.4606323242188,
+            464.3876647949219
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 62,
+        "bbox": [
+            549.6699829101562,
+            465.2933044433594,
+            611.4606323242188,
+            508.54766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 39,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            611.4606323242188,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 28,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            611.4606323242188,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 36,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            611.4606323242188,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 44,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            611.4606323242188,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 52,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            611.4606323242188,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 60,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            611.4606323242188,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 69,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            611.4606323242188,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 78,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            611.4606323242188,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 40,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            611.4606323242188,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            611.4606323242188,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 39,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            611.4606323242188,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 48,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            611.4606323242188,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 57,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            611.4606323242188,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 66,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            611.4606323242188,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 75,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            611.4606323242188,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 84,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            611.4606323242188,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 41,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            611.4606323242188,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho đại lý trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            611.4606323242188,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8,6 Cửa thép vân gỗ (Công ty CP Dịch vụ và Thương mại Thống Nhất)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 41,
+        "block_num": 33,
+        "bbox": [
+            53.880001068115234,
+            243.12332153320312,
+            354.1399841308594,
+            253.61769104003906
+        ]
+    },
+    {
+        "prefix": "Địa chỉ: Cum CN Vôi-Yên Mỹ, số 1 Hoàng Hoa Thám, thị trấn Vôi, Lạng Giang, Bắc Giang",
+        "text": "* Cửa thép vân gỗ (cửa đi).",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 41,
+        "block_num": 34,
+        "bbox": [
+            57.47999954223633,
+            270.1233215332031,
+            182.22190856933594,
+            280.61767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Phụ kiện gồm: bản lề, chốt; không bao gồm khoá, chân bậu",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 34,
+        "bbox": [
+            182.4199981689453,
+            270.1233215332031,
+            409.20013427734375,
+            280.61767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 41,
+        "bbox": [
+            549.6699829101562,
+            283.5633239746094,
+            615.8973388671875,
+            326.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 49,
+        "bbox": [
+            549.6699829101562,
+            327.8633117675781,
+            615.8973388671875,
+            371.11767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 58,
+        "bbox": [
+            549.6699829101562,
+            372.0233154296875,
+            615.8973388671875,
+            415.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 67,
+        "bbox": [
+            549.6699829101562,
+            416.1833190917969,
+            615.8973388671875,
+            459.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 75,
+        "bbox": [
+            549.6699829101562,
+            460.3733215332031,
+            615.8973388671875,
+            503.7476806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 42,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            615.8973388671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 30,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            615.8973388671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 39,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            615.8973388671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 47,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            615.8973388671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 55,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            615.8973388671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 64,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            615.8973388671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 73,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            615.8973388671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cửa thép SPEC.",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 42,
+        "block_num": 75,
+        "bbox": [
+            57.47999954223633,
+            464.0932922363281,
+            146.77621459960938,
+            474.587646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Phụ kiện gồm: bản lề, chốt và lắp đặt hoàn thiện; không bao gồm: khóa, chân bậu",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 75,
+        "bbox": [
+            146.89999389648438,
+            464.0932922363281,
+            459.7109069824219,
+            474.587646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 82,
+        "bbox": [
+            549.6699829101562,
+            477.6533203125,
+            615.8973388671875,
+            520.9036865234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 43,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 21,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            615.8973388671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 29,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            615.8973388671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            615.8973388671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 45,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            615.8973388671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 53,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            615.8973388671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 61,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            615.8973388671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 69,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            615.8973388671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Phụ kiện",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 43,
+        "block_num": 71,
+        "bbox": [
+            57.47999954223633,
+            464.0932922363281,
+            117.83000183105469,
+            474.587646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 77,
+        "bbox": [
+            549.6699829101562,
+            477.6533203125,
+            615.8973388671875,
+            520.9036865234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 44,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            615.8973388671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 27,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            615.8973388671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 34,
+        "bbox": [
+            549.6699829101562,
+            243.12332153320312,
+            615.8973388671875,
+            286.3776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 42,
+        "bbox": [
+            549.6699829101562,
+            287.2833251953125,
+            615.8973388671875,
+            330.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 49,
+        "bbox": [
+            549.6699829101562,
+            331.46331787109375,
+            615.8973388671875,
+            374.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 57,
+        "bbox": [
+            549.6699829101562,
+            375.7433166503906,
+            615.8973388671875,
+            418.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 64,
+        "bbox": [
+            549.6699829101562,
+            419.9033203125,
+            615.8973388671875,
+            463.18768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 71,
+        "bbox": [
+            549.6699829101562,
+            464.0932922363281,
+            615.8973388671875,
+            507.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 45,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 20,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            615.8973388671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, đã bao gồm lắp đặt hoàn chỉnh",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 28,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            615.8973388671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8,7 Cửa gỗ tự nhiên các loại",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 45,
+        "block_num": 30,
+        "bbox": [
+            53.880001068115234,
+            243.12332153320312,
+            180.47000122070312,
+            253.61769104003906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Khung cửa gỗ nhóm II",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 45,
+        "block_num": 30,
+        "bbox": [
+            57.47999954223633,
+            256.5633239746094,
+            126.11000061035156,
+            277.9776611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 37,
+        "bbox": [
+            549.6699829101562,
+            283.08331298828125,
+            619.8504638671875,
+            326.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 46,
+        "bbox": [
+            549.6699829101562,
+            327.2633056640625,
+            619.8504638671875,
+            370.5176696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Khung cửa gỗ nhóm IV,V",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 45,
+        "block_num": 48,
+        "bbox": [
+            57.47999954223633,
+            371.5433044433594,
+            184.19000244140625,
+            382.03765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 56,
+        "bbox": [
+            549.6699829101562,
+            384.9833068847656,
+            619.8504638671875,
+            428.2376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 65,
+        "bbox": [
+            549.6699829101562,
+            429.143310546875,
+            619.8504638671875,
+            472.54766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cánh cửa gỗ nhóm II ( dày 4 cm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 45,
+        "block_num": 67,
+        "bbox": [
+            57.47999954223633,
+            473.45330810546875,
+            213.47000122070312,
+            483.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 75,
+        "bbox": [
+            549.6699829101562,
+            486.893310546875,
+            619.8504638671875,
+            530.1436767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 46,
+        "block_num": 10,
+        "bbox": [
+            53.400001525878906,
+            103.89102935791016,
+            733.6600341796875,
+            140.6609649658203
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 46,
+        "block_num": 23,
+        "bbox": [
+            549.6699829101562,
+            154.6533203125,
+            619.8504638671875,
+            197.9376983642578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 46,
+        "block_num": 32,
+        "bbox": [
+            549.6699829101562,
+            198.84332275390625,
+            619.8504638671875,
+            242.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cánh cửa gỗ nhóm IV,V ( dày 4 cm)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 46,
+        "block_num": 34,
+        "bbox": [
+            57.47999954223633,
+            243.12332153320312,
+            224.75,
+            253.61769104003906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 46,
+        "block_num": 42,
+        "bbox": [
+            549.6699829101562,
+            256.5633239746094,
+            619.8504638671875,
+            299.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 46,
+        "block_num": 52,
+        "bbox": [
+            549.6699829101562,
+            300.84332275390625,
+            619.8504638671875,
+            344.11767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Nẹp khuôn, tay vịn lan can",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 46,
+        "block_num": 54,
+        "bbox": [
+            57.47999954223633,
+            345.0233154296875,
+            188.26998901367188,
+            355.5176696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 46,
+        "block_num": 62,
+        "bbox": [
+            549.6699829101562,
+            358.46331787109375,
+            619.8504638671875,
+            401.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 46,
+        "block_num": 71,
+        "bbox": [
+            549.6699829101562,
+            402.7433166503906,
+            619.8504638671875,
+            445.9976806640625
+        ]
+    }
+]

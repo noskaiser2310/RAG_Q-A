@@ -1,0 +1,394 @@
+[
+    {
+        "prefix": "",
+        "text": "1. Thanh trên cùng – Hiển thị trạng thái Thanh trên cùng – Hiển thị trạng thái",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            108.0199966430664,
+            113.5711898803711,
+            433.0299987792969,
+            158.45933532714844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lệnh in",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 4,
+        "bbox": [
+            296.2099914550781,
+            225.5926513671875,
+            341.9499816894531,
+            239.9393768310547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thông báo cảnh báo/trạng thái lỗi",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 9,
+        "bbox": [
+            296.2099914550781,
+            318.38262939453125,
+            487.7799987792969,
+            332.7293395996094
+        ]
+    },
+    {
+        "prefix": "[",
+        "text": "Alarm",
+        "suffix": "] (Báo động).",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 17,
+        "bbox": [
+            300.5299987792969,
+            498.52264404296875,
+            336.5314636230469,
+            512.869384765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trạng thái trực tiếp hiện tại",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 19,
+        "bbox": [
+            296.2099914550781,
+            523.3626708984375,
+            453.54998779296875,
+            537.7094116210938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cấp độ người dùng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 23,
+        "bbox": [
+            296.2099914550781,
+            593.712646484375,
+            405.78997802734375,
+            608.0593872070312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cửa sổ chế độ và trạng thái",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 2,
+        "bbox": [
+            296.2099914550781,
+            98.27264404296875,
+            450.54998779296875,
+            112.61936950683594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các biểu tượng chuyển động hiện hoạt",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 13,
+        "bbox": [
+            217.1300048828125,
+            372.02264404296875,
+            434.1099853515625,
+            386.3693542480469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. Biểu tượng trạng thái Biểu tượng trạng thái",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 5,
+        "bbox": [
+            108.0199966430664,
+            189.0512237548828,
+            392.71478271484375,
+            223.0193328857422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trạng thái gia nhiệt khoang chứa",
+        "suffix": "– màu xám (hiển thị)",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 8,
+        "bbox": [
+            219.1699981689453,
+            231.5926513671875,
+            415.05096435546875,
+            245.9393768310547
+        ]
+    },
+    {
+        "prefix": "khoang chứa bật. Giống như đèn LED nút [",
+        "text": "F8",
+        "suffix": "].",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 10,
+        "bbox": [
+            456.5799865722656,
+            276.38262939453125,
+            471.6219787597656,
+            290.7293395996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hoạt động của động cơ servo",
+        "suffix": "– màu xám (hiển thị) khi",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 13,
+        "bbox": [
+            219.1699981689453,
+            299.3026428222656,
+            382.9234313964844,
+            313.64935302734375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chỉ báo chế độ",
+        "suffix": "– Một biểu tượng cho biết chế độ hiện tại",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 17,
+        "bbox": [
+            219.1699981689453,
+            344.7826232910156,
+            306.3109436035156,
+            359.12933349609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chế độ thủ công",
+        "suffix": ". Máy chạy ở tốc độ tối",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 21,
+        "bbox": [
+            318.4100036621094,
+            390.14263916015625,
+            408.6666564941406,
+            404.4893493652344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chế độ thiết lập",
+        "suffix": ". Máy chạy ở tốc độ",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 25,
+        "bbox": [
+            318.4100036621094,
+            435.64263916015625,
+            406.395751953125,
+            449.9893493652344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chế độ tự động",
+        "suffix": ". Máy sẽ vận hành tự",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 31,
+        "bbox": [
+            318.4100036621094,
+            510.0426025390625,
+            403.7500305175781,
+            524.3893432617188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4. Thanh dưới cùng, các nút điều hướng màn hình Các nút điều hướng màn hình Màn hình Tổng quan (Màn hình chính)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 38,
+        "bbox": [
+            108.0199966430664,
+            633.0111694335938,
+            455.1099853515625,
+            697.3353881835938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình cài đặt phun",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 5,
+        "bbox": [
+            233.4499969482422,
+            145.672607421875,
+            363.19000244140625,
+            160.0193328857422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình cài đặt giữ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 10,
+        "bbox": [
+            233.4499969482422,
+            218.99261474609375,
+            352.1499938964844,
+            233.33934020996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình cài đặt phục hồi",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 15,
+        "bbox": [
+            233.4499969482422,
+            291.26263427734375,
+            381.9100036621094,
+            305.6093444824219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình cài đặt nhiệt độ khoang chứa",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 21,
+        "bbox": [
+            233.4499969482422,
+            387.14263916015625,
+            454.2699890136719,
+            401.4893493652344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình kiểm soát nhiệt độ kênh dẫn nóng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 26,
+        "bbox": [
+            233.4499969482422,
+            460.2426452636719,
+            480.8199768066406,
+            474.58935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình E-Drive",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 33,
+        "bbox": [
+            233.4499969482422,
+            587.5926513671875,
+            337.989990234375,
+            601.9393920898438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình cửa van",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 37,
+        "bbox": [
+            233.4499969482422,
+            690.5486450195312,
+            337.2699890136719,
+            704.8953857421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình biểu đồ sản xuất",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 4,
+        "bbox": [
+            233.4499969482422,
+            158.27264404296875,
+            384.42999267578125,
+            172.61936950683594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Màn hình thông số kỹ thuật máy (Tổng quan về bảo dưỡng)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 11,
+        "bbox": [
+            233.4499969482422,
+            263.3026123046875,
+            524.6199951171875,
+            300.08935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hiển thị báo động",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 17,
+        "bbox": [
+            233.4499969482422,
+            387.9826354980469,
+            335.22998046875,
+            402.329345703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nút quay lại",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 22,
+        "bbox": [
+            233.4499969482422,
+            470.20263671875,
+            304.3699951171875,
+            484.5493469238281
+        ]
+    }
+]

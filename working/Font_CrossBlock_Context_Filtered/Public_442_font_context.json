@@ -1,0 +1,4832 @@
+[
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Bổ xung mới : - HD khách hàng đọc đoạn âm theo hướng dẫn để thực hiện nhận dạng - Cấu hình được việc chuyển file ghi âm của KH đến hệ thống so sánh nhận diện khác nhau tùy theo dịch vụ",
+        "text": "Cụ thể: 1. Luồng selfcare trên IVR (đã mô tả bên cạnh) 2. Luồng kiểm tra trong lúc đàm thoại:",
+        "suffix": "- ĐTV click button xác minh KH trên giao diện nghiệp vụ BCCS -> BCCS check ht eKYC xem SĐT này đăng kí eKYC chưa-> Nếu có thì BCCS thực hiện gửi yc sang IPCC để IPCC lấy 1 phần ghi âm cuộc gọi hiện tại gửi sang ht eKYC -> eKYC so sánh dữ liệu trả về kết quả xác minh trên giao diện BCCS cho",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            297.0533752441406,
+            339.5393981933594,
+            385.254638671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "ĐTV -> ĐTV dựa vào KQ để thực hiện nghiệp vụ cho KH mà KH không bị hỏi han nhiều. Mô tả thêm: 1. LUỒNG CHUNG trên IVR - KH gọi -> Ipcc -> IVR -> : + VAS connector check các điều kiện bài toán AI , + VAS connector Check sang hệ thống Voicebiometric xem KH đã đăng kí chưa + Phát âm HD bấm phím (tr hợp đã đăng kí và TH chưa đăng kí có âm HD riêng) + Check xem KH có bấm nhánh đến nhánh nào (nhánh đăng kí API/nhánh tra cứu API/ nhánh đăng kí & tra cứu qua voice eKYC/ nhánh chuyển",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "CALL BOT...) Case 1:  KH chưa đăng kí lần nào + Phát âm hướng dẫn riêng với KH chưa đăng kí ( HD bấm phím  như hiện tại + Viettel có sử dụng công nghệ nhận dạng âm thanh mời quý khách đăng kí bằng cách thực hiện như sau) + Khách hàng làm theo HD để đăng kí -> chuyển cuộc gọi qua hệ thống voice biometric (lưu ý về mặt công nghệ yêu cầu đăng kí dc voice eKYC qua IPCC - đáp ứng đc không) + Đăng kí xong giữ luồng cuộc gọi hay bắt khách hàng gọi lại? Case 2:  KH bấm phím chọn nghiệp vụ tự selfcare dùng voice eKYC + KH bấm phím chọn nghiệp vụ tự selfcare dùng voice",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "eKYC (Để đăng kí các dịch vụ A,B,C dùng voice eKYC quý khách vui lòng bấm phím X) + IPCC check sang ht Voice eKYC xem KH đã đăng kí chưa : Đã đăng kí  -> check xem có đúng chính chủ không - > đúng chính chủ -> Báo lại IPCC -> IPCC tác động sang các HT khác để đăng kí. () Đã đăng kí  -> check xem có đúng chính chủ không - > Không chính chủ -> Báo lại IPCC -> Hd khách hàng dùng chức năng gặp ĐTV hoặc đăng kí lại. () Đã đăng kí  -> check xem có đúng chính chủ không - > Không chính chủ nhiều lần trong ngày -> Báo lại IPCC -> Hd khách hàng dùng chức năng",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "gặp ĐTV hoặc đăng kí lại. Chưa đăng kí -> Chuyển sang hd đăng kí như ở case 1 Case 3:  KH đăng kí lại voice eKYC như thế nào + Cần có nghiệp vụ vhi tiết để bảo đảm không bị giả mạo??? 2. Luồng trên BCCS:",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2 Xử lý phím bấm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 3,
+        "bbox": [
+            56.7599983215332,
+            568.6593017578125,
+            252.5,
+            582.0806274414062
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Chuyển cuộc gọi từ cây IVR sang hệ thống IVR khác ngoài ipcc",
+        "text": "(trong và ngoài Viettel)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 8,
+        "bbox": [
+            109.33999633789062,
+            277.25335693359375,
+            218.43728637695312,
+            289.4746398925781
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bổ xung mới :",
+        "suffix": "Tích hợp với các hệ thống CSDL của các dịch vụ khác để khai báo các chức năng Smart IVR",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 5,
+        "bbox": [
+            246.97999572753906,
+            225.05337524414062,
+            313.39666748046875,
+            237.274658203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "khác...) + Khai báo kết nối được đến các WS của các Doanh nghiệp có Puplic internet dễ dàng qua giao diện (tham khảo Mitek : giao dịch nhập đơn hàng/tra đơn hàng...)",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3 Phân phối đến ĐTV",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 8,
+        "bbox": [
+            56.7599983215332,
+            377.5933532714844,
+            252.5,
+            390.8946533203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Yêu cầu KH: - Cấu hình danh sách Blacklist - Xử lý chặn danh sách người gọi lên trong danh sách Blacklist - Cập nhật luồng xử lý khi danh sách Blacklist được cập nhật - Khi thuê bao của Khách hàng gọi tổng đài quá số lần quy định theo luật cấu hình chặn",
+        "text": "Quấy rối",
+        "suffix": "có sẵn, hệ thống IPCC thực hiện chặn hướng gọi tổng đài cho thuê bao sẽ hiển thị Log chặn trên chức năng “Lịch sử tác động” của BCCS. - Hệ thống IPCC cung cấp cho BCCS các dữ liệu để hiển thị: Số TB bị chặn, Thời gian (giờ phút giây ngày tháng năm),  Loại tác động (Chặn hướng gọi tổng đài), Lý do tác động (Chặn hướng gọi tổng đài kênh xxx), Lý do tác động (KH gọi tổng đài QR), Đơn vị tác động (Viettel). - Cấu hình Blacklist theo queue - Các chế độ chặn: Chặn vĩnh viễn, chặn có kỳ hạn, chặn tại cửa hàng (provissioning) - - Khi add danh sách Blacklist thủ công thì ghi log lịch sử tác động (người tác động, ngày tháng, căn cứ, file đính kèm, PYC) - Cấu hình luật chặn tự động + Tham số: Cuộc gọi lên trong 1 ngày, Thời gian đàm thoại mỗi cuộc, Số giờ chặn + Cấu hình tần suất quét danh sách chặn - Chặn thủ công: Có kỳ hạn, không chặn (gọi lên mà thỏa mãn luật chặn thì cũng ko chặn - Cấu hình danh sách blacklist trên queue - Cấu hình chặn trên toàn tổng đài Danh sách  tính năng: - Cấu hình danh sách blacklist trên queue - Cấu hình chặn trên toàn tổng đài - Cấu hình không chặn - Cấu hình luật chặn tự động - Cấu hình luật chặn thủ công (người tác động, ngày tháng, căn cứ, file đính kèm, PYC) - Cấu hình chặn provissioning (chặn ở cửa hàng, phải ra cửa hàng mới mở được - VTT gửi lại) + Cung cấp WS kiểm tra thuê bao đã bị chặn phía cửa hàng - Gửi thông tin sang CC log thông tin chặn của khách hàng",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 4,
+        "bbox": [
+            353.3299865722656,
+            210.89337158203125,
+            770.5115966796875,
+            235.83465576171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Yêu cầu KH: - Cấu hình ưu tiên cuộc gọi lỡ (số cuộc gọi lỡ, thời gian chờ, số lượng cuộc gọi thỏa mãn điều kiện gọi lỡ liên tục) - Khi thỏa mãn điều kiện, hệ thống cho phép 2 option: + Chuyển queue (cấu hình được queue đích) + Ưu tiên trong queue - Trên popup cho phép TVV xem lý do vì sao chuyển queue (thông tin gọi nhỡ) - Khi KH đạt điều kiện, cuộc gọi sẽ được ưu tiên nhất trong queue + KH là VIP -> Vào queue VIP và dc ưu tiên +",
+        "text": "KH là thường",
+        "suffix": "- Phát nhạc ưu tiên cho khách hàng thỏa mãn điều kiện - Transfer cuộc gọi thì vẫn ưu tiên tại queue mới. Vẫn phát file nhạc ưu tiên của queue nguồn",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 5,
+        "bbox": [
+            362.3299865722656,
+            308.453369140625,
+            430.27001953125,
+            320.6746520996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 27,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Yêu cầu KH: - Queue SVIP: Chọn hạng phục vụ - Hạng Kim cương và Vàng - Queue VIP: Chọn hạng Bạc, Thân thiết - Xử lý tràn queue",
+        "text": "(Tương tự tính năng 3.8)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 27,
+        "block_num": 20,
+        "bbox": [
+            436.6300048828125,
+            495.703369140625,
+            552.8482055664062,
+            507.9246520996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "3.19",
+        "text": "Xử lý last/recently Agent (xem PYC chi tiết)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 3,
+        "bbox": [
+            88.2239990234375,
+            360.3133544921875,
+            252.5,
+            385.254638671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 31,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 32,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4 Tiền xử lý khi gặp ĐTV",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 32,
+        "block_num": 7,
+        "bbox": [
+            56.7599983215332,
+            219.65335083007812,
+            252.5,
+            231.8746337890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 33,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 34,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 35,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 36,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Yêu cầu:",
+        "suffix": "- Hệ thống căn cứ vào tần suất kh gọi lên tổng đài/ ngày - Cấu hình (số lần) - Căn cứ vào thời gian chờ (tối thiểu bao nhiêu s) - Cấu hình Khung giờ nhắn tin - Cấu hình khung giờ tính toán tham số - Hệ thống thực hiện nhắn tin cho người dùng khi đạt điều kiện cấu hình - Cấu hình nội dung tin nhắn - KH có xu hướng gọi lại nhiều lần vào hệ thống khi ko gọi được TVV -> mục tiêu để giảm tải cho hệ thống - Xử lý trên luồng cuộc gọi (khi đang gọi thì thực hiện kiểm tra thuê bao xem có thỏa mãn điều kiện không) ==> Định hướng cuộc gọi khi nghẽn - Check theo tỉ lệ nghẽn: Tổng số cuộc gọi đang chờ / tổng số điện thoại viên rảnh (cấu hình số tỉ lệ nghẽn trong khoảng thời gian được cấu hình, cho phép cấu hình nhiều khung giờ) ngưỡng nghẽn được tính toán và cập nhật liên tục -> Gửi hết các khách hàng đang chờ và thỏa mãn điều kiện - Check KH gọi lên hệ thống nhiều lần và gửi đơn lẻ + Check số lần KH gọi lên bị lỡ và nguy cơ lỡ (đang chờ >= n s - n cấu hình được) trong khoảng thời gian lùi so với thời điểm quét (VD: trước thời điểm quét bao nhiêu lâu) + Check khung giờ gửi tin nhắn - nhiều khung giờ (cấu hình được) + Không check KH đã gặp TVV hay chưa trước khi nhắn tin - Với trường hợp định tuyến thông minh thì không nhắn tin - Cấu hình thời gian tối thiểu từ thời điểm khách hàng gọi vào để nhắn tin - Tính ngưỡng nghẽn theo từng queue",
+        "style": "bold",
+        "page_num": 36,
+        "block_num": 6,
+        "bbox": [
+            353.3299865722656,
+            204.65335083007812,
+            397.9700012207031,
+            216.8746337890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 37,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Popup dữ liệu từ CCAI sang: - Nếu queue có cấu hình chọn hiển thị lịch sử phân tích KH từ nguồn dữ liệu là ht CCAI thì :",
+        "suffix": "+ Chức năng hiển thị danh sách trang web khách hàng tham quan",
+        "style": "bold",
+        "page_num": 37,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            157.943359375,
+            343.6100158691406,
+            246.03463745117188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 38,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "MAP ping việc tiếp nhận và xử lý của ĐTV.",
+        "style": "bold",
+        "page_num": 39,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "MAP ping việc tiếp nhận và xử lý của ĐTV.",
+        "text": "Tương tự với các cuộc gọi ra cho KH, cũng như các kênh tương tác khác như mail, chat...",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 39,
+        "block_num": 2,
+        "bbox": [
+            246.97999572753906,
+            182.78335571289062,
+            339.994140625,
+            258.274658203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý: - Vẫn tạo TICKET riêng trên IPCC , trường hợp doanh nghiệp không có CRM vẫn có thê sd TICKET của IPCC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 2,
+        "bbox": [
+            246.97999572753906,
+            258.6533508300781,
+            339.6165466308594,
+            346.7346496582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 40,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 41,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1. Yêu cầu nghiệp vụ",
+        "suffix": "\"Chức năng popup nhóm khách hàng: 1. Cho phép chọn một hoặc nhiều nguồn dữ liệu để POPUP 2. Với mỗi nguồn cho phép : - Cho phép hiện thị tối thiểu 20 trường ( 20 hay hơn nên tham khảo ht Customer 360 hoặc ht khác) - Cho phép cấu hình hiển thị theo Queue - Cho phép cấu hình ĐTV được/không được COPY dữ liệu từng trường trên cửa sổ POP up - Cho phép cấu hình FONT chữ, MÀU sắc từng trường - Cho phép cấu hình chuyển thông tin trong trường nào đến 1 link/ hoặc nhiều link  nào đó theo từng Queue để POPUP thông tin KH trên UD link đến - Cho phép lựa chọn thứ tự ưu tiên hiển thị các trường, số trường cần hiển thị tùy thời điểm và tùy queue - Năng lực add khoảng 100 tr thuê bao - Cho phép ĐTV thực hiện gửi yêu cầu cập nhật thông tin cho KH nếu phát hiện thông tin Popup bị sai, các yc này sẽ được gửi đến cho giám sát viên, gs viên sẽ là người cập nhật, ht ghi log lại các yc, ng yc, tình trạng đã đc cập nhật, chưa cập nhật, thời điểm cập nhật (phân quyền gs queue nào chỉ nhìn đc yc & sửa queue đó). - Có thể cấu hình ON/OFF các trường nào ĐTV có thể tự cập nhật trong khi KH gọi lên - Mỗi trường đều có chức năng cấu hình : hiện rõ hay hiện 1 phần thông tin để bảo đảm BMATTT - Phần quyền cho user nào có thể cập nhật nhóm KH nào...Tham khảo giao diện quản lý của Strxxx (với các trường cấu hình hiển thị cho queue, nếu KH nào mà thiếu thông tin trường nào thì sẽ hiển thị chữ mờ để ĐTV biết)\"",
+        "style": "bold",
+        "page_num": 41,
+        "block_num": 5,
+        "bbox": [
+            353.3299865722656,
+            214.85336303710938,
+            451.619140625,
+            227.07464599609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "trường cần hiển thị tùy thời điểm và tùy queue - Năng lực add khoảng 100 tr thuê bao - Cho phép ĐTV thực hiện gửi yêu cầu cập nhật thông tin cho KH nếu phát hiện thông tin Popup bị sai, các yc này sẽ được gửi đến cho giám sát viên, gs viên sẽ là người cập nhật, ht ghi log lại các yc, ng yc, tình trạng đã đc cập nhật, chưa cập nhật, thời điểm cập nhật (phân quyền gs queue nào chỉ nhìn đc yc & sửa queue đó). - Có thể cấu hình ON/OFF các trường nào ĐTV có thể tự cập nhật trong khi KH gọi lên - Mỗi trường đều có chức năng cấu hình : hiện rõ hay hiện 1 phần thông tin để bảo đảm BMATTT - Phần quyền cho user nào có thể cập",
+        "style": "bold",
+        "page_num": 42,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "nhật nhóm KH nào...Tham khảo giao diện quản lý của Strxxx",
+        "style": "bold",
+        "page_num": 43,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "nhật nhóm KH nào...Tham khảo giao diện quản lý của Strxxx",
+        "text": "(với các trường cấu hình hiển thị cho queue, nếu KH nào mà thiếu thông tin trường nào thì sẽ hiển thị chữ mờ để ĐTV biết)",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 2,
+        "bbox": [
+            246.97999572753906,
+            195.41336059570312,
+            336.9229431152344,
+            296.19464111328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 44,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "tương tác trước đó KH gọi lên (khi KH liên hệ lên tổng đài ở tất cả các kênh)",
+        "style": "bold",
+        "page_num": 45,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 46,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "KH khác nhau có ht nhận diện khác nhau)",
+        "style": "bold",
+        "page_num": 47,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "với các KH thỏa mãn 2 trong 3 điều kiện nêu trên",
+        "style": "bold",
+        "page_num": 48,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "5 Xử lý trong khi tương tác",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 48,
+        "block_num": 6,
+        "bbox": [
+            56.7599983215332,
+            430.51336669921875,
+            252.5,
+            443.93463134765625
+        ]
+    },
+    {
+        "prefix": "Hiển thị chi tiết thông tin trạng thái của agent trong queue: availble, not_available, no_acd, no_anwser, meeting, at_lunch, go_out, typing.",
+        "text": "Go_out",
+        "suffix": "là trạng thái do hệ thống tự set cho Điện thoại viên, khi cuộc gọi đang hold mà khách hàng ngắt máy",
+        "style": "bold",
+        "page_num": 48,
+        "block_num": 8,
+        "bbox": [
+            353.3299865722656,
+            496.183349609375,
+            388.19427490234375,
+            508.4046325683594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 49,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 50,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 51,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 52,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 53,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 54,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Luồng kiểm tra nhận diện trong lúc đàm thoại:",
+        "suffix": "- ĐTV click button xác minh KH trên giao diện nghiệp vụ BCCS -> BCCS check ht eKYC xem SĐT này đăng kí eKYC chưa-> Nếu có thì BCCS thực hiện gửi yc sang IPCC để IPCC lấy 1 phần ghi âm cuộc gọi hiện tại gửi sang ht eKYC -> eKYC so sánh dữ liệu trả về kết quả xác minh trên giao diện BCCS cho ĐTV -> ĐTV dựa vào KQ để thực hiện nghiệp vụ cho KH mà KH không bị hỏi han nhiều.",
+        "style": "bold",
+        "page_num": 54,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            157.943359375,
+            341.8799133300781,
+            195.48464965820312
+        ]
+    },
+    {
+        "prefix": "- ĐTV click button xác minh KH trên giao diện nghiệp vụ BCCS -> BCCS check ht eKYC xem SĐT này đăng kí eKYC chưa-> Nếu có thì BCCS thực hiện gửi yc sang IPCC để IPCC lấy 1 phần ghi âm cuộc gọi hiện tại gửi sang ht eKYC -> eKYC so sánh dữ liệu trả về kết quả xác minh trên giao diện BCCS cho ĐTV -> ĐTV dựa vào KQ để thực hiện nghiệp vụ cho KH mà KH không bị hỏi han nhiều.",
+        "text": "(luồng trên IVR thì đã mô tả trên mục 1.9)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 54,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            461.6233825683594,
+            337.53009033203125,
+            499.1646423339844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 55,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 56,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 57,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 58,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "5.39",
+        "text": "Chat nội bộ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 58,
+        "block_num": 3,
+        "bbox": [
+            88.2239990234375,
+            265.49334716796875,
+            146.05999755859375,
+            277.7146301269531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 59,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 60,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 61,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 62,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Bổ xung thêm ngoài giao diện như tìm kiếm trên AD hiện tại: Hệ thống cảnh báo cuộc gọi của NV dài quá thời gian quy định (ví dụ 6 phút) để giám sát có thể nghe song song hỗ trợ. Hệ thống có thể cảnh báo nếu NV để sai chế độ ví dụ away from desk hơn 30 phút. Hệ thống có thể cảnh báo khi số lượng cuộc gọi chờ/số lượng email chưa được xử lý/số tương tác mạng xã hội chưa được xử lý vượt quá số lượng quy định. Số lượng hoặc thời gian có thể chủ động tùy chỉnh.",
+        "text": "Đề xuất: - Đã đáp ứng ở chức năng GS thông tin cuộc gọi",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 62,
+        "block_num": 5,
+        "bbox": [
+            353.3299865722656,
+            354.0733642578125,
+            578.4200439453125,
+            378.8946533203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 63,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Bổ xung thêm cảnh báo cho ĐTV: Hệ thống cảnh báo (Tạo notification) toàn bộ nhân viên đang login khi cuộc gọi trong hàng chờ vượt quá số lượng cài đặt (số này có thể chủ động cài đặt theo thời gian, theo queue, tần xuất cảnh báo).",
+        "text": "Đề xuất:",
+        "suffix": "- Bổ sung 1 chức năng cảnh bảo khi hệ thống đến ngưỡng thì sẽ cảnh báo, cảnh báo cho TVV, GS - Cho phép cấu hình theo màu cảnh báo - Cảnh báo màn hình: màn hình ĐTV và màn hình của GS - TungTV đề xuất đưa vào bài toán ngẽn",
+        "style": "bold",
+        "page_num": 63,
+        "block_num": 6,
+        "bbox": [
+            353.3299865722656,
+            242.8133544921875,
+            393.471435546875,
+            255.03463745117188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 64,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 65,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 66,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "6 Xử lý kết thúc tương tác",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 66,
+        "block_num": 6,
+        "bbox": [
+            56.7599983215332,
+            349.3933410644531,
+            252.5,
+            362.81463623046875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 67,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Kết thúc thông thường,",
+        "text": "tạo TICKET",
+        "suffix": "(tham khảo thêm phần 12.2.8 - các chức năng phần mạng xã hôi)",
+        "style": "bold",
+        "page_num": 67,
+        "block_num": 4,
+        "bbox": [
+            88.2239990234375,
+            341.3533630371094,
+            210.7294464111328,
+            378.8946533203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Tự động tạo TICKET đối với kênh thoại cũng như các kênh khác cho cả 2 chiều INbound/Outbound - TICKET có thể mapping với 1 bản ghi trên hệ thống CRM của 1 đơn vi khác (BCCS_CC), CRM của VTPost...) - Bổ xung chi tiết danh sách THUỘC TÍNH của 1 TICKET Ngoài ra lưu ý các bất cập ht cũ:",
+        "suffix": "Hiện tại khi Giám sát thực hiện giao lại ticket thủ công cho NVCSKH gặp tình trạng: hệ thống Econtact hiển thị toàn bộ NVCSKH bao gồm cả NVCSKH đang online (NVCSKH đi làm) và offline (NVCSKH không đi làm) dẫn đến tình trạng nhầm lẫn trong",
+        "style": "bold",
+        "page_num": 67,
+        "block_num": 5,
+        "bbox": [
+            246.97999572753906,
+            157.943359375,
+            343.3699951171875,
+            410.57464599609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "quá trình giao (hình ảnh bên dưới). -Mong muốn nâng cấp: + Ưu tiên hiển thị danh sách các NVCSKH đang online lên đầu. + Có ký hiệu nhận biết để phân biệt giữa NVCSKH đang online và offline. (tham khảo thêm phần 12.2.8 - các chức năng phần mạng xã hôi)",
+        "style": "bold",
+        "page_num": 68,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 69,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 70,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 71,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 72,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 73,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7 Gọi ra",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 73,
+        "block_num": 5,
+        "bbox": [
+            56.7599983215332,
+            220.13336181640625,
+            252.5,
+            233.55465698242188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "thông báo cả số lần đã gọi ra trc đó nhưng KH ko nghe máy để ĐTV nắm được",
+        "style": "bold",
+        "page_num": 74,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "thông báo cả số lần đã gọi ra trc đó nhưng KH ko nghe máy để ĐTV nắm được",
+        "text": "(Tương tự trên các kênh khác có thể thiết lập chiến dịch outbound : Zalo broadcast, SMS Broadcast, Email Broadcast ...vd nhắc cm sinh nhat)",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 74,
+        "block_num": 2,
+        "bbox": [
+            246.97999572753906,
+            220.73336791992188,
+            342.47601318359375,
+            321.5146484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 75,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 76,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 77,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8 Xử lý call back",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 77,
+        "block_num": 16,
+        "bbox": [
+            56.7599983215332,
+            581.163330078125,
+            252.5,
+            594.5846557617188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 78,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "8.1",
+        "text": "Voice call back (auto call back)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 78,
+        "block_num": 3,
+        "bbox": [
+            88.2239990234375,
+            255.53335571289062,
+            237.37998962402344,
+            267.754638671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Callbacks: https://help.mypure cloud.com/articles/a bout-callbacks/ Hiện tại có chức năng tự động gọi lại KH nhỡ (có nên xây dựng chức năng để KH đăng kí gọi lại trên queue chờ ACD)",
+        "suffix": "- Callback cho Agent: Voice interactions for agents overview Place, transfer, and dismiss a callback Schedule callbacks during a voice interaction Schedule a callback in a script - Callbacks for administrators and contact center managers:",
+        "style": "bold",
+        "page_num": 78,
+        "block_num": 5,
+        "bbox": [
+            246.97999572753906,
+            185.933349609375,
+            693.5800170898438,
+            286.7146301269531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 79,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 80,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "8.5",
+        "text": "Gọi ra",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 80,
+        "block_num": 7,
+        "bbox": [
+            88.2239990234375,
+            565.1793212890625,
+            252.5,
+            577.400634765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 81,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 82,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "9 Vận hành",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 82,
+        "block_num": 8,
+        "bbox": [
+            56.7599983215332,
+            370.1533508300781,
+            252.5,
+            383.57464599609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 83,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "cây và log tác động thay file âm thanh",
+        "style": "bold",
+        "page_num": 84,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 85,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 86,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 87,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1. Đồng bộ tự động: Đồng bộ hạng khách hàng từ TẤT CẢ các hệ thống dịch vụ của Viettel :",
+        "suffix": "- Đồng bộ danh sách KH VIP tự động từ Viettel ++ (đang triển khai dở theo mã IBM 1550194) -  Đồng bộ danh sách KH VIP tự động từ hệ thống quản lý hạng KH của ViettelPost - Đồng bộ danh sách KH VIP tự động từ hệ thống quản lý hạng KH của XNK -  Đồng bộ danh sách KH VIP tự động từ hệ thống quản lý hạng KH của Công ty Công trình -  Đồng bộ danh sách KH VIP tự động từ hệ thống quản lý hạng KH dịch vụ SME - Đồng bộ danh sách KH VIP tự động từ hệ thống quản lý hạng khách hàng dịch vụ tài chính",
+        "style": "bold",
+        "page_num": 87,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            157.943359375,
+            345.6500244140625,
+            220.83465576171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "ngân hàng Đồng bộ với các ht khác nếu có dịch vụ mới",
+        "style": "bold",
+        "page_num": 88,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "ngân hàng Đồng bộ với các ht khác nếu có dịch vụ mới",
+        "text": "2. Phân quyền :",
+        "suffix": "- Trong các màn hình tìm kiếm, cho phép lựa chọn \"nguồn dữ liệu VIP\"  cho tìm kiếm trong tất cả các nguồn, hoặc từng nguồn tùy theo phân quyền - Phân quyền đến từng nút tìm kiếm, xuất báo cáo - Các chức năng xuất báo cáo có 2 loại buton : xuất danh sách không mã hóa số TB và xuất có mã hóa 1 phần số",
+        "style": "bold",
+        "page_num": 88,
+        "block_num": 2,
+        "bbox": [
+            246.97999572753906,
+            208.01336669921875,
+            320.37396240234375,
+            220.23464965820312
+        ]
+    },
+    {
+        "prefix": "- Trong các màn hình tìm kiếm, cho phép lựa chọn \"nguồn dữ liệu VIP\"  cho tìm kiếm trong tất cả các nguồn, hoặc từng nguồn tùy theo phân quyền - Phân quyền đến từng nút tìm kiếm, xuất báo cáo - Các chức năng xuất báo cáo có 2 loại buton : xuất danh sách không mã hóa số TB và xuất có mã hóa 1 phần số",
+        "text": "3. Nghiệp vụ:",
+        "suffix": "- Cho phép import danh sách để tìm hạng tương ứng theo file",
+        "style": "bold",
+        "page_num": 88,
+        "block_num": 2,
+        "bbox": [
+            246.97999572753906,
+            435.7933654785156,
+            312.4100036621094,
+            448.0146484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 89,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 90,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "9.30 Partime (xem tài liệu chi tiết) 9.31 Voice to text 9.32 Chức năng test nhóm ĐTV",
+        "style": "bold",
+        "page_num": 91,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "9.49 Gán agent cho queue từ file",
+        "style": "bold",
+        "page_num": 92,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 93,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "9.75 Thống kê cuộc gọi chuyển ACD",
+        "style": "bold",
+        "page_num": 94,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "9.91 Quản lý khách hàng VIP 9.92 Danh mục đầu số người dùng",
+        "style": "bold",
+        "page_num": 95,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 96,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 97,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "10 Phân hệ Monitor 10.1 Kênh chat",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 97,
+        "block_num": 16,
+        "bbox": [
+            49.91999816894531,
+            517.539306640625,
+            252.5,
+            546.440673828125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 98,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 99,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 100,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "10.2 Kênh thoại",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 100,
+        "block_num": 7,
+        "bbox": [
+            49.91999816894531,
+            219.65335083007812,
+            252.5,
+            233.07464599609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 101,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Hiện đang giám sát dựa trên Agent desktop + CCMS + KPI online. Veiw đc các thông tin sau: - Biểu đồ TLKN, hiển thị: (1) Lưu lượng CG theo khoảng giờ và lũy kế ngày vào ACD, BOT (Bot tách riêng chỉ gặp BOT và gặp BOT chuyển agent), Tất cả. (2) Target KPI, --> Hiển thị theo queue - Veiw đc các thông số trên",
+        "text": "Agent desktop",
+        "suffix": ", các tab: +",
+        "style": "bold",
+        "page_num": 101,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            373.0333557128906,
+            310.35369873046875,
+            397.8546447753906
+        ]
+    },
+    {
+        "prefix": ", các tab: +",
+        "text": "Giám sát queue",
+        "suffix": "(Tổng CG vào, CG chờ, CG trả lời, Ag chính/phụ, Các thông tin khác đã có trên Giám sát queue +",
+        "style": "bold",
+        "page_num": 101,
+        "block_num": 4,
+        "bbox": [
+            256.010009765625,
+            398.3533630371094,
+            329.41497802734375,
+            410.57464599609375
+        ]
+    },
+    {
+        "prefix": "(Tổng CG vào, CG chờ, CG trả lời, Ag chính/phụ, Các thông tin khác đã có trên Giám sát queue +",
+        "text": "Tìm kiếm trạng thái agent + Thống kê trạng thái CG và ĐTV",
+        "suffix": "(hiển thị theo đối tác, theo tổng đài: ready, not ready, ringing..., tổng) + Các tiện ích khác:",
+        "style": "bold",
+        "page_num": 101,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            474.2233581542969,
+            332.7601013183594,
+            524.3606567382812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "Quản lý queue (gán queue thủ công), Trạng thái CG (dùng để nghe line), Chat, Gọi ra ngoài (hiện gọi ra trên bccs)  => Check đưa sang mục nào + Tiện ích của Giám sát: Nghe online, Gán CG, Nghe online CG ra + Tab không dùng: Trạng thái ag (giống tìm kiếm trạng thái ag), Thông tin HT (giống giám sát queue)",
+        "style": "bold",
+        "page_num": 102,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 103,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 104,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 105,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "cuộc gọi, chat - Phân theo Viettel, Đối tác",
+        "style": "bold",
+        "page_num": 106,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 107,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 108,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "10.3 Kênh video call",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 108,
+        "block_num": 8,
+        "bbox": [
+            49.91999816894531,
+            332.1133728027344,
+            252.5,
+            345.5346374511719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 109,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Hiện đang giám sát dựa trên Agent desktop + CCMS + KPI online. Veiw đc các thông tin sau: - Biểu đồ TLKN, hiển thị: (1) Lưu lượng CG theo khoảng giờ và lũy kế ngày vào ACD, BOT (Bot tách riêng chỉ gặp BOT và gặp BOT chuyển agent), Tất cả. (2) Target KPI, --> Hiển thị theo queue - Veiw đc các thông số trên",
+        "text": "Agent desktop",
+        "suffix": ", các tab: +",
+        "style": "bold",
+        "page_num": 109,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            373.0333557128906,
+            310.35369873046875,
+            397.8546447753906
+        ]
+    },
+    {
+        "prefix": ", các tab: +",
+        "text": "Giám sát queue",
+        "suffix": "(Tổng CG vào, CG chờ, CG trả lời, Ag chính/phụ, Các thông tin khác đã có trên Giám sát queue +",
+        "style": "bold",
+        "page_num": 109,
+        "block_num": 4,
+        "bbox": [
+            256.010009765625,
+            398.3533630371094,
+            329.41497802734375,
+            410.57464599609375
+        ]
+    },
+    {
+        "prefix": "(Tổng CG vào, CG chờ, CG trả lời, Ag chính/phụ, Các thông tin khác đã có trên Giám sát queue +",
+        "text": "Tìm kiếm trạng thái agent + Thống kê trạng thái CG và ĐTV",
+        "suffix": "(hiển thị theo đối tác, theo tổng đài: ready, not ready, ringing..., tổng) + Các tiện ích khác:",
+        "style": "bold",
+        "page_num": 109,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            474.2233581542969,
+            332.7601013183594,
+            524.3606567382812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "Quản lý queue (gán queue thủ công), Trạng thái CG (dùng để nghe line), Chat, Gọi ra ngoài (hiện gọi ra trên bccs)  => Check đưa sang mục nào + Tiện ích của Giám sát: Nghe online, Gán CG, Nghe online CG ra + Tab không dùng: Trạng thái ag (giống tìm kiếm trạng thái ag), Thông tin HT (giống giám sát queue)",
+        "style": "bold",
+        "page_num": 110,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 111,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 112,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 113,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "cuộc gọi, chat - Phân theo Viettel, Đối tác",
+        "style": "bold",
+        "page_num": 114,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 115,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 116,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "10.4 Email",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 116,
+        "block_num": 8,
+        "bbox": [
+            49.91999816894531,
+            332.1133728027344,
+            252.5,
+            345.5346374511719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 117,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "11 Các chức năng liên quan đến kênh phi thoại 11.1 Phân hệ email",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 117,
+        "block_num": 7,
+        "bbox": [
+            49.91999816894531,
+            190.01336669921875,
+            252.5,
+            230.91464233398438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 118,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 119,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 120,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 121,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 122,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 123,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 124,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "- Chức năng filter theo các tiêu chí: user (ĐTV đang được giao), thời gian, chủ đề,",
+        "text": "wrap up code",
+        "suffix": ", trạng thái",
+        "style": "bold",
+        "page_num": 124,
+        "block_num": 14,
+        "bbox": [
+            353.3299865722656,
+            440.1133728027344,
+            760.7679443359375,
+            464.96466064453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 125,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 126,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 127,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 128,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 129,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 130,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 131,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "ID đăng nhập hệ thống eContact;",
+        "style": "bold",
+        "page_num": 132,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "11.1.10",
+        "text": "Chức năng báo cáo",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 132,
+        "block_num": 4,
+        "bbox": [
+            88.2239990234375,
+            323.5933532714844,
+            180.97999572753906,
+            335.81463623046875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "11.2 Phân hệ mạng xã hội",
+        "suffix": "11.2.1 Popup trên kênh Mạng xã hội - Popup thông tin khách hàng trên kênh MXH",
+        "style": "bold",
+        "page_num": 132,
+        "block_num": 7,
+        "bbox": [
+            49.91999816894531,
+            432.7933654785156,
+            192.13999938964844,
+            445.0146484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 133,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 134,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 135,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 136,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 137,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "đóng toàn bộ ticket hoặc đóng 1 phần ticket (theo khoảng thời gian từ ngày tới ngày)  Chưa hỗ trợ đóng ticket hàng loạt theo bài post hoặc từ khóa… (như hình ảnh bên dưới). ðĐối với các bài post dạng livestream hoặc minigame, số lượng ticket đẩy về hệ thống rất lớn, phần lớn là các ticket không cần giải đáp  Người dùng phải thực hiện đóng thủ công trên hệ thống, ảnh hưởng tới tiến độ xử lý đối với các ticket khác. -Mong muốn nâng cấp: Bổ sung thêm tính năng đóng ticket hàng loạt theo bài post (theo mã bài post, link bài post) hoặc từ khóa. Người sử dụng có thể chọn từng bài post, hoặc nhập từ khóa tra cứu  Hệ thống sẽ hiển thị toàn bộ các ticket có liên quan để người dùng có thể thực hiện đóng ticket. 4 & 5. Xem trong PYC mã IBM đính kèm",
+        "style": "bold",
+        "page_num": 138,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 139,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "hàng chờ là 600s). Trong trường hợp vẫn không có TVV rảnh để tiếp nhận phiên chat từ KH => Hệ thống sẽ hiển thị thông báo: (1)  Với các KH có dữ liệu có thể tương tác lại (định danh) bao gồm: (1) App: MyViettel, Mocha, Zalo; (2) Facebook => hiển thị thông báo: “Hiện tại toàn bộ các tư vấn viên đang bận, Viettel sẽ sớm liên hệ lại để hỗ trợ KH” (2)  Với các KH không có dữ liệu để tương tác lại bao gồm: KH tương tác trên các web (4g.viettel.vn, viettel.vn, vtracking.viettel.vn, smartmotor.vn) => hiển thị thông báo: “Hiện tại toàn bộ các tư vấn viên đang bận, Quý khách vui lòng để lại thông tin liên hệ để Viettel có thể",
+        "style": "bold",
+        "page_num": 140,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "liên hệ lại hỗ trợ (email, SĐT)”. => nội dung này anh xin ý kiến của Sếp và chốt giúp em -         Về cơ chế tương tác lại với các KH bị rớt + Với các KH có dữ liệu có thể tương tác lại (định danh) => Hệ thống cho phép TVV tương tác lại qua hệ thống chat ngay cả khi KH đã bị rớt. + Với các KH không có dữ liệu để tương tác lại (không định danh) bao gồm: KH tương tác trên các web (4g.viettel.vn, viettel.vn, vtracking.viettel.vn, smartmotor.vn) => TVV sẽ liên hệ lại theo thông tin mà KH để lại (email, SĐT). Với nội dung này sẽ phát sinh trường hợp: KH để lại số liên hệ của người khác, không phải số thực tế của KH => Phát sinh các",
+        "style": "bold",
+        "page_num": 141,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "trường hợp khiếu nại do không xác nhận được SĐT mà KH cung cấp có chính xác hay không?",
+        "style": "bold",
+        "page_num": 142,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 143,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 144,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 145,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "11.2.26",
+        "text": "Các tính năng tích hợp với FaceBook",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 145,
+        "block_num": 3,
+        "bbox": [
+            88.2239990234375,
+            159.50335693359375,
+            252.5,
+            184.44464111328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 146,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "11.2.35",
+        "text": "IPCC CLOUD BAMBOO - CHAT ON WEB PORTAL",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 146,
+        "block_num": 7,
+        "bbox": [
+            88.2239990234375,
+            250.61337280273438,
+            252.5,
+            275.43463134765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 147,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "Cảnh báo KPI thời gian hold chat",
+        "text": "12 HappyCall",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 147,
+        "block_num": 13,
+        "bbox": [
+            54.0,
+            559.7794189453125,
+            252.5,
+            572.0006713867188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR 12.1 Cấu hình tham số HT Thêm sửa xóa các tham số chung của hệ thống",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 148,
+        "block_num": 4,
+        "bbox": [
+            49.91999816894531,
+            116.66336059570312,
+            600.2200317382812,
+            195.48464965820312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "12.2 Quản lý khách hàng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 148,
+        "block_num": 6,
+        "bbox": [
+            49.91999816894531,
+            197.5733642578125,
+            252.5,
+            209.79464721679688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 149,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 150,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 151,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 152,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "12.3 Quản lý chiến dịch",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 152,
+        "block_num": 4,
+        "bbox": [
+            49.91999816894531,
+            189.65335083007812,
+            252.5,
+            201.8746337890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 153,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 154,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "Theo múi giờ trong ngày hay khoảng thời gian - Chọn chế độ thực hiện cho chiến dịch: + Manual + Preview + Progressive + Predictive",
+        "style": "bold",
+        "page_num": 155,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 156,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 157,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 158,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "tiến độ HPC. - Báo cáo Campaign: Đảm bảo hệ thống cho phép xuất được kết quả đầy đủ thông tin các trường như dữ liệu đồng bộ sang",
+        "style": "bold",
+        "page_num": 159,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 160,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 161,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 162,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "được thông tin KH trước khi gọi. + Agent không được phép bỏ qua một KH và xử lý tiếp KH khác (Agent chỉ có thể từ chối cuộc gọi đến từ hệ thống). + Với dạng chiến dịch này, người quản lý muốn tối đa nhất công suất gọi điện của Agent, chấp nhận trường hợp có thể KH nghe máy nhưng không gặp được Agent (chưa có Agent rảnh tiếp nhận cuộc gọi, hoặc KH tắt máy trước khi gặp Agent)",
+        "style": "bold",
+        "page_num": 163,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 164,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "lý muốn agent có thời gian nhất định để xem thông tin KH trước khi đàm thoại",
+        "style": "bold",
+        "page_num": 165,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 166,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 167,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "tối đa và khoảng cách từ thời điểm cuộc gọi gần nhất đến thời điểm phân bổ >= tham số khoảng cách giữa 2 lần liên lạc.",
+        "style": "bold",
+        "page_num": 168,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 169,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "12.4 Thực hiện chiến dịch",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 169,
+        "block_num": 12,
+        "bbox": [
+            49.91999816894531,
+            496.3033752441406,
+            252.5,
+            508.524658203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 170,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "đến KH theo tin nhắn đã được cấu hình trước để xin lịch hẹn gọi lại cho KH",
+        "style": "bold",
+        "page_num": 171,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 172,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "DNC của tháng cũ sẽ được cập nhật thành khách hàng bình thường, không còn là khách hàng DNC.",
+        "style": "bold",
+        "page_num": 173,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 174,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 175,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "chỉnh sửa nội dung kịch bản. - Cho phép import kịch bản theo file",
+        "style": "bold",
+        "page_num": 176,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 177,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 178,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "- Quyền áp dụng đến mức nút chức năng",
+        "style": "bold",
+        "page_num": 179,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 180,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 181,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 182,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "12.5 Báo cáo Campaign",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 182,
+        "block_num": 8,
+        "bbox": [
+            49.91999816894531,
+            351.3133544921875,
+            252.5,
+            363.5346374511719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 183,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 184,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "được + KH báo bận + Sai số ĐT Kết quả bán hàng + KH đồng ý mua + KH không đồng ý mua + KH xem xét + KH tự đăng ký",
+        "style": "bold",
+        "page_num": 185,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 186,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 187,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 188,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 189,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "13 Chấm điểm cuộc gọi",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 189,
+        "block_num": 6,
+        "bbox": [
+            54.0,
+            399.6733703613281,
+            252.5,
+            411.8946533203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "I HT Chấm điểm giám sát",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 189,
+        "block_num": 6,
+        "bbox": [
+            57.36000061035156,
+            415.1533508300781,
+            252.5,
+            427.3746337890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 190,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Cho phép chấm cho các đơn vị trong và ngoài Viettel - Với nhân sự chủ dịch vụ thì được phép tìm kiếm các tương tác chỉ của đơn vị đó - Với nhân sự giám sát là người được thuê vận hành quản lý (outsource ) thì được phép tìm kiếm tương tác các dịch vụ của các đơn vị khác nhau theo đơn vị được gán - Cho phép người dùng truy cập hệ thống từ ngoài internet nếu được phân quyền - Cho phép cung cấp API cho hệ thống đánh giá KI, chấm công của TTCSKH",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 190,
+        "block_num": 4,
+        "bbox": [
+            246.97999572753906,
+            246.53335571289062,
+            345.1256103515625,
+            587.6246337890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 191,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 192,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 193,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 194,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 195,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 196,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "phầm…). o Cấp 3: Phân loại chi tiết theo nhu cầu của KH (cú pháp sử dụng, cách sử dụng, giá cước…). o Cấp 4: Phân loại chi tiết theo tên sản phẩm/ dịch vụ/ chính sách (Economy, V120…). o Cấp 5: Phân loại chi tiết theo hành vi sử dụng dịch vụ và nguyên nhân lỗi.",
+        "style": "bold",
+        "page_num": 197,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 198,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "người lưu sau sẽ nhận được thông báo “Cuộc gọi này đã chấm”. + Phần phân loại nghiệp vụ: trường hợp xếp loại TB, Yếu bắt buộc chọn phân loại cấp 4,5. + Phần kỹ năng: bắt buộc chọn ít nhất một tiêu chí cha. Nếu chọn tiêu chí cha có tiêu chí con thì bắt buộc chọn ít nhất một tiêu chí con.",
+        "style": "bold",
+        "page_num": 199,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 200,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "gọi ở trạng thái đang chấm. +  Kết thúc chấm và lưu dữ liệu -> chuyển sang trạng thái đã chấm. + Đối với cuộc gọi được chấm cùng lúc, lấy kết quả lưu trước, người lưu sau sẽ nhận được thông báo “Cuộc gọi này đã chấm”. + Phần phân loại nghiệp vụ: trường hợp xếp loại TB, Yếu bắt buộc chọn phân loại cấp 4,5. + Phần kỹ năng: bắt buộc chọn ít nhất một tiêu chí cha. Nếu chọn tiêu chí cha có tiêu chí con thì bắt buộc chọn ít nhất một tiêu chí con.",
+        "style": "bold",
+        "page_num": 201,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 202,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 203,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "CSKH, số điện thoại của KH gọi tổng đài. Đồng thời trong quá trình tra cứu xong có thể thực hiện sửa/ khôi phục cuộc gọi theo yêu cầu",
+        "style": "bold",
+        "page_num": 204,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 205,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "- Nhận xét và chọn bộ lỗi.",
+        "style": "bold",
+        "page_num": 206,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "được cấu hình với điểm trừ.",
+        "style": "bold",
+        "page_num": 207,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "II Chức năng cấu hình hệ thống",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 207,
+        "block_num": 3,
+        "bbox": [
+            55.20000076293945,
+            249.65335083007812,
+            252.5,
+            261.8746337890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 208,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "III Đánh giá Học viên",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 208,
+        "block_num": 6,
+        "bbox": [
+            53.040000915527344,
+            309.6533508300781,
+            252.5,
+            321.8746337890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "NV CKSH đang làm việc (gọi dữ liệu từ hệ thống IPCC đẩy lên phần mềm chấm điểm, sử dụng thang điểm chấm offline)",
+        "style": "bold",
+        "page_num": 209,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 210,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "tổng test, tổng đạt về đánh giá chung, cột tỷ lệ đạt (Tỷ lệ đạt =Tổng cuộc gọi đạt/ tổng cuộc gọi test). - Thống kê các cuộc gọi không đạt ở các tiêu chí (tùy chọn): trên các tiêu chí Nghiệp vụ, kỹ năng, thái độ, kết thúc cuộc gọi (chào KH), đánh giá chung, phân loại nghiệp vụ… Mẫu tổng hợp: --> Xuất file excel theo mẫu tại Phiếu yêu cầu",
+        "style": "bold",
+        "page_num": 211,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR IV Tab chấm điểm cuộc gọi cho kênh chat đa kênh và mạng xã hội",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 212,
+        "block_num": 4,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            197.91464233398438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "+ Tiêu chí điểm trừ bao gồm: + Kỹ năng nói /viết, + Kỹ năng lắng nghe/ trình bày + Kỹ năng tra cứu + Tiến độ.",
+        "style": "bold",
+        "page_num": 213,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 214,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "V Tạo tab chấm điểm cuộc gọi Videocall",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 214,
+        "block_num": 15,
+        "bbox": [
+            55.560001373291016,
+            431.1133728027344,
+            222.6912078857422,
+            455.96466064453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 215,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 216,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VI Tạo tab chấm điểm cho kênh Email",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 216,
+        "block_num": 6,
+        "bbox": [
+            53.400001525878906,
+            223.25335693359375,
+            252.5,
+            248.19464111328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 217,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VII Báo cáo",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 217,
+        "block_num": 14,
+        "bbox": [
+            51.2400016784668,
+            475.6633605957031,
+            252.5,
+            487.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 218,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 219,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 220,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 221,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "14 Mobile Call(CG tư vấn bán hàng)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 221,
+        "block_num": 5,
+        "bbox": [
+            54.0,
+            568.059326171875,
+            252.5,
+            592.9046630859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 222,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "15 Video Call Quản lý bán hàng mới",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 222,
+        "block_num": 19,
+        "bbox": [
+            54.0,
+            415.51336669921875,
+            252.5,
+            440.33465576171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 223,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "16 Video Call xác minh khách hàng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 223,
+        "block_num": 5,
+        "bbox": [
+            54.0,
+            188.453369140625,
+            252.5,
+            213.3946533203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.      Nhiều cuộc gọi ko tìm kiếm lại được (NN do đang bị đầy bộ nhớ)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 223,
+        "block_num": 19,
+        "bbox": [
+            246.97999572753906,
+            341.3533630371094,
+            343.6794128417969,
+            391.49462890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4.      Thỉnh thoảng tại 1 thời điểm cuộc gọi bị rớt nhiều (ví dụ 16h ngày 14/6)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 223,
+        "block_num": 23,
+        "bbox": [
+            246.97999572753906,
+            404.5933532714844,
+            342.0786437988281,
+            454.7346496582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 224,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "17 Video Call CSKH",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 224,
+        "block_num": 11,
+        "bbox": [
+            54.0,
+            298.37335205078125,
+            252.5,
+            310.5946350097656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "không nhìn thấy nhau)",
+        "style": "bold",
+        "page_num": 225,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 226,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 227,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 228,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "TVV, giải phóng kênh",
+        "style": "bold",
+        "page_num": 229,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 230,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 231,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 232,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nghe offline",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 232,
+        "block_num": 11,
+        "bbox": [
+            88.2239990234375,
+            413.1133728027344,
+            148.09999084472656,
+            425.33465576171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 233,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nghe online",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 233,
+        "block_num": 11,
+        "bbox": [
+            88.2239990234375,
+            299.3333740234375,
+            146.89999389648438,
+            311.5546569824219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 234,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 235,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Quản lý cuộc gọi ra của ĐTV",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 235,
+        "block_num": 15,
+        "bbox": [
+            88.2239990234375,
+            489.5833435058594,
+            227.89999389648438,
+            501.80462646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 236,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 237,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Call me back",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 237,
+        "block_num": 7,
+        "bbox": [
+            88.2239990234375,
+            361.9933776855469,
+            152.6599884033203,
+            374.21466064453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 238,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 239,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 240,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 241,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 242,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 243,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Theo dõi thuê bao quấy rối",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 243,
+        "block_num": 2,
+        "bbox": [
+            88.2239990234375,
+            159.14337158203125,
+            217.8199920654297,
+            171.36465454101562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "+ Chọn tool Quấy rối + Nhập số thuê bao + Ấn nút tác động chặn, Nhập trường: ghi rõ nguyên nhân chặn",
+        "style": "bold",
+        "page_num": 244,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nhắn tin",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 244,
+        "block_num": 7,
+        "bbox": [
+            88.2239990234375,
+            475.5433654785156,
+            132.25999450683594,
+            487.7646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 245,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "1. Điều kiện chọn: + Chọn tool",
+        "text": "Nhắn tin",
+        "suffix": "+ Ô nhập mã Agent, hoặc danh sách Agent + Ô chọn nhóm: Hệ thống gom sẵn theo nhóm ĐTV đã được chia sẵn. + Ô nhập nội dung tin nhắn => Nút gửi, hiển thị Alias + Trường loại bỏ thuê bao/ nhiều TB ra khỏi danh sách nhắn tin: Nhập số thuê bao => Ấn thực hiện 2. Kết quả: + Trưởng ca nhắn tin thông báo đến nhóm nhân sự ĐTV GS, TC.. điều kiện là số thuê bao đã được add trên hệ thống, không nhắn được các số ngoài DS + Trưởng ca loại bỏ các số thuê bao ra khỏi danh sách nhắn tin",
+        "style": "bold",
+        "page_num": 245,
+        "block_num": 5,
+        "bbox": [
+            246.97999572753906,
+            170.54336547851562,
+            331.0090637207031,
+            195.48464965820312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thông tin agent",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 245,
+        "block_num": 7,
+        "bbox": [
+            88.2239990234375,
+            564.4593505859375,
+            165.5,
+            576.6806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 246,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nhóm tính năng tiếp nhận giải đáp dành cho NV CSKH",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 246,
+        "block_num": 8,
+        "bbox": [
+            88.2239990234375,
+            288.89337158203125,
+            234.37152099609375,
+            313.83465576171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 247,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "nhấn nút gọi ra. Cuộc gọi ra sẽ được ghi âm",
+        "style": "bold",
+        "page_num": 248,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nhóm tính năng giám sát và đánh giá chất lượng.",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 248,
+        "block_num": 11,
+        "bbox": [
+            88.2239990234375,
+            440.3533630371094,
+            223.2983856201172,
+            465.20465087890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 249,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 250,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 251,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 252,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 253,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "chuẩn, cảnh bảo nhân sự không đạt năng suất",
+        "style": "bold",
+        "page_num": 254,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 255,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 256,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Đánh giá",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 256,
+        "block_num": 7,
+        "bbox": [
+            88.2239990234375,
+            374.7133483886719,
+            133.45999145507812,
+            386.93463134765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "liệu dưới dạng import file dữ  liệu ( Biểu mẫu 2), kết quả lọc sẽ đẩy về cho giám sát quản lý",
+        "style": "bold",
+        "page_num": 257,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 258,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 259,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "+ Cho phép tra cứu và xuất cuộc gọi chưa chấm/đã chấm/cuộc gọi lỗi theo đơn vị đối tác, theo Giám sát, NV CSKH, số điện thoại của Khách hàng gọi lên. Đồng thời trong quá trình tra cứu xong có thể thực hiện sửa, khôi phục cuộc gọi theo yêu cầu (lưu ý: khôi phục chỉ dùng khi Giám sát tích bỏ sai cuộc gọi lỗi).",
+        "style": "bold",
+        "page_num": 260,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giám sát Online",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 260,
+        "block_num": 3,
+        "bbox": [
+            88.2239990234375,
+            568.6593017578125,
+            168.01998901367188,
+            580.880615234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "TT Tên tính năng Mô tả của khách hàng Làm rõ yêu cầu 1 Tiền xử lý khi vào IVR",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 261,
+        "block_num": 2,
+        "bbox": [
+            52.20000076293945,
+            116.66336059570312,
+            600.2200317382812,
+            155.8846435546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Điều hành Online",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 261,
+        "block_num": 7,
+        "bbox": [
+            88.2239990234375,
+            210.29336547851562,
+            174.13999938964844,
+            222.5146484375
+        ]
+    }
+]

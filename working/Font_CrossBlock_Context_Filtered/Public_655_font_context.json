@@ -1,0 +1,142 @@
+[
+    {
+        "prefix": "",
+        "text": "1. BÀN DI CHUỘT Cài đặt Bàn di chuột",
+        "suffix": "- Để điều chỉnh cài đặt và cử chỉ của bàn di chuột, hoặc để tắt bàn di chuột:",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            90.02400207519531,
+            114.53121185302734,
+            226.1300048828125,
+            147.8993377685547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Để bật bàn di chuột",
+        "suffix": "- Nhập touchpad settings (cài đặt bàn di chuột) vào ô tìm kiếm trên thanh tác vụ, sau",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 5,
+        "bbox": [
+            108.0199966430664,
+            238.192626953125,
+            220.37001037597656,
+            252.5393524169922
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thành phần Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 13,
+        "bbox": [
+            143.4199981689453,
+            628.6326293945312,
+            441.9100036621094,
+            642.9793701171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2. ĐÈN",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            90.02400207519531,
+            238.61122131347656,
+            138.74000549316406,
+            253.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thành phần",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 7,
+        "bbox": [
+            154.6999969482422,
+            535.8426513671875,
+            222.89576721191406,
+            550.1893920898438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 7,
+        "bbox": [
+            422.1099853515625,
+            535.8426513671875,
+            454.8700256347656,
+            550.1893920898438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. NÚT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 11,
+        "bbox": [
+            90.02400207519531,
+            317.8412170410156,
+            138.74000549316406,
+            332.3693542480469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thành phần Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 14,
+        "bbox": [
+            123.62000274658203,
+            609.3126220703125,
+            429.0699768066406,
+            623.6593627929688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thành phần Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 13,
+        "bbox": [
+            144.25999450683594,
+            556.6026611328125,
+            460.29998779296875,
+            570.9494018554688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Biểu tượng Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 12,
+        "bbox": [
+            83.90399932861328,
+            362.5426330566406,
+            396.54998779296875,
+            376.88934326171875
+        ]
+    }
+]

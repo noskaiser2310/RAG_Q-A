@@ -1,0 +1,100 @@
+[
+    {
+        "prefix": "",
+        "text": "2. Ký hiệu lỗ trống Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            90.02400207519531,
+            288.92120361328125,
+            492.8199768066406,
+            330.329345703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. Ký hiệu cửa sổ Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 22,
+        "bbox": [
+            90.02400207519531,
+            534.5811767578125,
+            513.8200073242188,
+            576.109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 0,
+        "bbox": [
+            112.33999633789062,
+            113.15264892578125,
+            513.8200073242188,
+            127.49937438964844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 0,
+        "bbox": [
+            112.33999633789062,
+            113.15264892578125,
+            513.8200073242188,
+            127.49937438964844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 0,
+        "bbox": [
+            112.33999633789062,
+            113.15264892578125,
+            513.8200073242188,
+            127.49937438964844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 0,
+        "bbox": [
+            112.33999633789062,
+            113.15264892578125,
+            513.8200073242188,
+            127.49937438964844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 0,
+        "bbox": [
+            112.33999633789062,
+            113.15264892578125,
+            513.8200073242188,
+            127.49937438964844
+        ]
+    }
+]

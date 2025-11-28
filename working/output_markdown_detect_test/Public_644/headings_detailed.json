@@ -1,0 +1,155 @@
+[
+  {
+    "text": "Gạch Ceramic",
+    "level": 1,
+    "page": 1,
+    "probability": 0.5791315513567707,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch Ceramic"
+  },
+  {
+    "text": "Gạch ốp lát Porcelain",
+    "level": 1,
+    "page": 3,
+    "probability": 0.686465661592764,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch ốp lát Porcelain"
+  },
+  {
+    "text": "Gạch Granite",
+    "level": 1,
+    "page": 19,
+    "probability": 0.8030451046469446,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch Granite"
+  },
+  {
+    "text": "Gạch lát",
+    "level": 1,
+    "page": 23,
+    "probability": 0.8063835053143283,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch lát"
+  },
+  {
+    "text": "Gạch ốp, lát",
+    "level": 1,
+    "page": 24,
+    "probability": 0.5154732613038393,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch ốp, lát"
+  },
+  {
+    "text": "Gạch men EuroTile",
+    "level": 1,
+    "page": 25,
+    "probability": 0.7935930209244099,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch men  EuroTile"
+  },
+  {
+    "text": "Gạch granite EuroTile",
+    "level": 1,
+    "page": 28,
+    "probability": 0.9110749647555374,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch granite EuroTile"
+  },
+  {
+    "text": "Gạch men Signature",
+    "level": 1,
+    "page": 30,
+    "probability": 0.8907641637099767,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch men Signature"
+  },
+  {
+    "text": "Gạch Granite in kỹ thuật số Viglacera Tiên Sơn",
+    "level": 1,
+    "page": 31,
+    "probability": 0.5266093200615617,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch Granite in kỹ thuật số Viglacera Tiên Sơn"
+  },
+  {
+    "text": "Gạch Ceramic Viglacera Hà nội",
+    "level": 1,
+    "page": 33,
+    "probability": 0.8653712704554622,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch Ceramic Viglacera Hà nội"
+  },
+  {
+    "text": "Gạch Platium Thăng Long, Hà Nội",
+    "level": 1,
+    "page": 34,
+    "probability": 0.5618511513676558,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Gạch Platium Thăng Long, Hà Nội"
+  },
+  {
+    "text": "Đá Granite",
+    "level": 1,
+    "page": 35,
+    "probability": 0.5163807278195192,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Đá Granite"
+  },
+  {
+    "text": "Đá xẻ",
+    "level": 1,
+    "page": 37,
+    "probability": 0.7367063613214373,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Đá xẻ"
+  },
+  {
+    "text": "Tôn lạnh",
+    "level": 1,
+    "page": 38,
+    "probability": 0.7637742327008826,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Tôn lạnh"
+  },
+  {
+    "text": "Tôn 3 lớp",
+    "level": 1,
+    "page": 39,
+    "probability": 0.7219855155679361,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Tôn 3 lớp"
+  },
+  {
+    "text": "Tôn lợp (Công ty Cổ phần Austnam)",
+    "level": 1,
+    "page": 40,
+    "probability": 0.7285179244326838,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Tôn lợp (Công ty Cổ phần Austnam)"
+  },
+  {
+    "text": "Cột đèn Tín hiệu giao thông",
+    "level": 1,
+    "page": 51,
+    "probability": 0.5711059767329741,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cột đèn Tín hiệu giao thông"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "prefix": "",
+        "text": "Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 6,
+        "bbox": [
+            104.30000305175781,
+            300.50262451171875,
+            496.41998291015625,
+            314.8493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2. Ký hiệu các bộ phận cần sửa chữa Tên ký hiệu Ký hiệu Chú thích",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 1,
+        "bbox": [
+            90.02400207519531,
+            135.1712188720703,
+            516.0999755859375,
+            176.6993865966797
+        ]
+    }
+]

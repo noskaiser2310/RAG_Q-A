@@ -1,0 +1,20 @@
+[
+  {
+    "text": "1. KHÁI NIỆM CHUNG",
+    "level": 1,
+    "page": 1,
+    "probability": 0.8894978819437337,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. KHÁI NIỆM CHUNG"
+  },
+  {
+    "text": "2. VẼ QUY ƯỚC LÒ XO",
+    "level": 2,
+    "page": 2,
+    "probability": 0.8662478838108482,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. VẼ QUY ƯỚC LÒ XO"
+  }
+]

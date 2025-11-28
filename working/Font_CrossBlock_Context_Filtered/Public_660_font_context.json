@@ -1,0 +1,282 @@
+[
+    {
+        "prefix": "",
+        "text": "Ảnh minh họa Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            149.05999755859375,
+            490.6026306152344,
+            528.3399658203125,
+            527.3893432617188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Dẻo hóa và đối áp",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 9,
+        "bbox": [
+            310.7300109863281,
+            614.47265625,
+            412.989990234375,
+            628.8193969726562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Ảnh minh họa Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 3,
+        "bbox": [
+            149.05999755859375,
+            96.3526611328125,
+            528.3399658203125,
+            133.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trường nhập giá trị sạc và đối áp",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 7,
+        "bbox": [
+            310.7300109863281,
+            352.5826416015625,
+            425.2963562011719,
+            389.3693542480469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Biểu đồ nhập giá trị sạc và đối áp",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 23,
+        "bbox": [
+            310.7300109863281,
+            588.5526123046875,
+            424.3373107910156,
+            625.33935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Ảnh minh họa Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 3,
+        "bbox": [
+            149.05999755859375,
+            96.3526611328125,
+            528.3399658203125,
+            133.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hiển thị dữ liệu",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 8,
+        "bbox": [
+            310.7300109863281,
+            270.7426452636719,
+            400.8699951171875,
+            285.08935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Screw position (Vị trí trục vít)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 16,
+        "bbox": [
+            310.7300109863281,
+            349.8226318359375,
+            415.7059326171875,
+            386.4893493652344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Screw revolution (Vòng quay trục vít)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 21,
+        "bbox": [
+            310.7300109863281,
+            395.1826477050781,
+            408.046630859375,
+            454.3093566894531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Charge torque (Mômen sạc)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 25,
+        "bbox": [
+            310.7300109863281,
+            462.88262939453125,
+            395.0852355957031,
+            499.6693420410156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Delay (Độ trễ)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 27,
+        "bbox": [
+            310.7300109863281,
+            519.5226440429688,
+            392.7099914550781,
+            533.869384765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Plasticize Parameter Settings (Cài đặt thông số dẻo hóa)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 34,
+        "bbox": [
+            310.7300109863281,
+            587.232666015625,
+            420.3845520019531,
+            668.8993530273438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Ảnh minh họa Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            149.05999755859375,
+            96.3526611328125,
+            528.3399658203125,
+            133.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vibration Unit (Thiết bị rung)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 13,
+        "bbox": [
+            310.7300109863281,
+            411.88262939453125,
+            396.30999755859375,
+            448.5493469238281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Decompression (Giảm áp)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 28,
+        "bbox": [
+            310.7300109863281,
+            588.192626953125,
+            398.32666015625,
+            624.9793701171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Mode (Chế độ)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 32,
+        "bbox": [
+            310.7300109863281,
+            674.232666015625,
+            397.0299987792969,
+            688.5794067382812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Ảnh minh họa Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 3,
+        "bbox": [
+            149.05999755859375,
+            96.3526611328125,
+            528.3399658203125,
+            133.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Pressure (Áp suất)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 13,
+        "bbox": [
+            310.7300109863281,
+            378.6226501464844,
+            417.30999755859375,
+            392.9693603515625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Velocity (Vận tốc)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 20,
+        "bbox": [
+            310.7300109863281,
+            513.7626342773438,
+            414.30999755859375,
+            528.109375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Position/Time (Vị trí/Thời gian)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 28,
+        "bbox": [
+            310.7300109863281,
+            615.192626953125,
+            411.7387390136719,
+            651.9793701171875
+        ]
+    }
+]

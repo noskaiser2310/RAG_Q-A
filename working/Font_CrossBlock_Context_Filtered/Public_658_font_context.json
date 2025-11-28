@@ -1,0 +1,282 @@
+[
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình Tổng quan Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 5,
+        "bbox": [
+            72.02400207519531,
+            514.482666015625,
+            455.4700012207031,
+            557.0293579101562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Prod. Counter ((Bộ đếm số lần sản xuất))",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            287.57000732421875,
+            132.232666015625,
+            376.9680480957031,
+            191.33934020996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Prod. Time (Thời gian sản xuất)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 12,
+        "bbox": [
+            287.57000732421875,
+            278.4226379394531,
+            387.7479553222656,
+            315.2093505859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cycle time (Thời gian chu kỳ)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 20,
+        "bbox": [
+            287.57000732421875,
+            424.7226257324219,
+            383.8052062988281,
+            461.50933837890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Injection Pressure (Áp suất phun)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 32,
+        "bbox": [
+            287.57000732421875,
+            571.0026245117188,
+            363.2866516113281,
+            652.6994018554688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "ScrewPosition (Vị trí trục vít)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 4,
+        "bbox": [
+            287.57000732421875,
+            298.3426513671875,
+            373.5099792480469,
+            335.12933349609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Carriage Position (Vị trí giá trượt)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 15,
+        "bbox": [
+            287.57000732421875,
+            455.8026428222656,
+            388.577392578125,
+            515.0293579101562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nhiệt độ hiện tại của vỏ khoang chứa E-Multi",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 26,
+        "bbox": [
+            287.57000732421875,
+            602.1126708984375,
+            382.8232116699219,
+            661.33935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bắt đầu/kích hoạt trình tự",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            287.57000732421875,
+            244.3426513671875,
+            362.22998046875,
+            281.1293640136719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Trigger (Kích hoạt):",
+        "suffix": "Đây là tín",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 8,
+        "bbox": [
+            396.42999267578125,
+            188.27264404296875,
+            517.2214965820312,
+            202.61936950683594
+        ]
+    },
+    {
+        "prefix": "-",
+        "text": "Start Delay Time (Thời gian trễ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 11,
+        "bbox": [
+            403.989990234375,
+            255.50262451171875,
+            582.9803466796875,
+            269.8493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "khi bắt đầu):",
+        "suffix": "Khi phát hiện tín",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 12,
+        "bbox": [
+            396.42999267578125,
+            277.942626953125,
+            471.77935791015625,
+            292.2893371582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "- Setup File (Tệp thiết lập):",
+        "suffix": "Hiển",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 16,
+        "bbox": [
+            396.42999267578125,
+            367.70263671875,
+            546.873779296875,
+            382.0493469238281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thông tin hệ thống",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 21,
+        "bbox": [
+            287.57000732421875,
+            469.1226501464844,
+            361.4679870605469,
+            505.9093322753906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Euromap",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            287.57000732421875,
+            179.51263427734375,
+            343.5099792480469,
+            193.85935974121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bảng 7–8 Các nút menu ngữ cảnh trên màn hình tổng quan",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 11,
+        "bbox": [
+            141.74000549316406,
+            314.4226379394531,
+            470.4747619628906,
+            328.76934814453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Dữ liệu khuôn ép",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 14,
+        "bbox": [
+            212.08999633789062,
+            338.7826232910156,
+            310.3699951171875,
+            353.12933349609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Euromap 67",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 20,
+        "bbox": [
+            212.08999633789062,
+            430.4826354980469,
+            283.8499755859375,
+            444.829345703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cài đặt tham chiếu",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 27,
+        "bbox": [
+            212.08999633789062,
+            544.6026611328125,
+            320.4499816894531,
+            558.9494018554688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cài đặt hệ thống",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 33,
+        "bbox": [
+            212.08999633789062,
+            636.3126220703125,
+            306.8899841308594,
+            650.6593627929688
+        ]
+    }
+]

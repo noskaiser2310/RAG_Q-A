@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Khái niệm Plasma và nguyên lý hoạt động của mỏ cắt Plasma",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9973550272423262,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Khái niệm Plasma và nguyên lý hoạt động của mỏ cắt Plasma"
+  },
+  {
+    "text": "2. Chọn khí sử dụng trong cắt Plasma",
+    "level": 1,
+    "page": 2,
+    "probability": 0.7705451637161681,
+    "font_size": 18.0,
+    "detection_method": "ml",
+    "text_original": "2. Chọn khí sử dụng trong cắt Plasma"
+  },
+  {
+    "text": "3. Video kỹ thuật cắt plasma cơ bản",
+    "level": 1,
+    "page": 4,
+    "probability": 0.6830187476212239,
+    "font_size": 18.0,
+    "detection_method": "ml",
+    "text_original": "3. Video kỹ thuật cắt plasma cơ bản"
+  },
+  {
+    "text": "4. Kỹ thuật cơ bản khi cắt plasma",
+    "level": 1,
+    "page": 4,
+    "probability": 0.5645955676081748,
+    "font_size": 18.0,
+    "detection_method": "ml",
+    "text_original": "4. Kỹ thuật cơ bản khi cắt plasma"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "text": "1. Phạm vi áp dụng",
+    "level": 2,
+    "page": 1,
+    "probability": 0.8205295988698876,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. Phạm vi áp dụng"
+  },
+  {
+    "text": "2. Ký hiệu cửa đi",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9308817415777537,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. Ký hiệu cửa đi"
+  },
+  {
+    "text": "3. Ký hiệu cầu thang và đường dốc",
+    "level": 2,
+    "page": 3,
+    "probability": 0.970093416206544,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. Ký hiệu cầu thang và đường dốc"
+  }
+]

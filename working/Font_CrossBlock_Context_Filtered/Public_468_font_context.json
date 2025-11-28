@@ -1,0 +1,240 @@
+[
+    {
+        "prefix": "",
+        "text": "1. Khái niệm Plasma và nguyên lý hoạt động của mỏ cắt Plasma Định nghĩa",
+        "suffix": ": “Plasma là tập hợp các hạt tích điện bao gồm số lượng tương đương các ion dương và các điện tử và có vài đặc tính của khí nhưng khác với khí là có tính dẫn điện tốt”. Sự ion hóa khí tạo ra các điện tử tự do và các ion dương giữa các nguyên tử khí. Khi điều này xảy ra, khí trở thành dẫn điện với khả năng mang dòng điện. Một ví dụ của plasma được thấy trong tự nhiên là hiện tượng tia chớp thường hay xảy ra khi bầu trời có mưa giông. Giống như tia plasma phát ra từ mỏ plasma, tia chớp phóng từ vị trí này sang vị trí khác, giữa hai đám mây tích điện. Trong không gian hình thành tia chớp, các loại khí trong không trung là khí ion hóa, trở nên dẫn điện.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 2,
+        "bbox": [
+            99.26399993896484,
+            104.2112045288086,
+            471.3399963378906,
+            144.724609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nguyên lý hoạt động của mỏ cắt plasma",
+        "suffix": "Cắt Plasma là quy trình sử dụng miệng đầu phun thích hợp để làm thắt lại luồng khí ion hóa có nhiệt độ rất cao sao cho có thể sử dụng để làm nóng chảy và cắt đứt các kim loại dẫn điện.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            241.22335815429688,
+            286.04974365234375,
+            253.44464111328125
+        ]
+    },
+    {
+        "prefix": "2.",
+        "text": "Chọn khí sử dụng trong cắt Plasma",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            127.58000183105469,
+            338.97198486328125,
+            399.5379638671875,
+            358.8979797363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các loại khí được sử dụng trong cắt Plasma:",
+        "suffix": "Không khí được làm sạch, Oxy, khí ni tơ, hỗn hợp khí Argon – Hidro.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 6,
+        "bbox": [
+            99.26399993896484,
+            406.0133361816406,
+            307.9310302734375,
+            418.234619140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cắ plasma sử dụng không khí:",
+        "suffix": "Khí được sử dụng phổ biến nhất trong cắt plasma, nó cung cấp tốc độ cắt, và chất lượng cắt tốt với thép cacbon, thép không gỉ và nhôm. Giá thành thấp là một lợi thế khi sử dụng không khí. Tuy nhiên trước khi được sử dụng không khí phải được làm sạch, loại bỏ bụi bẩn, hơi nước. Khi sử dụng không khí cần phải chọn hệ thống khí nén, lọc thích hợp với yêu cầu cắt. Một trong các vấn đề của cắt plasma sử dụng không khí là ảnh hưởng của nó lên mối hàn đường cắt plasma. Đường cắt thường có các vùng bị ni tơ hóa, oxy hóa. Điều này ảnh hưởng đến mối hàn. Nó được giải quyết tốt khi sử dụng dây hàn có chứa chất khử nito, oxy. Với các ưu điểm tốc độ cắt tốt, xỉ ít, tuổi thọ của các thiết bị tiêu hao trung bình. Không khí là một lựa chọn tốt nhất cho cắt plasma trong các xưởng nhỏ.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 7,
+        "bbox": [
+            99.26399993896484,
+            438.7933349609375,
+            243.1927947998047,
+            451.0146179199219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cắt plasma sử dụng khí Oxy:",
+        "suffix": "là lựa chọn hàng đầu trong các nhà máy khi cắt các tấm thép Carbon vì chúng mang lại chất lượng mối cắt tốt nhât, tốc độ cắt nhanh nhất. Oxy sẽ tương tác với thép carbon giảm nhiệt độ nóng chảy do tạo ra oxit tạo đường cắt min hơn do kích thước hạt nóng chảy nhỏ. Nhược điểm của cắt plasma sử dụng oxy đó là giá thành của khí sử dụng cao, cũng như tuổi thọ thiết bị tiêu hao thấp. Tuy nhiên thực tế người ta thường sử dụng khí nito khi bắt đầu hồ quang plasma do đó sẽ cải thiện được tuổi thọ của thiết bị tiêu hao ngang bằng với cắt plasma sử dụng không khí. Chi phí cho khí oxy và thiết bị tiêu hao cao, nhưng cắt plasma sử dụng khí oxy bù lại với năng xuất cao và chất lượng mối cắt tốt.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 8,
+        "bbox": [
+            99.26399993896484,
+            560.2332763671875,
+            237.05422973632812,
+            572.45458984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cắt plasma sử dụng khí ni tơ:",
+        "suffix": "Phương pháp được sử dụng phổ biến trong quá khứ và nó vẫn là lựa chọn tốt nhất khi cắt nhôm hoặc thép không gỉ do chất lượng đường cắt và tuổi thọ thiết bị tiêu hao. Tuy nhiên với tấm nhôm hoặc thép không gỉ dày trên 0.5 inch thì nên chuyển sang sử dụng hỗn hợp khí argon + hidro. Bình thường không khí được sử dụng làm khí bảo vệ. Nếu sử dụng CO2 có thể cải thiện phẩn nào chất lượng cũng như tốc độ cắt. Nước cũng được sử dụng với cắt plasma nito. Nước đảm bảm đường cắt nhẵn bóng khi cắt nhôm, thép không gỉ. Khi sử dụng với nước cắt plasma nito thường sử dụng bàn cắt nước.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 9,
+        "bbox": [
+            99.26399993896484,
+            668.86328125,
+            239.0745391845703,
+            681.0845947265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cắt plasma sử dụng Argon- Hidro:",
+        "suffix": "khi cắt nhôm và thép không gỉ dày trên 0.5inch hỗn hợp khí 35% Hidro,65% argon thường được sử dụng. Hỗn hợp khí cung cấp nhiệt độ cắt plasma cao nhất (với hệ thống plasma 1000Amp có kèm phun nước sử dụng khí argon-hidro có thể cắt thép không gỉ dày đến 15cm). Cắt plasma sử dụng argon-hidro cung cấp đường cắt cực kì min với thép không rỉ, Nito thường được chọn là khí bảo vệ trong trường hợp này. Yếu điểm của hệ thống như này đó là chi phí cho thiết bị và chi phí vận hành.",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 1,
+        "bbox": [
+            99.26399993896484,
+            98.06332397460938,
+            263.8810729980469,
+            110.28460693359375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Plasma Gas / Shield",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            108.9800033569336,
+            186.62332153320312,
+            178.0683135986328,
+            211.56463623046875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Air / Air",
+        "suffix": "Chất lượng cắt/tốc độ cắt tốt. Kinh tế",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 4,
+        "bbox": [
+            108.9800033569336,
+            218.78335571289062,
+            152.1353759765625,
+            231.004638671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Oxygen (O2) / Air",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 7,
+        "bbox": [
+            108.9800033569336,
+            250.85336303710938,
+            178.05726623535156,
+            275.67462158203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nitrogen (N2) / CO2",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 11,
+        "bbox": [
+            108.9800033569336,
+            285.8933410644531,
+            178.05728149414062,
+            310.714599609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nitrogen (N2) / Air",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 15,
+        "bbox": [
+            108.9800033569336,
+            330.5333251953125,
+            178.05728149414062,
+            355.474609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nitrogen (N2) / H20",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 17,
+        "bbox": [
+            108.9800033569336,
+            362.5733337402344,
+            178.05728149414062,
+            387.5146179199219
+        ]
+    },
+    {
+        "prefix": "Các video này được đi kèm theo bài viết về các kỹ thuật cắt Plasma cơ bản được hãng Miller giới thiệu, các tài liệu được dịch bởi Weldcom. Bạn có thể xem bài viết tại",
+        "text": "Kỹ thuật cơ bản khi cắt Plasma",
+        "suffix": "nếu không nghe hiểu tiếng Anh.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            169.10336303710938,
+            527.0480346679688,
+            194.04461669921875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Phần 1: Các kỹ thuật cắt và thủ thuật.",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 8,
+        "bbox": [
+            99.26399993896484,
+            338.5733337402344,
+            278.730224609375,
+            350.79461669921875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Phần 2: Các chuẩn bị, quy tắc an toàn, và cách để có đường cắt chính xác.",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 1,
+        "bbox": [
+            99.26399993896484,
+            98.18331909179688,
+            445.99737548828125,
+            110.40460205078125
+        ]
+    }
+]

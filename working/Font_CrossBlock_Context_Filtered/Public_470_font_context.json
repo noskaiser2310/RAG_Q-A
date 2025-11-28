@@ -1,0 +1,86 @@
+[
+    {
+        "prefix": "",
+        "text": "1. Cấu trúc dữ liệu đặc tả dùng cho lưu trữ dữ liệu",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            99.26399993896484,
+            139.7311553955078,
+            397.989990234375,
+            154.2593231201172
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thuộc tính Đối chiếu TCVN 7980: 2008 Đối chiếu AGRMS",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 10,
+        "bbox": [
+            125.30000305175781,
+            365.0626220703125,
+            505.05999755859375,
+            395.8493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2. Xác định dữ liệu đặc tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            737.7671508789062,
+            259.6099853515625,
+            752.2953491210938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. Tạo lập dữ liệu đặc tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 10,
+        "bbox": [
+            99.26399993896484,
+            569.0211791992188,
+            251.69000244140625,
+            583.5493774414062
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4. Dữ liệu đặc tả về quy luật nghiệp vụ, chính sách và ủy nhiệm tại thời điểm quét 3D",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 9,
+        "bbox": [
+            99.26399993896484,
+            335.961181640625,
+            510.6999816894531,
+            366.9293212890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nghĩa vụ Quá trình số hóa 3D Các thuộc tính đánh chỉ số số hóa 3D",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 13,
+        "bbox": [
+            104.66000366210938,
+            436.8426208496094,
+            461.97998046875,
+            467.62933349609375
+        ]
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình cài đặt E-Drive Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            72.02400207519531,
+            628.2726440429688,
+            444.42999267578125,
+            673.5794067382812
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Manual Settings Limits (Giới hạn cài đặt thủ công)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 2,
+        "bbox": [
+            315.04998779296875,
+            113.15264892578125,
+            523.6629028320312,
+            149.9393768310547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Home to Closed Position Only (Chỉ vị trí ban đầu đến vị trí đóng)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 7,
+        "bbox": [
+            315.04998779296875,
+            225.232666015625,
+            526.2999877929688,
+            262.0493469238281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Auto Settings Limits (Giới hạn cài đặt tự động)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 14,
+        "bbox": [
+            315.04998779296875,
+            360.38262939453125,
+            529.0599975585938,
+            397.1693420410156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Torque Warning and Alarm Thresholds (Các ngưỡng cảnh báo và báo động mômen)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 20,
+        "bbox": [
+            315.04998779296875,
+            472.4826354980469,
+            524.7279663085938,
+            531.7094116210938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Mechanical Settings Limits (Giới hạn cài đặt cơ khí)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 25,
+        "bbox": [
+            315.04998779296875,
+            585.0726318359375,
+            525.4600219726562,
+            621.859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Options (Tùy chọn)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 5,
+        "bbox": [
+            315.04998779296875,
+            203.39263916015625,
+            426.66998291015625,
+            217.73936462402344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Đóng/mở trơn tru",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 11,
+        "bbox": [
+            315.04998779296875,
+            337.942626953125,
+            417.9100036621094,
+            352.2893371582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Servo Movement Alarms (Báo động chuyển động của servo)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 16,
+        "bbox": [
+            315.04998779296875,
+            405.7426452636719,
+            516.09423828125,
+            442.4293518066406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Idle too long in Auto Mode? (Set Timeout) (Chạy không tải quá lâu ở Chế độ tự động? (Đặt thời gian chờ))",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 25,
+        "bbox": [
+            315.04998779296875,
+            563.20263671875,
+            522.9400024414062,
+            622.33935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình cài đặt cửa van Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 4,
+        "bbox": [
+            90.02400207519531,
+            186.8326416015625,
+            444.42999267578125,
+            232.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các tab ở đầu màn hình",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 6,
+        "bbox": [
+            315.04998779296875,
+            240.74261474609375,
+            452.3499755859375,
+            255.08934020996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Open Trigger (Bộ kích hoạt mở)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 14,
+        "bbox": [
+            315.04998779296875,
+            398.1826477050781,
+            496.29998779296875,
+            412.52935791015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Delay time open (Thời gian trễ mở)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 25,
+        "bbox": [
+            315.04998779296875,
+            645.3126220703125,
+            514.0599975585938,
+            659.6593627929688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Close Trigger (Bộ kích hoạt đóng)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 3,
+        "bbox": [
+            315.04998779296875,
+            158.51263427734375,
+            505.7799987792969,
+            172.85935974121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Delay time close (Thời gian trễ đóng)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 8,
+        "bbox": [
+            315.04998779296875,
+            271.1026306152344,
+            523.4199829101562,
+            285.4493408203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trạng thái hiện tại",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 14,
+        "bbox": [
+            315.04998779296875,
+            383.7826232910156,
+            421.75,
+            398.12933349609375
+        ]
+    }
+]

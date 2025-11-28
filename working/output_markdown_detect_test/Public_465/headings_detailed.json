@@ -1,0 +1,101 @@
+[
+  {
+    "text": "Xác Định hệ thống Điện mặt trời cần lắp đặt",
+    "level": 1,
+    "page": 1,
+    "probability": 0.34178856119366974,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Xác Định hệ thống Điện mặt trời cần lắp đặt"
+  },
+  {
+    "text": "Khảo sát đánh giá nhu cầu sử dụng điện của khách hàng",
+    "level": 3,
+    "page": 1,
+    "probability": 0.38410658284860427,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Khảo sát đánh giá nhu cầu sử dụng điện của khách hàng"
+  },
+  {
+    "text": "3.1 THÔNG TIN VỀ VIỆC SỬ DỤNG ĐIỆN:",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9993943592393604,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3.1 THÔNG TIN VỀ VIỆC SỬ DỤNG ĐIỆN:"
+  },
+  {
+    "text": "3.2 THÔNG TIN VỀ NGÔI NHÀ:",
+    "level": 2,
+    "page": 2,
+    "probability": 0.9955322307231211,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3.2 THÔNG TIN VỀ NGÔI NHÀ:"
+  },
+  {
+    "text": "3.3 THÔNG TIN KHÁC:",
+    "level": 2,
+    "page": 2,
+    "probability": 0.9988366606482658,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3.3 THÔNG TIN KHÁC:"
+  },
+  {
+    "text": "Tính toán công suất lắp Điện mặt trời",
+    "level": 2,
+    "page": 2,
+    "probability": 0.32244700520879843,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Tính toán công suất lắp Điện mặt trời"
+  },
+  {
+    "text": "Xác định diện tích mái có thể lắp đặt điện mặt trời",
+    "level": 1,
+    "page": 4,
+    "probability": 0.3045427004977108,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Xác định diện tích mái có thể lắp đặt điện mặt trời"
+  },
+  {
+    "text": "Mua sắm các thiết bị điện năng lượng mặt trời",
+    "level": 3,
+    "page": 4,
+    "probability": 0.3471308370416508,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Mua sắm các thiết bị điện năng lượng mặt trời"
+  },
+  {
+    "text": "Tiến hành lắp đặt hệ thống Điện mặt trời cho gia đình",
+    "level": 1,
+    "page": 5,
+    "probability": 0.46648348999833783,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Tiến hành lắp đặt hệ thống Điện mặt trời cho gia đình"
+  },
+  {
+    "text": "10 Bảng giá thi công lắp đặt hệ thống điện mặt trời tại",
+    "level": 1,
+    "page": 5,
+    "probability": 0.8791068047661849,
+    "font_size": 18.0,
+    "detection_method": "ml",
+    "text_original": "10 Bảng giá thi công lắp đặt hệ thống điện mặt trời tại"
+  },
+  {
+    "text": "Việt Nam (tham khảo)",
+    "level": 1,
+    "page": 5,
+    "probability": 0.821300643436025,
+    "font_size": 18.0,
+    "detection_method": "ml",
+    "text_original": "Việt Nam (tham khảo)"
+  }
+]

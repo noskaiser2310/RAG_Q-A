@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Nắp hố ga, song chắn rác bằng vật liệu Composite, Gang",
+    "level": 1,
+    "page": 1,
+    "probability": 0.5168159074968252,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Nắp hố ga, song chắn rác bằng vật liệu Composite, Gang"
+  },
+  {
+    "text": "Van cổng ty chìm mặt bích nắp chụp hiệu ATK",
+    "level": 1,
+    "page": 7,
+    "probability": 0.7943791095264838,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Van cổng ty chìm mặt bích nắp chụp hiệu ATK"
+  },
+  {
+    "text": "Van cổng ty chìm kiểu EE/FF ngoàm đồng hiệu ATK",
+    "level": 1,
+    "page": 9,
+    "probability": 0.8166108378422243,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Van cổng ty chìm kiểu EE/FF ngoàm đồng hiệu ATK"
+  },
+  {
+    "text": "Van 1 chiều lá lật mặt bích hiệu ATK",
+    "level": 1,
+    "page": 10,
+    "probability": 0.5540955372601308,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Van 1 chiều lá lật mặt bích hiệu ATK"
+  },
+  {
+    "text": "Van bướm kiểu kẹp hiệu ATK",
+    "level": 1,
+    "page": 13,
+    "probability": 0.7711443742964613,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Van bướm kiểu kẹp hiệu ATK"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "text": "Tổng quan cấu tạo của một chiếc laptop",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9979429560876188,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Tổng quan cấu tạo của một chiếc laptop"
+  },
+  {
+    "text": "Cấu tạo bên ngoài của laptop",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9984548349932449,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Cấu tạo bên ngoài của laptop"
+  },
+  {
+    "text": "Cấu tạo bên trong của laptop",
+    "level": 2,
+    "page": 1,
+    "probability": 0.5616896369209793,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Cấu tạo bên trong của laptop"
+  },
+  {
+    "text": "Chi tiết một số bộ phận quan trọng trong cấu tạo của laptop",
+    "level": 2,
+    "page": 1,
+    "probability": 0.5308607301364419,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Chi tiết một số bộ phận quan trọng trong cấu tạo của laptop"
+  },
+  {
+    "text": "Vi xử lý CPU",
+    "level": 1,
+    "page": 1,
+    "probability": 0.8904310955861704,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Vi xử lý CPU"
+  },
+  {
+    "text": "Card màn hình GPU",
+    "level": 2,
+    "page": 2,
+    "probability": 0.4475275873770079,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Card màn hình GPU"
+  },
+  {
+    "text": "Bộ nhớ RAM",
+    "level": 1,
+    "page": 3,
+    "probability": 0.4462650719989345,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Bộ nhớ RAM"
+  },
+  {
+    "text": "Ram laptop",
+    "level": 1,
+    "page": 4,
+    "probability": 0.8359799942005236,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Ram laptop"
+  },
+  {
+    "text": "Ổ cứng lưu trữ",
+    "level": 2,
+    "page": 4,
+    "probability": 0.5409793945140671,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Ổ cứng lưu trữ"
+  },
+  {
+    "text": "Vỉ máy tính Mainboard",
+    "level": 1,
+    "page": 4,
+    "probability": 0.5752028569875813,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Vỉ máy tính Mainboard"
+  },
+  {
+    "text": "10. Chip set",
+    "level": 2,
+    "page": 5,
+    "probability": 0.9966596525118424,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "10. Chip set"
+  }
+]

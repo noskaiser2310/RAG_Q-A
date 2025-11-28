@@ -1,0 +1,29 @@
+[
+  {
+    "text": "1. PHÍM CHỨC NĂNG CỦA MÁY TÍNH",
+    "level": 2,
+    "page": 1,
+    "probability": 0.6823391513741879,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. PHÍM CHỨC NĂNG CỦA MÁY TÍNH"
+  },
+  {
+    "text": "2. CÁC PHÍM CHỮ CÁI",
+    "level": 2,
+    "page": 3,
+    "probability": 0.5322305445324986,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. CÁC PHÍM CHỮ CÁI"
+  },
+  {
+    "text": "3. CÁC PHÍM THÔNG DỤNG KHÁC",
+    "level": 2,
+    "page": 4,
+    "probability": 0.7373544023697307,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. CÁC PHÍM THÔNG DỤNG KHÁC"
+  }
+]

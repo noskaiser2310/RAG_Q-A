@@ -1,0 +1,436 @@
+[
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            84.74400329589844,
+            144.71035766601562,
+            111.26712799072266,
+            160.2526397705078
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            298.489990234375,
+            144.71035766601562,
+            552.5800170898438,
+            160.2526397705078
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "I. YÊU CẦU CHUNG",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 4,
+        "bbox": [
+            154.94000244140625,
+            250.70034790039062,
+            234.336181640625,
+            282.3226623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "II. YÊU CẦU CẤU HÌNH",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 11,
+        "bbox": [
+            135.3800048828125,
+            430.2403564453125,
+            253.97586059570312,
+            461.89263916015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "III. THÔNG SỐ KỸ THUẬT 1. Đặc tính chung",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 8,
+        "bbox": [
+            131.89999389648438,
+            339.88037109375,
+            376.4000244140625,
+            439.1826477050781
+        ]
+    },
+    {
+        "prefix": "33",
+        "text": "2. Màn hình hiển thị hình ảnh siêu âm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 6,
+        "bbox": [
+            267.8900146484375,
+            321.88037109375,
+            499.05999755859375,
+            337.42266845703125
+        ]
+    },
+    {
+        "prefix": "38 Thời gian phản hồi (ms): 14 (typ) 39 Độ tương phản: 1000:1 (typ.) 40 Độ sáng (cd / m2): 300 (typ.) 41",
+        "text": "3. Màn hình điều khiển",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 11,
+        "bbox": [
+            267.8900146484375,
+            522.3063354492188,
+            410.2400207519531,
+            537.8486328125
+        ]
+    },
+    {
+        "prefix": "44",
+        "text": "4. Cài đặt chế độ thăm khám (Application Preset): 20 chế độ ứng dụng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 2,
+        "bbox": [
+            267.8900146484375,
+            179.03036499023438,
+            692.1699829101562,
+            194.57264709472656
+        ]
+    },
+    {
+        "prefix": "45",
+        "text": "5. Chế độ hoạt động",
+        "suffix": "46 Chế độ siêu âm 2D (B Mode) 47 Chế độ siêu âm M (M-Mode) 48 Chế độ siêu âm Doppler 49 Chế độ siêu âm Doppler màu: 50 - Chế độ siêu âm Doppler màu 2D",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            267.8900146484375,
+            215.78036499023438,
+            390.8000183105469,
+            231.32264709472656
+        ]
+    },
+    {
+        "prefix": "56",
+        "text": "6. Bộ nhớ Cine",
+        "suffix": "57 Dung lượng bộ nhớ: 960 MB 58 Chế độ thu nhận/ phát lại: 59 + Có thể phát lặp lại 60 + Có thể phát lại khung trước",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 1,
+        "bbox": [
+            267.8900146484375,
+            160.31036376953125,
+            360.08001708984375,
+            175.85264587402344
+        ]
+    },
+    {
+        "prefix": "62 + Có thể ghi hình ảnh trực tiếp (Clip) 63",
+        "text": "7. Chế độ 2D (2D Mode – B Mode)",
+        "suffix": "64 Mật độ dòng quét: 65 + Phụ thuộc vào từng loại đầu dò",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 3,
+        "bbox": [
+            267.8900146484375,
+            314.80035400390625,
+            477.2200012207031,
+            330.3426513671875
+        ]
+    },
+    {
+        "prefix": "119",
+        "text": "8. Chế độ siêu âm M (M Mode)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 7,
+        "bbox": [
+            267.8900146484375,
+            349.3603515625,
+            457.3000183105469,
+            364.90264892578125
+        ]
+    },
+    {
+        "prefix": "138",
+        "text": "9. Chế độ siêu âm Doppler",
+        "suffix": "139 Chế độ Doppler:",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 9,
+        "bbox": [
+            267.8900146484375,
+            502.3863525390625,
+            429.3399963378906,
+            517.9286499023438
+        ]
+    },
+    {
+        "prefix": "179",
+        "text": "10. Chế độ siêu âm Doppler màu",
+        "suffix": "180",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 3,
+        "bbox": [
+            267.8900146484375,
+            253.34036254882812,
+            466.3000183105469,
+            268.8826599121094
+        ]
+    },
+    {
+        "prefix": "180",
+        "text": "10.1.Chế độ siêu âm Doppler màu",
+        "suffix": "181 Chế độ hiển thị 182 - CDI - Ảnh siêu âm màu 183 + Vận tốc dòng chảy 184 + Vận tốc/Sự biến thiên dòng chảy 185 + Năng lượng 186 - TDI – Doppler mô",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 3,
+        "bbox": [
+            267.8900146484375,
+            272.7803649902344,
+            473.260009765625,
+            288.3226623535156
+        ]
+    },
+    {
+        "prefix": "220",
+        "text": "10.2. Chế độ siêu âm Doppler màu M (MDF Mode)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 3,
+        "bbox": [
+            267.8900146484375,
+            261.8603515625,
+            575.97998046875,
+            277.40264892578125
+        ]
+    },
+    {
+        "prefix": "239",
+        "text": "11. Đầu dò Linear bằng tần số rộng PLT-1005 BT (14L5)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 0,
+        "bbox": [
+            267.8900146484375,
+            113.27035522460938,
+            611.8900146484375,
+            128.81263732910156
+        ]
+    },
+    {
+        "prefix": "243",
+        "text": "12. Đầu dò Convex bằng tần số rộng PVT-375BT (6C1)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 3,
+        "bbox": [
+            267.8900146484375,
+            226.34036254882812,
+            600.489990234375,
+            241.8826446533203
+        ]
+    },
+    {
+        "prefix": "247",
+        "text": "13. Đầu dò Sector bằng tần số rộng PST–30BT (5S2)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 6,
+        "bbox": [
+            267.8900146484375,
+            339.2803649902344,
+            584.1400146484375,
+            354.8226623535156
+        ]
+    },
+    {
+        "prefix": "251",
+        "text": "14. Chức năng báo cáo và xuất hình ảnh",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 9,
+        "bbox": [
+            267.8900146484375,
+            452.350341796875,
+            511.3000183105469,
+            467.89263916015625
+        ]
+    },
+    {
+        "prefix": "252",
+        "text": "14.1. Chức năng báo cáo",
+        "suffix": "253 - Các hàm bảng tính:",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 10,
+        "bbox": [
+            267.8900146484375,
+            480.31036376953125,
+            417.55999755859375,
+            495.8526611328125
+        ]
+    },
+    {
+        "prefix": "263 + Có thể chỉnh sửa mẫu báo cáo 264",
+        "text": "14.2.Xuất hình ảnh",
+        "suffix": "265 Hình tĩnh: BMP/JPEG 266 Hình động: WMV9 267",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 8,
+        "bbox": [
+            267.8900146484375,
+            461.8303527832031,
+            385.760009765625,
+            477.3726501464844
+        ]
+    },
+    {
+        "prefix": "265 Hình tĩnh: BMP/JPEG 266 Hình động: WMV9 267",
+        "text": "15. Thu Video",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 8,
+        "bbox": [
+            267.8900146484375,
+            520.3863525390625,
+            355.760009765625,
+            535.9286499023438
+        ]
+    },
+    {
+        "prefix": "269",
+        "text": "16. Chức năng bảo mật",
+        "suffix": "270 - Kiểm soát sự bảo mật",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 1,
+        "bbox": [
+            267.8900146484375,
+            178.31036376953125,
+            410.0,
+            193.85264587402344
+        ]
+    },
+    {
+        "prefix": "275",
+        "text": "17. Kết nối mạng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 5,
+        "bbox": [
+            267.8900146484375,
+            367.3603515625,
+            373.2799987792969,
+            382.90264892578125
+        ]
+    },
+    {
+        "prefix": "277",
+        "text": "18. Cổng vào/cổng ra",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 7,
+        "bbox": [
+            267.8900146484375,
+            424.3603515625,
+            397.4000244140625,
+            439.90264892578125
+        ]
+    },
+    {
+        "prefix": "285 - Để kết nối với SDD: hỗ trợ 1 SDD 286 - Cho DVD: 1ch 287",
+        "text": "19. Phân loại an toàn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 2,
+        "bbox": [
+            267.8900146484375,
+            259.3403625488281,
+            397.0400085449219,
+            274.8826599121094
+        ]
+    },
+    {
+        "prefix": "291",
+        "text": "20. Thiết bị phụ trợ kèm theo mua tại Việt Nam",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 6,
+        "bbox": [
+            267.8900146484375,
+            381.88037109375,
+            556.5400390625,
+            397.42266845703125
+        ]
+    },
+    {
+        "prefix": "292",
+        "text": "20.1 Bộ máy vi tính để bàn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 7,
+        "bbox": [
+            267.8900146484375,
+            409.8403625488281,
+            430.5400085449219,
+            425.3826599121094
+        ]
+    },
+    {
+        "prefix": "297 Kết nối chuột, bàn phím: USB 298 Hệ điều hành Windows có bản quyền 299",
+        "text": "20.2. Máy in laser màu",
+        "suffix": "300 Khổ giấy: A4/A5 301 Cổng giao tiếp: USD/Lan/Wifi",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 0,
+        "bbox": [
+            267.8900146484375,
+            143.7503662109375,
+            407.4800109863281,
+            159.2926483154297
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "IV. CÁC YÊU CẦU KHÁC:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 7,
+        "bbox": [
+            133.10000610351562,
+            420.04034423828125,
+            256.2448425292969,
+            451.66265869140625
+        ]
+    }
+]

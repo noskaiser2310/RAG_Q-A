@@ -1,0 +1,366 @@
+[
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình Biểu đồ sản xuất",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 0,
+        "bbox": [
+            173.05999755859375,
+            101.39263916015625,
+            442.2699890136719,
+            115.73936462402344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 2,
+        "bbox": [
+            96.14399719238281,
+            149.75262451171875,
+            435.42999267578125,
+            164.09934997558594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các nút menu ngữ cảnh trên màn hình Biểu đồ sản xuất PD – Giao thức",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 1,
+        "bbox": [
+            150.6199951171875,
+            98.39263916015625,
+            464.739990234375,
+            147.1793670654297
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "PD – Biểu đồ đường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 5,
+        "bbox": [
+            265.8500061035156,
+            205.5526123046875,
+            380.3499755859375,
+            219.8993377685547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "PD – Người giám sát",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 10,
+        "bbox": [
+            265.8500061035156,
+            278.3026428222656,
+            382.8699951171875,
+            292.64935302734375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "PD – Biểu đồ tần số",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 15,
+        "bbox": [
+            265.8500061035156,
+            351.38262939453125,
+            377.22998046875,
+            365.7293395996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "PD – Biểu đồ điểm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 20,
+        "bbox": [
+            265.8500061035156,
+            424.6026306152344,
+            371.5899963378906,
+            438.9493408203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "PD – Thời gian chu kỳ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 25,
+        "bbox": [
+            265.8500061035156,
+            497.6826477050781,
+            393.19000244140625,
+            512.0293579101562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các nút menu phía dưới màn hình Biểu đồ sản xuất Activate (Kích hoạt)",
+        "suffix": "Kích hoạt/hủy kích hoạt đo lường. Nhãn nút chuyển đổi giữa",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 30,
+        "bbox": [
+            77.42400360107422,
+            603.7926025390625,
+            446.82568359375,
+            642.619384765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Setup (Thiết lập)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 32,
+        "bbox": [
+            77.42400360107422,
+            676.5126342773438,
+            169.9356689453125,
+            690.859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Configuration (Cấu hình):",
+        "suffix": "Mở hộp thoại cấu hình chung.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 32,
+        "bbox": [
+            216.0500030517578,
+            676.8726196289062,
+            365.8299865722656,
+            691.2193603515625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Set all ref. curves (Đặt tất cả các đường cong tham chiếu):",
+        "suffix": "Nút này dùng để chọn tất cả các đường cong hiển",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            216.0500030517578,
+            125.15264892578125,
+            498.9838562011719,
+            163.37937927246094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Export (Xuất):",
+        "suffix": "Mở hộp thoại Export Settings (Cài đặt",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 5,
+        "bbox": [
+            216.0500030517578,
+            220.672607421875,
+            301.8499755859375,
+            235.0193328857422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Load original setup (Tải thiết lập ban đầu):",
+        "suffix": "Nếu dữ liệu",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 8,
+        "bbox": [
+            212.08999633789062,
+            292.462646484375,
+            456.19000244140625,
+            306.8093566894531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Zoom (Thu phóng) Zoom xxx% (Thu phóng xxx%):",
+        "suffix": "Phóng to vùng hiển thị",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 13,
+        "bbox": [
+            77.42400360107422,
+            365.1826477050781,
+            396.54998779296875,
+            403.52935791015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "User defined (Do người dùng xác định):",
+        "suffix": "Người dùng có",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 15,
+        "bbox": [
+            212.08999633789062,
+            416.442626953125,
+            435.42999267578125,
+            430.7893371582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Auto scale (Tự động chia tỷ lệ):",
+        "suffix": "Thang x/y được điều chỉnh",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 17,
+        "bbox": [
+            212.08999633789062,
+            464.20263671875,
+            389.3500061035156,
+            478.5493469238281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "View (Xem) Actual value (Giá trị thực tế):",
+        "suffix": "Hiển thị con trỏ giá trị thực",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 19,
+        "bbox": [
+            77.42400360107422,
+            512.442626953125,
+            380.1100158691406,
+            527.1493530273438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Maximize (Phóng đại):",
+        "suffix": "Phóng to hoặc thu nhỏ biểu đồ hiển",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 24,
+        "bbox": [
+            212.08999633789062,
+            638.712646484375,
+            342.0699768066406,
+            653.0593872070312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tol.band (Miền dung sai):",
+        "suffix": "Kích hoạt hoặc hủy kích hoạt",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 26,
+        "bbox": [
+            212.08999633789062,
+            689.82861328125,
+            360.19000244140625,
+            704.1753540039062
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trend (Xu hướng):",
+        "suffix": "Hiển thị/ẩn xu hướng.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 1,
+        "bbox": [
+            212.08999633789062,
+            125.15264892578125,
+            321.5299987792969,
+            139.49937438964844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Reference (Tham chiếu):",
+        "suffix": "Kích hoạt hoặc hủy kích hoạt hiển",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 6,
+        "bbox": [
+            212.08999633789062,
+            248.1826171875,
+            352.9870910644531,
+            262.5293273925781
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tolerance band (Miền dung sai) Transfer (Chuyển):",
+        "suffix": "Cho phép chuyển đường cong vào một",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 10,
+        "bbox": [
+            77.42400360107422,
+            296.5426330566406,
+            323.9270935058594,
+            334.76934814453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "File (Tệp)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 0,
+        "bbox": [
+            77.42400360107422,
+            98.39263916015625,
+            131.29544067382812,
+            112.73936462402344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Start Export (Bắt đầu xuất):",
+        "suffix": "Bắt đầu xuất đường cong hiện",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 0,
+        "bbox": [
+            212.08999633789062,
+            98.75262451171875,
+            373.6300048828125,
+            113.09934997558594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Load Measurement (Tải số đo):",
+        "suffix": "Mở một số đo đã lưu và",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            212.08999633789062,
+            146.63262939453125,
+            390.770751953125,
+            160.97935485839844
+        ]
+    }
+]

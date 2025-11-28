@@ -1,0 +1,226 @@
+[
+    {
+        "prefix": "",
+        "text": "1. Tổng quan cấu tạo của một chiếc laptop",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            99.26399993896484,
+            106.85115814208984,
+            352.2699890136719,
+            121.37931823730469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2. Cấu tạo bên ngoài của laptop",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            190.6111602783203,
+            292.9700012207031,
+            205.1393280029297
+        ]
+    },
+    {
+        "prefix": "Hiện nay, trên thị trường có rất nhiều thương hiệu máy tính có thể kể đến như",
+        "text": "laptop HP",
+        "suffix": ",",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 4,
+        "bbox": [
+            122.54000091552734,
+            235.672607421875,
+            180.73040771484375,
+            250.0193328857422
+        ]
+    },
+    {
+        "prefix": ",",
+        "text": "laptop Dell",
+        "suffix": ", Macbook,... Mỗi hãng sẽ có những thiết kế riêng cho sản phẩm của mình, tạo nên sự đa dạng hơn trên thị trường. Cho dù hình dạng của những bộ phận này có sự khác nhau như thế nào đi chăng nữa thì chúng vẫn luôn tồn tại. Cụ thể:",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 4,
+        "bbox": [
+            187.33999633789062,
+            235.672607421875,
+            249.94973754882812,
+            250.0193328857422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. Cấu tạo bên trong của laptop",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 11,
+        "bbox": [
+            99.26399993896484,
+            489.8211975097656,
+            292.9700012207031,
+            504.3493347167969
+        ]
+    },
+    {
+        "prefix": "- Chip set",
+        "text": "4. Chi tiết một số bộ phận quan trọng trong cấu tạo của laptop",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 20,
+        "bbox": [
+            99.26399993896484,
+            733.567138671875,
+            463.7799987792969,
+            748.0953369140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "5. Vi xử lý CPU",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 21,
+        "bbox": [
+            99.26399993896484,
+            753.0311889648438,
+            204.77000427246094,
+            767.5593872070312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vi xử lý CPU",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 2,
+        "bbox": [
+            277.010009765625,
+            440.0826110839844,
+            346.47076416015625,
+            454.4293212890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "6. Card màn hình GPU",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 6,
+        "bbox": [
+            99.26399993896484,
+            517.6611938476562,
+            246.77000427246094,
+            532.1893920898438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7. Bộ nhớ RAM",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            433.90118408203125,
+            205.25,
+            448.4293212890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Ram laptop",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 1,
+        "bbox": [
+            281.69000244140625,
+            101.0325927734375,
+            341.9151611328125,
+            115.37931823730469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8. Ổ cứng lưu trữ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            172.6111602783203,
+            214.61000061035156,
+            187.1393280029297
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hình dạng của ổ cứng",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 5,
+        "bbox": [
+            253.72999572753906,
+            585.0726318359375,
+            369.7900085449219,
+            599.4193725585938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "9. Vỉ máy tính Mainboard",
+        "suffix": "Máy tính có hoạt động ổn định hay không, hiệu năng có tốt không đều do Mainboard quyết định. Nó được thiết kế ngay dưới bàn phím, là nơi liên kết các linh kiện thiết bị (RAM, CPU, ổ cứng, card đồ họa,...) lại với nhau thành một khối.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 7,
+        "bbox": [
+            99.26399993896484,
+            656.7711791992188,
+            262.6099853515625,
+            671.2993774414062
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Mainboard",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 1,
+        "bbox": [
+            282.5299987792969,
+            530.8026123046875,
+            340.9622802734375,
+            545.1493530273438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Hãng Intel AMD Apple",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 2,
+        "bbox": [
+            104.30000305175781,
+            391.2226257324219,
+            510.4599914550781,
+            405.5693359375
+        ]
+    }
+]

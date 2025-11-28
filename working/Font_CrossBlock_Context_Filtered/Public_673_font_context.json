@@ -1,0 +1,114 @@
+[
+    {
+        "prefix": "",
+        "text": "1. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ ĐIỆN CHIẾU SÁNG: CÁC LOẠI THIẾT BỊ ĐÓNG CẮT, BẢO VỆ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            90.02400207519531,
+            153.1712188720703,
+            542.8599853515625,
+            190.0193328857422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Trên sơ đồ nguyên lí Trên sơ đồ vị trí",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            77.66400146484375,
+            278.0626220703125,
+            559.6599731445312,
+            323.2493591308594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Trên sơ đồ nguyên lí Trên sơ đồ vị trí",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 2,
+        "bbox": [
+            77.66400146484375,
+            135.8326416015625,
+            559.6599731445312,
+            181.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Trên sơ đồ nguyên lí Trên sơ đồ vị trí",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            77.66400146484375,
+            135.8326416015625,
+            559.6599731445312,
+            181.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ ĐIỆN CHIẾU SÁNG: CÁC LOẠI THIẾT BỊ ĐO LƯỜNG Tên gọi Ký hiệu",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 2,
+        "bbox": [
+            90.02400207519531,
+            135.1712188720703,
+            542.8599853515625,
+            199.0193328857422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên gọi Ký hiệu",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 0,
+        "bbox": [
+            153.97999572753906,
+            135.8326416015625,
+            394.3899841308594,
+            150.1793670654297
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ CUNG CẤP ĐIỆN STT Tên gọi Ký hiệu Ghi chú",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 1,
+        "bbox": [
+            70.46399688720703,
+            135.0512237548828,
+            507.0999755859375,
+            176.6993865966797
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Tên gọi Ký hiệu Ghi chú",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 0,
+        "bbox": [
+            70.46399688720703,
+            135.8326416015625,
+            507.0999755859375,
+            150.1793670654297
+        ]
+    }
+]

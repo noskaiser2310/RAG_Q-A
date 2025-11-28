@@ -1,0 +1,173 @@
+[
+  {
+    "text": "Xử lý phím bấm",
+    "level": 1,
+    "page": 9,
+    "probability": 0.39847667745065,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Xử lý phím bấm"
+  },
+  {
+    "text": "Tiền xử lý khi vào IVR",
+    "level": 1,
+    "page": 11,
+    "probability": 0.6398231747209825,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Tiền xử lý khi vào IVR"
+  },
+  {
+    "text": "Phân phối đến ĐTV",
+    "level": 1,
+    "page": 17,
+    "probability": 0.4693785646286072,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Phân phối đến ĐTV"
+  },
+  {
+    "text": "Xử lý trong khi tương tác",
+    "level": 1,
+    "page": 48,
+    "probability": 0.9190022567774045,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Xử lý trong khi tương tác"
+  },
+  {
+    "text": "Xử lý kết thúc tương tác",
+    "level": 2,
+    "page": 66,
+    "probability": 0.4693206778072744,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Xử lý kết thúc tương tác"
+  },
+  {
+    "text": "Xử lý call back",
+    "level": 1,
+    "page": 77,
+    "probability": 0.5609878752002926,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Xử lý call back"
+  },
+  {
+    "text": "Vận hành",
+    "level": 1,
+    "page": 82,
+    "probability": 0.8435217429884606,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Vận hành"
+  },
+  {
+    "text": "Kênh video call",
+    "level": 1,
+    "page": 108,
+    "probability": 0.6157808652196807,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Kênh video call"
+  },
+  {
+    "text": "Phân hệ email",
+    "level": 1,
+    "page": 117,
+    "probability": 0.6696446859027895,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Phân hệ email"
+  },
+  {
+    "text": "Chức năng vận hành",
+    "level": 1,
+    "page": 130,
+    "probability": 0.7070553752288744,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Chức năng vận hành"
+  },
+  {
+    "text": "Báo cáo chat",
+    "level": 1,
+    "page": 145,
+    "probability": 0.9058994718987977,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Báo cáo chat"
+  },
+  {
+    "text": "Luồng chat",
+    "level": 1,
+    "page": 146,
+    "probability": 0.751961788861012,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Luồng chat"
+  },
+  {
+    "text": "Quản lý khách hàng",
+    "level": 1,
+    "page": 148,
+    "probability": 0.6233932322886533,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Quản lý khách hàng"
+  },
+  {
+    "text": "Quản lý chiến dịch",
+    "level": 1,
+    "page": 152,
+    "probability": 0.6233932322886533,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Quản lý chiến dịch"
+  },
+  {
+    "text": "Thực hiện chiến dịch",
+    "level": 1,
+    "page": 169,
+    "probability": 0.5290084912238197,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Thực hiện chiến dịch"
+  },
+  {
+    "text": "Báo cáo Campaign",
+    "level": 1,
+    "page": 182,
+    "probability": 0.8466073058997167,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Báo cáo Campaign"
+  },
+  {
+    "text": "Chức năng cấu hình hệ thống",
+    "level": 1,
+    "page": 207,
+    "probability": 0.7281529501978434,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Chức năng cấu hình hệ thống"
+  },
+  {
+    "text": "Đánh giá Học viên",
+    "level": 1,
+    "page": 208,
+    "probability": 0.6306167313213158,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Đánh giá Học viên"
+  },
+  {
+    "text": "Video Call CSKH",
+    "level": 1,
+    "page": 224,
+    "probability": 0.5183624653772905,
+    "font_size": 11.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Video Call CSKH"
+  }
+]

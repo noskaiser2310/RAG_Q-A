@@ -1,0 +1,742 @@
+{
+  "Public_427": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_428": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_441": {
+    "total_headings": 15,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "Mô tả chung tính năng kỹ thuật của sản phẩm",
+      "Chỉ tiêu tính năng",
+      "Tính phù hợp chức năng",
+      "Tính chính xác",
+      "Khả năng tương tác",
+      "Tính bảo mật",
+      "Chỉ tiêu phi chức năng",
+      "Kiến trúc và công nghệ",
+      "Tính tin cậy",
+      "Tính khả dụng",
+      "Tính hiệu quả",
+      "Khả năng bảo trì",
+      "Tính khả chuyển",
+      "Chỉ tiêu về quản trị dữ liệu",
+      "Chỉ tiêu về cam kết, dịch vụ và các yêu cầu khác"
+    ],
+    "matched_headings": []
+  },
+  "Public_442": {
+    "total_headings": 19,
+    "converted": 2,
+    "skipped_in_table": [],
+    "not_found": [
+      "Xử lý phím bấm",
+      "Tiền xử lý khi vào IVR",
+      "Phân phối đến ĐTV",
+      "Xử lý trong khi tương tác",
+      "Xử lý kết thúc tương tác",
+      "Xử lý call back",
+      "Vận hành",
+      "Phân hệ email",
+      "Chức năng vận hành",
+      "Báo cáo chat",
+      "Luồng chat",
+      "Quản lý khách hàng",
+      "Quản lý chiến dịch",
+      "Thực hiện chiến dịch",
+      "Báo cáo Campaign",
+      "Chức năng cấu hình hệ thống",
+      "Đánh giá Học viên",
+      "Video Call CSKH"
+    ],
+    "matched_headings": [
+      "Kênh video call"
+    ]
+  },
+  "Public_444": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_445": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_446": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_447": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_448": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_449": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_465": {
+    "total_headings": 11,
+    "converted": 10,
+    "skipped_in_table": [],
+    "not_found": [
+      "Tiến hành lắp đặt hệ thống Điện mặt trời cho gia đình"
+    ],
+    "matched_headings": [
+      "Tính toán công suất lắp Điện mặt trời",
+      "THÔNG TIN KHÁC:",
+      "Khảo sát đánh giá nhu cầu sử dụng điện của khách hàng",
+      "Việt Nam (tham khảo)",
+      "Mua sắm các thiết bị điện năng lượng mặt trời",
+      "THÔNG TIN VỀ NGÔI NHÀ:",
+      "Xác định diện tích mái có thể lắp đặt điện mặt trời",
+      "THÔNG TIN VỀ VIỆC SỬ DỤNG ĐIỆN:",
+      "Xác Định hệ thống Điện mặt trời cần lắp đặt",
+      "Bảng giá thi công lắp đặt hệ thống điện mặt trời tại"
+    ]
+  },
+  "Public_466": {
+    "total_headings": 9,
+    "converted": 9,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Lắp đặt biến tần (Inverter)",
+      "Kết nối tấm pin",
+      "Lắp đặt thiết bị chống phát ngược lưới",
+      "Bảng so sánh Điện mặt trời và Điện lưới nhà nước",
+      "Các bước lắp Điện Mặt trời",
+      "Lắp đặt khung giá đỡ giàn pin",
+      "Kết nối Wifi với biến tần",
+      "Vận hành, bảo trì",
+      "Gắn tấm pin lên giá đỡ"
+    ]
+  },
+  "Public_468": {
+    "total_headings": 4,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [
+      "Chọn khí sử dụng trong cắt Plasma"
+    ],
+    "matched_headings": [
+      "Video kỹ thuật cắt plasma cơ bản",
+      "Khái niệm Plasma và nguyên lý hoạt động của mỏ cắt Plasma",
+      "Kỹ thuật cơ bản khi cắt plasma"
+    ]
+  },
+  "Public_469": {
+    "total_headings": 19,
+    "converted": 11,
+    "skipped_in_table": [],
+    "not_found": [
+      "• Hệ thống truyền động cơ khí",
+      "• Bánh xích",
+      "• Bánh thép",
+      "• Lắp đặt chắc chắn",
+      "• Hệ thống lái",
+      "• Lái bằng vành tay lái",
+      "• Hệ thống điều khiển",
+      "việc phanh XMCD ngay khi xe đang di chuyển"
+    ],
+    "matched_headings": [
+      "Hệ thống phanh",
+      "Hệ thống lái và hệ thống điều khiển",
+      "Yêu cầu đối với hiệu quả phanh",
+      "Bánh lốp",
+      "Động cơ và hệ thống truyền động",
+      "Hệ thống truyền động",
+      "Động cơ",
+      "Yêu cầu đối với đường thử phanh",
+      "Hệ thống di chuyển",
+      "Yêu cầu chung",
+      "QUY ĐỊNH KỸ THUẬT ĐỐI VỚI XE CHƯA QUA SỬ DỤNG"
+    ]
+  },
+  "Public_470": {
+    "total_headings": 3,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Cấu trúc dữ liệu đặc tả dùng cho lưu trữ dữ liệu",
+      "Tạo lập dữ liệu đặc tả",
+      "Xác định dữ liệu đặc tả"
+    ]
+  },
+  "Public_471": {
+    "total_headings": 10,
+    "converted": 10,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Ngoại quan",
+      "Chuyển bản ghi",
+      "Độ bền ánh sáng",
+      "Sự hấp thụ năng lượng độ bền kéo",
+      "Mật độ quang học",
+      "Độ bền nhiệt",
+      "Độ bền nước",
+      "Độ bền mài mòn",
+      "Độ bền gấp",
+      "Ảnh hưởng của việc ghi đến độ bền cơ học của giấy"
+    ]
+  },
+  "Public_472": {
+    "total_headings": 11,
+    "converted": 9,
+    "skipped_in_table": [],
+    "not_found": [
+      "Ram laptop",
+      "Vỉ máy tính Mainboard"
+    ],
+    "matched_headings": [
+      "Bộ nhớ RAM",
+      "Cấu tạo bên ngoài của laptop",
+      "Cấu tạo bên trong của laptop",
+      "Vi xử lý CPU",
+      "Card màn hình GPU",
+      "Ổ cứng lưu trữ",
+      "Chi tiết một số bộ phận quan trọng trong cấu tạo của laptop",
+      "Tổng quan cấu tạo của một chiếc laptop",
+      "Chip set"
+    ]
+  },
+  "Public_473": {
+    "total_headings": 8,
+    "converted": 7,
+    "skipped_in_table": [],
+    "not_found": [
+      "Hệ thống điện tử và điều khiển bay"
+    ],
+    "matched_headings": [
+      "Thiết kế tổng thể",
+      "Kết luận",
+      "Hiệu suất khai thác",
+      "Thông tin kỹ thuật máy bay Airbus A321",
+      "Động cơ",
+      "Sự phát triển và ứng dụng",
+      "Thông số vận hành bổ sung"
+    ]
+  },
+  "Public_474": {
+    "total_headings": 13,
+    "converted": 13,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Tăng cường độ ổn định và độ bền",
+      "Giao diện thân thiện với người dùng",
+      "Là gì Elegoo Saturn 4 Ultra Máy in nhựa 4 Ultra 16K?",
+      "In ấn tượng nhỏ và tượng nhỏ",
+      "Thời gian đóng rắn nhanh hơn với Monomàn hình LCD mạ crôm",
+      "Thiết kế trang sức",
+      "Khả năng tương thích với nhiều loại nhựa khác nhau",
+      "Khối lượng xây dựng mở rộng",
+      "Các ứng dụng của Elegoo Saturn 4 Ultra Máy in nhựa 4 Ultra 16K",
+      "Nguyên mẫu và Thiết kế sản phẩm",
+      "Độ phân giải và chi tiết vô song",
+      "Elegoo Saturn 4 Ultra 4 thông số in 16D bằng nhựa Ultra 3K:",
+      "Giáo dục và nghiên cứu về in 3D bằng nhựa"
+    ]
+  },
+  "Public_624": {
+    "total_headings": 8,
+    "converted": 7,
+    "skipped_in_table": [],
+    "not_found": [
+      "Quy hoạch giao thông điểm dân cư nông thôn"
+    ],
+    "matched_headings": [
+      "Quy hoạch các công trình phục vụ giao thông trong đô thị",
+      "Quy hoạch hệ thống giao thông trong đô thị",
+      "Các quy định chung về quy hoạch giao thông",
+      "Quy hoạch giao thông vùng",
+      "Quy hoạch giao thông đô thị",
+      "Hệ thống giao thông đối ngoại",
+      "Quy hoạch đảm bảo an toàn giao thông đô thị"
+    ]
+  },
+  "Public_626": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_634": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_635": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_636": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_637": {
+    "total_headings": 6,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "Nhôm Singhal hệ",
+      "Nhôm Singhal",
+      "Phụ trội kèm",
+      "GẠCH ỐP/LÁT",
+      "SƠN NỘI THẤT",
+      "Bột trét"
+    ],
+    "matched_headings": []
+  },
+  "Public_638": {
+    "total_headings": 1,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "a. Tôn Austnam"
+    ],
+    "matched_headings": []
+  },
+  "Public_639": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_640": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_641": {
+    "total_headings": 13,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [
+      "Công ty TNHH Hồng Phong",
+      "Công ty TNHH sản xuất và thương mại Tuổi Trẻ Lạng Sơn",
+      "Công ty cổ phần gạch ngói Hợp Thành",
+      "Công ty TNHH MTV Hiếu Hằng",
+      "Công ty TNHH Tư vấn đầu tư xây dựng An Khánh VQ",
+      "Công ty CP kinh doanh gạch ốp lát VIGLACERA",
+      "Công ty TNHH MTV Hồng Phong ATK",
+      "Cát tự nhiên",
+      "Thép ống mạ kẽm",
+      "Ống tôn mạ kẽm",
+      "Cột điện chữ H",
+      "Cột BT ly tâm"
+    ],
+    "matched_headings": [
+      "Xi măng"
+    ]
+  },
+  "Public_642": {
+    "total_headings": 8,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "Cửa sổ khung thép sơn tĩnh điện sần ngoài trời",
+      "Thanh nhôm định hình",
+      "Cửa cuốn",
+      "Phụ kiện",
+      "Khung cửa gỗ nhóm IV,V",
+      "Cánh cửa gỗ nhóm II ( dày 4 cm)",
+      "Cánh cửa gỗ nhóm IV,V ( dày 4 cm)",
+      "Nẹp khuôn, tay vịn lan can"
+    ],
+    "matched_headings": []
+  },
+  "Public_643": {
+    "total_headings": 19,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "Hệ thống trần",
+      "(B-Shaped, màu trắng, màu đen. Sơn tĩnh điện gia nhiệt PE, phụ kiện: khung xương thép tiêu chuẩn, 1.2m/m², móc treo...)",
+      "Sơn nước ngoài trời",
+      "Sơn màu pha sẵn trong và ngoài nhà",
+      "Sơn phủ bóng không màu trong suốt",
+      "Mầu sơn",
+      "Sơn nội Thất",
+      "Sơn ngoại thất",
+      "Sơn lót",
+      "Sơn chống thấm",
+      "Sơn đặc biệt",
+      "Bột bả",
+      "Sơn Lót",
+      "Sơn nội thất",
+      "Sơn phủ nội thất",
+      "Sơn phủ ngoại thất",
+      "Sơn ngoài trời",
+      "Sơn sàn công nghiệp",
+      "Sơn tường"
+    ],
+    "matched_headings": []
+  },
+  "Public_644": {
+    "total_headings": 17,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "Gạch Ceramic",
+      "Gạch ốp lát Porcelain",
+      "Gạch Granite",
+      "Gạch lát",
+      "Gạch ốp, lát",
+      "Gạch men EuroTile",
+      "Gạch granite EuroTile",
+      "Gạch men Signature",
+      "Gạch Granite in kỹ thuật số Viglacera Tiên Sơn",
+      "Gạch Ceramic Viglacera Hà nội",
+      "Gạch Platium Thăng Long, Hà Nội",
+      "Đá Granite",
+      "Đá xẻ",
+      "Tôn lạnh",
+      "Tôn 3 lớp",
+      "Tôn lợp (Công ty Cổ phần Austnam)",
+      "Cột đèn Tín hiệu giao thông"
+    ],
+    "matched_headings": []
+  },
+  "Public_645": {
+    "total_headings": 28,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "Dây đồng trần xoắn",
+      "Dây nhôm lõi thép",
+      "Ống luồn dây điện :",
+      "Dây điện bọc nhựa PVC - 0,6/1 kV (ruột đồng)",
+      "Cáp đồng trần",
+      "Cáp đồng bọc PVC",
+      "Cáp đồng",
+      "Cáp đồng ngầm",
+      "Dây điện áp bên trong CTr",
+      "Cáp đồng đơn",
+      "Dây ovan 2 ruột mềm",
+      "Dây tròn đặc 2 ruột mềm",
+      "Dây đơn cứng",
+      "Cáp Mica",
+      "Cáp trung thế đồng",
+      "Cáp nhôm đơn cách điện",
+      "Cáp nhôm ngầm",
+      "Cáp nhôm vặn xoắn",
+      "Cáp nhôm trần lõi thép",
+      "Dây o van 2 ruột mềm",
+      "Dây súp rãnh",
+      "Dây tròn 4 ruột mềm",
+      "Cáp đồng 1 ruột 7-37 sợi",
+      "Cáp đồng 1 ruột",
+      "Cáp đồng 4 ruột",
+      "Cáp đồng ngầm 2 ruột",
+      "Cáp đồng ngầm 4 ruột",
+      "Cáp nhôm đơn"
+    ],
+    "matched_headings": []
+  },
+  "Public_646": {
+    "total_headings": 5,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [
+      "Nắp hố ga, song chắn rác bằng vật liệu Composite, Gang",
+      "Van cổng ty chìm mặt bích nắp chụp hiệu ATK",
+      "Van cổng ty chìm kiểu EE/FF ngoàm đồng hiệu ATK",
+      "Van 1 chiều lá lật mặt bích hiệu ATK",
+      "Van bướm kiểu kẹp hiệu ATK"
+    ],
+    "matched_headings": []
+  },
+  "Public_647": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_648": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_649": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_650": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_651": {
+    "total_headings": 7,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [
+      "Bật máy tính",
+      "Đăng nhập vào hệ điều hành",
+      "Mở và làm việc với ứng dụng hoặc chương trình:",
+      "Đóng ứng dụng"
+    ],
+    "matched_headings": [
+      "CÁC BỘ PHẬN CƠ BẢN CỦA MÁY TÍNH",
+      "TRÌNH TỰ KHI SỬ DỤNG MÁY TÍNH",
+      "CÁC LOẠI MÁY TÍNH PHỔ BIẾN"
+    ]
+  },
+  "Public_652": {
+    "total_headings": 3,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "CÁC PHÍM CHỮ CÁI",
+      "CÁC PHÍM THÔNG DỤNG KHÁC",
+      "PHÍM CHỨC NĂNG CỦA MÁY TÍNH"
+    ]
+  },
+  "Public_653": {
+    "total_headings": 6,
+    "converted": 6,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "MÀN HÌNH DESKTOP",
+      "KIỂM TRA THÔNG TIN HỆ THỐNG",
+      "CÀI ĐẶT, GỠ BỎ PHẦN MỀM",
+      "CÁC PHIÊN BẢN HỆ ĐIỀU HÀNH WINDOWS",
+      "CẤU HÌNH MÀN HÌNH LÀM VIỆC",
+      "CÀI ĐẶT NGÀY GIỜ VÀ NGÔN NGỮ HIỂN THỊ"
+    ]
+  },
+  "Public_654": {
+    "total_headings": 2,
+    "converted": 2,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "MẶT SAU",
+      "BÊN PHẢI"
+    ]
+  },
+  "Public_655": {
+    "total_headings": 3,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "PHÍM THAO TÁC",
+      "BÀN DI CHUỘT",
+      "PHÍM ĐẶC BIỆT"
+    ]
+  },
+  "Public_656": {
+    "total_headings": 1,
+    "converted": 1,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "CÁC DẤU HIỆU CẦN GỌI GIÚP ĐỠ"
+    ]
+  },
+  "Public_657": {
+    "total_headings": 4,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [
+      "Các biểu tượng chuyển động hiện hoạt"
+    ],
+    "matched_headings": [
+      "Biểu tượng trạng thái",
+      "Thanh trên cùng – Hiển thị trạng thái",
+      "Thanh dưới cùng, các nút điều hướng màn hình"
+    ]
+  },
+  "Public_658": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_659": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_660": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_661": {
+    "total_headings": 2,
+    "converted": 2,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Màn hình cài đặt cửa van",
+      "Màn hình cài đặt (Cấp độ giám sát)"
+    ]
+  },
+  "Public_662": {
+    "total_headings": 0,
+    "converted": 0,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": []
+  },
+  "Public_665": {
+    "total_headings": 6,
+    "converted": 4,
+    "skipped_in_table": [],
+    "not_found": [
+      "Bulông",
+      "Ký hiệu"
+    ],
+    "matched_headings": [
+      "MỐI GHÉP VÍT CẤY",
+      "MỐI GHÉP REN",
+      "MỐI GHÉP VÍT",
+      "CÁC CHI TIẾT GHÉP CÓ REN"
+    ]
+  },
+  "Public_668": {
+    "total_headings": 2,
+    "converted": 2,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "KHÁI NIỆM CHUNG",
+      "VẼ QUY ƯỚC LÒ XO"
+    ]
+  },
+  "Public_669": {
+    "total_headings": 3,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Phạm vi áp dụng",
+      "Ký hiệu cửa sổ",
+      "Ký hiệu lỗ trống"
+    ]
+  },
+  "Public_670": {
+    "total_headings": 3,
+    "converted": 3,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Phạm vi áp dụng",
+      "Ký hiệu cầu thang và đường dốc",
+      "Ký hiệu cửa đi"
+    ]
+  },
+  "Public_671": {
+    "total_headings": 4,
+    "converted": 4,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "GIỚI THIỆU",
+      "MỘT SỐ KÍ HIỆU QUY ƯỚC TRONG BẢN VẼ SƠ ĐỒ HỆ THỐNG ĐIỆN:",
+      "CÁC LOẠI SƠ ĐỒ ĐIỆN:",
+      "MỤC TIÊU"
+    ]
+  },
+  "Public_672": {
+    "total_headings": 6,
+    "converted": 4,
+    "skipped_in_table": [],
+    "not_found": [
+      "Cầu thang 3 cánh",
+      "Bếp"
+    ],
+    "matched_headings": [
+      "Vẽ các ký hiệu điện trong sơ đồ điện chiếu sáng: Nguồn điện",
+      "MỤC TIÊU:",
+      "NỘI DUNG CHÍNH:",
+      "GIỚI THIỆU:"
+    ]
+  },
+  "Public_673": {
+    "total_headings": 4,
+    "converted": 2,
+    "skipped_in_table": [],
+    "not_found": [
+      "Công tắc xoay 4 cực",
+      "Tên gọi"
+    ],
+    "matched_headings": [
+      "VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ ĐIỆN CHIẾU SÁNG: CÁC LOẠI",
+      "VẼ CÁC KÝ HIỆU ĐIỆN TRONG SƠ ĐỒ CUNG CẤP ĐIỆN"
+    ]
+  },
+  "Public_675": {
+    "total_headings": 2,
+    "converted": 2,
+    "skipped_in_table": [],
+    "not_found": [],
+    "matched_headings": [
+      "Ký hiệu các bộ phận cần sửa chữa",
+      "Ký hiệu vách ngăn"
+    ]
+  }
+}

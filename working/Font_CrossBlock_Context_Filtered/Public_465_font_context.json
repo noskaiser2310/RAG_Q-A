@@ -1,0 +1,436 @@
+[
+    {
+        "prefix": "",
+        "text": "1 Xác định Điện đang sử dụng thuộc nhóm đối tượng nào?",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 2,
+        "bbox": [
+            99.26399993896484,
+            130.6111602783203,
+            438.0699768066406,
+            145.1393280029297
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2 Xác Định hệ thống Điện mặt trời cần lắp đặt",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            99.26399993896484,
+            295.0411682128906,
+            370.75,
+            309.5693054199219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3 Khảo sát đánh giá nhu cầu sử dụng điện của khách hàng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 13,
+        "bbox": [
+            99.26399993896484,
+            483.7012023925781,
+            437.9499816894531,
+            498.2293395996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.1 T HÔNG TIN VỀ VIỆC SỬ DỤNG ĐIỆN :",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 15,
+        "bbox": [
+            99.26399993896484,
+            575.6211547851562,
+            323.1099853515625,
+            590.1493530273438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.2 T HÔNG TIN VỀ NGÔI NHÀ :",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 2,
+        "bbox": [
+            99.26399993896484,
+            112.61116790771484,
+            271.489990234375,
+            127.13932800292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3.3 T HÔNG TIN KHÁC :",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            99.26399993896484,
+            211.2511749267578,
+            231.88999938964844,
+            225.7793426513672
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4 Tính toán công suất lắp Điện mặt trời Bước 1",
+        "suffix": ". Xác định số điện tiêu thụ của gia đình hoặc chủ đầu tư xác định công suất muốn lắp đặt",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 8,
+        "bbox": [
+            99.26399993896484,
+            285.6811828613281,
+            333.19000244140625,
+            325.7693176269531
+        ]
+    },
+    {
+        "prefix": "Ví dụ",
+        "text": "hóa đơn tiền điện hàng tháng là 3 triệu đồng",
+        "suffix": "và dựa vào công cụ tính hóa đơn tiền điện của EVN ta tính được khoảng 1.000 kWh (số điện)",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 12,
+        "bbox": [
+            131.66000366210938,
+            472.48260498046875,
+            380.8299865722656,
+            486.8293151855469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Bước 2: Sản lượng điện tiêu thụ trong 1 ngày theo công thức Sản lượng điện tiêu thụ 1 ngày = sản lượng điện 1 tháng/ 30 (ngày)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 15,
+        "bbox": [
+            99.26399993896484,
+            553.0026245117188,
+            467.553955078125,
+            591.4693603515625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tổng công suất Điện mặt trời dự kiến = Sản lượng điện tiêu thụ ban ngày/ số giờ nắng trung bình.",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 18,
+        "bbox": [
+            99.26399993896484,
+            681.91259765625,
+            527.02001953125,
+            712.33935546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "5 Chọn kiểu hệ thống Điện năng lượng mặt trời cần lắp đặt Trường hợp 1:",
+        "suffix": "Khách hàng có mong muốn tiết kiệm điện vào ban ngày, buổi tối sử dụng điện lưới sẽ lựa chọn giải pháp điện mặt trời hòa lưới bám tải:",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 6,
+        "bbox": [
+            99.26399993896484,
+            195.05116271972656,
+            442.1499938964844,
+            235.1393280029297
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Như vậy,",
+        "suffix": "với hóa đơn tiền điện là 3 triệu đồng, nếu dùng 100% điện mặt trời vào ban ngày, người dùng cần đầu tư",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 9,
+        "bbox": [
+            99.26399993896484,
+            373.8226013183594,
+            149.54000854492188,
+            388.1693115234375
+        ]
+    },
+    {
+        "prefix": "với hóa đơn tiền điện là 3 triệu đồng, nếu dùng 100% điện mặt trời vào ban ngày, người dùng cần đầu tư",
+        "text": "hệ thống điện mặt trời hòa lưới có công suất 5 kWp.",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 9,
+        "bbox": [
+            99.26399993896484,
+            390.0226135253906,
+            520.9000244140625,
+            420.4493103027344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trường hợp 2:",
+        "suffix": "Khách hàng có mong muốn sử dụng điện mặt trời cả ngày, để kiệm kiệm đối đa chi phí tiền điện thì sẽ lựa chọn giải pháp điện mặt trời lưu trữ hybrid:",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 10,
+        "bbox": [
+            99.26399993896484,
+            430.24261474609375,
+            181.3251190185547,
+            444.5893249511719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vậy Quý khách hàng sẽ lắp hệ 10kWp có lưu trữ (Hybrid)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 12,
+        "bbox": [
+            99.26399993896484,
+            526.962646484375,
+            422.0965270996094,
+            541.3093872070312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "6 Cách tính số lượng tấm pin năng lượng mặt trời cần lắp đặt",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 14,
+        "bbox": [
+            99.26399993896484,
+            585.1311645507812,
+            455.3800048828125,
+            599.6593627929688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Số lượng tấm pin = Tổng công suất / Công suất 1 tấm pin",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 16,
+        "bbox": [
+            99.26399993896484,
+            667.2725830078125,
+            415.15667724609375,
+            681.6193237304688
+        ]
+    },
+    {
+        "prefix": "Hiện nay,",
+        "text": "DHC Solar",
+        "suffix": "đang cung cấp sản phẩm tấm pin năng lượng mặt Jinko 555W hoặc Trina 555W, Canadian 555W nên sẽ lấy ví dụ là",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 17,
+        "bbox": [
+            153.02000427246094,
+            691.392578125,
+            214.68368530273438,
+            705.7393188476562
+        ]
+    },
+    {
+        "prefix": "đang cung cấp sản phẩm tấm pin năng lượng mặt Jinko 555W hoặc Trina 555W, Canadian 555W nên sẽ lấy ví dụ là",
+        "text": "555W",
+        "suffix": ".",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 17,
+        "bbox": [
+            416.5899963378906,
+            707.4725952148438,
+            449.09368896484375,
+            721.8193359375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7 Xác định diện tích mái có thể lắp đặt điện mặt trời",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 5,
+        "bbox": [
+            99.26399993896484,
+            195.05116271972656,
+            403.989990234375,
+            209.57933044433594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Diện tích mái = Số tấm pin x diện tích của 1 tấm pin",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 7,
+        "bbox": [
+            99.26399993896484,
+            293.3026123046875,
+            387.3166809082031,
+            307.6493225097656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý:",
+        "suffix": "Cần phải tính thêm diện tích đi lại để có thể dễ dàng vận hành, bảo trì và vệ sinh tấm pin",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 13,
+        "bbox": [
+            99.26399993896484,
+            470.442626953125,
+            136.92575073242188,
+            484.7893371582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Kinh nghiệm thực tế",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 14,
+        "bbox": [
+            99.26399993896484,
+            510.642578125,
+            216.88999938964844,
+            524.9893188476562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "8 Mua sắm các thiết bị điện năng lượng mặt trời",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 19,
+        "bbox": [
+            99.26399993896484,
+            657.3711547851562,
+            382.1499938964844,
+            671.8993530273438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "9 Tiến hành lắp đặt hệ thống Điện mặt trời cho gia đình",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            99.26399993896484,
+            112.61116790771484,
+            423.66998291015625,
+            127.13932800292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "10 Bảng giá thi công lắp đặt hệ thống điện mặt trời tại Việt Nam (tham khảo) Đơn vị thi công Công suất hệ thống Chi phí ước tính / trọn gói Ghi chú Techpal Solar",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 13,
+        "bbox": [
+            99.26399993896484,
+            204.65000915527344,
+            517.9600219726562,
+            343.234619140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "BntechSolar",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 18,
+        "bbox": [
+            102.9800033569336,
+            415.3933410644531,
+            163.8199920654297,
+            427.6146240234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lithaco",
+        "suffix": "10 kWp + Battery 5.3 kWh 130 triệu đồng Có lưu trữ, chi phí cao hơn hệ",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 24,
+        "bbox": [
+            114.0199966430664,
+            484.3933410644531,
+            152.77999877929688,
+            496.6146240234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "SunPower / AE Solar",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 27,
+        "bbox": [
+            104.9000015258789,
+            538.0333251953125,
+            161.87745666503906,
+            563.9346313476562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "DHC Solar",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 34,
+        "bbox": [
+            105.86000061035156,
+            609.703369140625,
+            160.8199920654297,
+            621.9246215820312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vũ Phong Energy Group",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 39,
+        "bbox": [
+            108.5,
+            670.42333984375,
+            158.16896057128906,
+            710.004638671875
+        ]
+    }
+]

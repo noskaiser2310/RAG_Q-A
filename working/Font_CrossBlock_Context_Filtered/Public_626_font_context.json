@@ -1,0 +1,282 @@
+[
+    {
+        "prefix": "",
+        "text": "BẢNG CHI TIẾT HẠNG MỤC XÂY LẮP STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính A 1- Hạng mục: Phần móng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 8,
+        "bbox": [
+            86.66400146484375,
+            104.150390625,
+            542.280029296875,
+            201.81202697753906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "B 2- Hạng mục: Phần thân",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 28,
+        "bbox": [
+            93.86399841308594,
+            392.1980285644531,
+            394.8699951171875,
+            405.4820251464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "C 3- Hạng mục: Phần hoàn thiện",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 46,
+        "bbox": [
+            93.50399780273438,
+            535.498046875,
+            410.5,
+            548.7820434570312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "D 4- Hạng mục: Phần cấp thoát nước",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 4,
+        "bbox": [
+            93.50399780273438,
+            141.2480010986328,
+            421.5400085449219,
+            154.53199768066406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 38,
+        "bbox": [
+            86.66400146484375,
+            604.2880249023438,
+            542.280029296875,
+            645.1719970703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 62,
+        "bbox": [
+            86.66400146484375,
+            667.7680053710938,
+            542.280029296875,
+            708.6519775390625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "E 5- Hạng mục: Thoát nước mái",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 56,
+        "bbox": [
+            93.86399841308594,
+            643.0479736328125,
+            409.4200134277344,
+            656.3319702148438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 67,
+        "bbox": [
+            86.66400146484375,
+            725.6080322265625,
+            542.280029296875,
+            766.6079711914062
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "F 6- Hạng mục: Hệ thống điện chiếu sáng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 28,
+        "bbox": [
+            94.2239990234375,
+            392.1980285644531,
+            432.70001220703125,
+            405.4820251464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 6,
+        "bbox": [
+            86.66400146484375,
+            105.48799133300781,
+            542.280029296875,
+            146.3720245361328
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 7,
+        "bbox": [
+            86.66400146484375,
+            152.2880401611328,
+            542.280029296875,
+            193.29200744628906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "G 7- Hạng mục: Hệ thống chống sét",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 29,
+        "bbox": [
+            93.14399719238281,
+            474.8980407714844,
+            417.2200012207031,
+            488.1820373535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "H 8-Hạng mục: INTERNET",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 4,
+        "bbox": [
+            93.14399719238281,
+            141.2480010986328,
+            398.3800048828125,
+            154.53199768066406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 13,
+        "bbox": [
+            86.66400146484375,
+            223.92799377441406,
+            542.280029296875,
+            264.8420104980469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "I 9- Hạng mục: Bể tự hoại",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 24,
+        "bbox": [
+            95.54399871826172,
+            416.91802978515625,
+            394.6300048828125,
+            430.2020263671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 21,
+        "bbox": [
+            86.66400146484375,
+            295.7180480957031,
+            542.280029296875,
+            336.6020202636719
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "J 10- Hạng mục: Mương thoát nước ngoài nhà",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 55,
+        "bbox": [
+            94.8239974975586,
+            654.0880126953125,
+            446.3800048828125,
+            667.3720092773438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 29,
+        "bbox": [
+            86.66400146484375,
+            367.3580322265625,
+            542.280029296875,
+            408.2420349121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "K 11- Hạng mục: Sân vườn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 0,
+        "bbox": [
+            93.14399719238281,
+            105.48799133300781,
+            395.8299865722656,
+            118.7719955444336
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT Mô tả công việc mời thầu Yêu cầu kỹ thuật/Chỉ dẫn kỹ thuật chính Khối lượng mời thầu Đơn vị tính",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 32,
+        "bbox": [
+            86.66400146484375,
+            425.2180480957031,
+            542.280029296875,
+            466.1020202636719
+        ]
+    }
+]

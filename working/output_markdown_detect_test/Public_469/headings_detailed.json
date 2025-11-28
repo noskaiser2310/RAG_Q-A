@@ -1,0 +1,182 @@
+[
+  {
+    "text": "QUY ĐỊNH KỸ THUẬT ĐỐI VỚI XE CHƯA QUA SỬ DỤNG",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9987307984236273,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "QUY ĐỊNH KỸ THUẬT ĐỐI VỚI XE CHƯA QUA SỬ DỤNG"
+  },
+  {
+    "text": "1.1 Yêu cầu chung",
+    "level": 2,
+    "page": 1,
+    "probability": 0.99038091475594,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "1.1 Yêu cầu chung"
+  },
+  {
+    "text": "1.2 Động cơ và hệ thống truyền động",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9940150966269542,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "1.2 Động cơ và hệ thống truyền động"
+  },
+  {
+    "text": "1.3 Động cơ",
+    "level": 1,
+    "page": 1,
+    "probability": 0.95,
+    "font_size": 12.960000038146973,
+    "detection_method": "rule_based",
+    "text_original": "1.3 Động cơ"
+  },
+  {
+    "text": "1.4 Hệ thống truyền động",
+    "level": 2,
+    "page": 2,
+    "probability": 0.9902696188188448,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "1.4 Hệ thống truyền động"
+  },
+  {
+    "text": "• Hệ thống truyền động cơ khí",
+    "level": 2,
+    "page": 2,
+    "probability": 0.6900792479172672,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "• Hệ thống truyền động cơ khí"
+  },
+  {
+    "text": "1.5 Hệ thống di chuyển",
+    "level": 2,
+    "page": 2,
+    "probability": 0.9899313945194523,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "1.5 Hệ thống di chuyển"
+  },
+  {
+    "text": "1.6 Bánh lốp",
+    "level": 2,
+    "page": 2,
+    "probability": 0.999365905491965,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1.6 Bánh lốp"
+  },
+  {
+    "text": "• Bánh xích",
+    "level": 2,
+    "page": 2,
+    "probability": 0.519123501769112,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "• Bánh xích"
+  },
+  {
+    "text": "• Bánh thép",
+    "level": 2,
+    "page": 3,
+    "probability": 0.6549986079932576,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "• Bánh thép"
+  },
+  {
+    "text": "• Lắp đặt chắc chắn",
+    "level": 2,
+    "page": 3,
+    "probability": 0.5030975284371435,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "• Lắp đặt chắc chắn."
+  },
+  {
+    "text": "1.7 Hệ thống lái và hệ thống điều khiển",
+    "level": 2,
+    "page": 3,
+    "probability": 0.9978976442013731,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "1.7 Hệ thống lái và hệ thống điều khiển"
+  },
+  {
+    "text": "• Hệ thống lái",
+    "level": 2,
+    "page": 3,
+    "probability": 0.7485902649120951,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "• Hệ thống lái"
+  },
+  {
+    "text": "• Lái bằng vành tay lái",
+    "level": 2,
+    "page": 3,
+    "probability": 0.5053853207579521,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "• Lái bằng vành tay lái"
+  },
+  {
+    "text": "• Hệ thống điều khiển",
+    "level": 2,
+    "page": 3,
+    "probability": 0.4865944327898386,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "• Hệ thống điều khiển"
+  },
+  {
+    "text": "1.8 Hệ thống phanh",
+    "level": 2,
+    "page": 4,
+    "probability": 0.9922450732797273,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "1.8 Hệ thống phanh"
+  },
+  {
+    "text": "1.9 Yêu cầu chung",
+    "level": 2,
+    "page": 4,
+    "probability": 0.9997212267228752,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1.9 Yêu cầu chung"
+  },
+  {
+    "text": "việc phanh XMCD ngay khi xe đang di chuyển",
+    "level": 1,
+    "page": 4,
+    "probability": 0.5144628201814421,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "việc phanh XMCD ngay khi xe đang di chuyển."
+  },
+  {
+    "text": "1.10 Yêu cầu đối với đường thử phanh",
+    "level": 2,
+    "page": 5,
+    "probability": 0.9999265516731447,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1.10 Yêu cầu đối với đường thử phanh"
+  },
+  {
+    "text": "Yêu cầu đối với hiệu quả phanh",
+    "level": 1,
+    "page": 5,
+    "probability": 0.5323895629905184,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Yêu cầu đối với hiệu quả phanh"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Các quy định chung về quy hoạch giao thông",
+    "level": 3,
+    "page": 1,
+    "probability": 0.8208749960670917,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Các quy định chung về quy hoạch giao thông"
+  },
+  {
+    "text": "Quy hoạch giao thông vùng",
+    "level": 3,
+    "page": 1,
+    "probability": 0.9886380436103828,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Quy hoạch giao thông vùng"
+  },
+  {
+    "text": "Quy hoạch giao thông đô thị",
+    "level": 3,
+    "page": 1,
+    "probability": 0.9813211293698372,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Quy hoạch giao thông đô thị"
+  },
+  {
+    "text": "3.1 Hệ thống giao thông đối ngoại",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9931026573184237,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3.1 Hệ thống giao thông đối ngoại"
+  },
+  {
+    "text": "3.2 Quy hoạch hệ thống giao thông trong đô thị",
+    "level": 2,
+    "page": 5,
+    "probability": 0.9944599959977745,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3.2 Quy hoạch hệ thống giao thông trong đô thị"
+  },
+  {
+    "text": "3.3 Quy hoạch các công trình phục vụ giao thông trong đô thị",
+    "level": 2,
+    "page": 11,
+    "probability": 0.994925346203094,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3.3 Quy hoạch các công trình phục vụ giao thông trong đô thị"
+  },
+  {
+    "text": "3.4 Quy hoạch đảm bảo an toàn giao thông đô thị",
+    "level": 2,
+    "page": 12,
+    "probability": 0.9961046143095942,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3.4 Quy hoạch đảm bảo an toàn giao thông đô thị"
+  },
+  {
+    "text": "Quy hoạch giao thông điểm dân cư nông thôn",
+    "level": 3,
+    "page": 13,
+    "probability": 0.9387283520568599,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Quy hoạch giao thông điểm dân cư nông thôn."
+  }
+]

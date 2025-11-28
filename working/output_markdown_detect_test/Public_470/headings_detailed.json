@@ -1,0 +1,29 @@
+[
+  {
+    "text": "Cấu trúc dữ liệu đặc tả dùng cho lưu trữ dữ liệu",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9979801511223538,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Cấu trúc dữ liệu đặc tả dùng cho lưu trữ dữ liệu"
+  },
+  {
+    "text": "Xác định dữ liệu đặc tả",
+    "level": 1,
+    "page": 3,
+    "probability": 0.950446941110052,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Xác định dữ liệu đặc tả"
+  },
+  {
+    "text": "Tạo lập dữ liệu đặc tả",
+    "level": 1,
+    "page": 4,
+    "probability": 0.9973381942242231,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Tạo lập dữ liệu đặc tả"
+  }
+]

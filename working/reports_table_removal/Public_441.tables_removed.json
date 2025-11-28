@@ -1,0 +1,169 @@
+{
+  "file": "Public_441.pdf",
+  "config": {
+    "keywords": [
+      "VIETTEL\\s+AI\\s+RACE",
+      "PUBLIC\\s*\\d{1,4}",
+      "LAN\\s+BAN\\s+HANH"
+    ],
+    "min_width_ratio": 0.5,
+    "max_height_ratio": 0.25,
+    "merge_pad": 6,
+    "pad_pts": 12,
+    "veto_threshold": 0.12,
+    "allow_text_fallback": false
+  },
+  "targets": {
+    "0": [
+      [
+        67.8,
+        39.72,
+        747.34,
+        88.46
+      ]
+    ]
+  },
+  "debug": {
+    "0": {
+      "tables": [
+        [
+          67.8,
+          39.72,
+          747.34,
+          88.46
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            67.8,
+            39.72,
+            747.34,
+            88.46
+          ],
+          "sample_text": "VIETTEL AI RACE TD441 BO CHI TIEU KY THUAT CHO HE THONG VCOC LAN BAN HANH: 1"
+        }
+      ]
+    },
+    "1": {
+      "tables": [],
+      "hits": []
+    },
+    "2": {
+      "tables": [],
+      "hits": []
+    },
+    "3": {
+      "tables": [],
+      "hits": []
+    },
+    "4": {
+      "tables": [],
+      "hits": []
+    },
+    "5": {
+      "tables": [],
+      "hits": []
+    },
+    "6": {
+      "tables": [],
+      "hits": []
+    },
+    "7": {
+      "tables": [],
+      "hits": []
+    },
+    "8": {
+      "tables": [],
+      "hits": []
+    },
+    "9": {
+      "tables": [],
+      "hits": []
+    },
+    "10": {
+      "tables": [],
+      "hits": []
+    },
+    "11": {
+      "tables": [],
+      "hits": []
+    },
+    "12": {
+      "tables": [],
+      "hits": []
+    },
+    "13": {
+      "tables": [],
+      "hits": []
+    },
+    "14": {
+      "tables": [],
+      "hits": []
+    },
+    "15": {
+      "tables": [],
+      "hits": []
+    },
+    "16": {
+      "tables": [],
+      "hits": []
+    },
+    "17": {
+      "tables": [],
+      "hits": []
+    },
+    "18": {
+      "tables": [],
+      "hits": []
+    },
+    "19": {
+      "tables": [],
+      "hits": []
+    },
+    "20": {
+      "tables": [],
+      "hits": []
+    },
+    "21": {
+      "tables": [],
+      "hits": []
+    },
+    "22": {
+      "tables": [],
+      "hits": []
+    },
+    "23": {
+      "tables": [],
+      "hits": []
+    },
+    "24": {
+      "tables": [],
+      "hits": []
+    },
+    "25": {
+      "tables": [],
+      "hits": []
+    },
+    "26": {
+      "tables": [],
+      "hits": []
+    },
+    "27": {
+      "tables": [],
+      "hits": []
+    },
+    "28": {
+      "tables": [],
+      "hits": []
+    },
+    "29": {
+      "tables": [],
+      "hits": []
+    }
+  },
+  "metrics": {
+    "processing_time_sec": 0.9,
+    "pages_affected": 1
+  }
+}

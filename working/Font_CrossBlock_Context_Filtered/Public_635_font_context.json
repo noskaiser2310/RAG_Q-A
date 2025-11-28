@@ -1,0 +1,1178 @@
+[
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            84.50399780273438,
+            128.9903564453125,
+            111.0271224975586,
+            144.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 1,
+        "bbox": [
+            294.8900146484375,
+            120.95034790039062,
+            548.97998046875,
+            136.4926300048828
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "I. YÊU CẦU CHUNG",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 4,
+        "bbox": [
+            154.6999969482422,
+            231.02035522460938,
+            234.09617614746094,
+            262.64263916015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "II. YÊU CẦU CẤU HÌNH",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 11,
+        "bbox": [
+            135.13999938964844,
+            423.04034423828125,
+            253.73585510253906,
+            454.66265869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "III. THÔNG SỐ KỸ THUẬT 1. Đặc tính chung",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 9,
+        "bbox": [
+            131.66000366210938,
+            369.88037109375,
+            376.1600036621094,
+            457.45263671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "26 Loa Stereo tích hợp",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "34",
+        "text": "2. Màn hình hiển thị hình ảnh siêu âm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 7,
+        "bbox": [
+            267.6499938964844,
+            370.120361328125,
+            498.82000732421875,
+            385.66265869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "40 Độ tương phản: 1000:1 (typ.) 41 Độ sáng (cd / m2): 300 (typ.) 42",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "40 Độ tương phản: 1000:1 (typ.) 41 Độ sáng (cd / m2): 300 (typ.) 42",
+        "text": "3. Màn hình điều khiển",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 0,
+        "bbox": [
+            267.6499938964844,
+            178.55035400390625,
+            410.0,
+            194.09263610839844
+        ]
+    },
+    {
+        "prefix": "45",
+        "text": "4. Cài đặt chế độ thăm khám (Application Preset): 20 chế độ ứng dụng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            267.6499938964844,
+            269.30035400390625,
+            691.9299926757812,
+            284.8426513671875
+        ]
+    },
+    {
+        "prefix": "46",
+        "text": "5. Chế độ hoạt động",
+        "suffix": "47 Chế độ siêu âm 2D (B Mode) 48 Chế độ siêu âm M (M-Mode) 49 Chế độ siêu âm Doppler 50 Chế độ siêu âm Doppler màu: 51 - Chế độ siêu âm Doppler màu 2D",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 4,
+        "bbox": [
+            267.6499938964844,
+            305.06036376953125,
+            390.55999755859375,
+            320.6026611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "57",
+        "text": "6. Bộ nhớ Cine",
+        "suffix": "58 Dung lượng bộ nhớ: 960 MB 59 Chế độ thu nhận/ phát lại: 60 + Có thể phát lặp lại 61 + Có thể phát lại khung trước",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 3,
+        "bbox": [
+            267.6499938964844,
+            268.5803527832031,
+            359.8399963378906,
+            284.1226501464844
+        ]
+    },
+    {
+        "prefix": "63 + Có thể ghi hình ảnh trực tiếp (Clip) 64",
+        "text": "7. Chế độ 2D (2D Mode – B Mode)",
+        "suffix": "65 Mật độ dòng quét: 66 + Phụ thuộc vào từng loại đầu dò",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 5,
+        "bbox": [
+            267.6499938964844,
+            416.0803527832031,
+            476.9800109863281,
+            431.6226501464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "83 Gain:",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "96 + Precision 97 Bản đồ màu 2D:",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "120",
+        "text": "8. Chế độ siêu âm M (M Mode)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 2,
+        "bbox": [
+            267.6499938964844,
+            178.07034301757812,
+            457.05999755859375,
+            193.6126251220703
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "131 + Phương pháp Pulse Subtraction 132 + Phương pháp lọc 133 + Phương pháp chuyên biệt 134 M Mark:",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "139",
+        "text": "9. Chế độ siêu âm Doppler",
+        "suffix": "140 Chế độ Doppler: 141 + Chế độ Doppler xung (PW)",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 4,
+        "bbox": [
+            267.6499938964844,
+            361.600341796875,
+            429.1000061035156,
+            377.14263916015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "180",
+        "text": "10. Chế độ siêu âm Doppler màu",
+        "suffix": "181",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 3,
+        "bbox": [
+            267.6499938964844,
+            232.58035278320312,
+            466.05999755859375,
+            248.1226348876953
+        ]
+    },
+    {
+        "prefix": "181",
+        "text": "10.1.Chế độ siêu âm Doppler màu 2D",
+        "suffix": "182 Chế độ hiển thị 183 - CDI - Ảnh siêu âm màu 184 + Vận tốc dòng chảy 185 + Vận tốc/Sự biến thiên dòng chảy 186 + Năng lượng 187 - TDI – Doppler mô",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 3,
+        "bbox": [
+            267.6499938964844,
+            251.06036376953125,
+            493.6600036621094,
+            266.6026611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "221",
+        "text": "10.2. Chế độ siêu âm Doppler màu M (MDF Mode)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 5,
+        "bbox": [
+            267.6499938964844,
+            350.56036376953125,
+            575.739990234375,
+            366.1026611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "240",
+        "text": "11. Đầu dò Linear bằng tần số rộng PLT-1005 BT (14L5)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 3,
+        "bbox": [
+            267.6499938964844,
+            241.58035278320312,
+            611.6500244140625,
+            257.1226501464844
+        ]
+    },
+    {
+        "prefix": "244",
+        "text": "12. Đầu dò Convex bằng tần số rộng PVT-375BT (6C1)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 6,
+        "bbox": [
+            267.6499938964844,
+            350.56036376953125,
+            600.25,
+            366.1026611328125
+        ]
+    },
+    {
+        "prefix": "245",
+        "text": "Dải tần số: 1.5 - 6.0 MHz",
+        "suffix": "246 Góc trường nhìn: 70o",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 7,
+        "bbox": [
+            267.6499938964844,
+            377.56036376953125,
+            419.7200012207031,
+            393.1026611328125
+        ]
+    },
+    {
+        "prefix": "248",
+        "text": "13. Đầu dò Sector bằng tần số rộng PST–30BT (5S2)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 9,
+        "bbox": [
+            267.6499938964844,
+            459.67034912109375,
+            583.9000244140625,
+            475.212646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "252",
+        "text": "14. Đầu dò thực quản bằng tần số rộng 8S2 (Model: PET-512MA)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 2,
+        "bbox": [
+            267.6499938964844,
+            186.620361328125,
+            663.9700317382812,
+            202.1626434326172
+        ]
+    },
+    {
+        "prefix": "254",
+        "text": "15. Chức năng báo cáo và xuất hình ảnh",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 4,
+        "bbox": [
+            267.6499938964844,
+            240.620361328125,
+            511.05999755859375,
+            256.16265869140625
+        ]
+    },
+    {
+        "prefix": "255",
+        "text": "15.1. Chức năng báo cáo:",
+        "suffix": "256 - Các hàm bảng tính",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 5,
+        "bbox": [
+            267.6499938964844,
+            267.620361328125,
+            421.8800048828125,
+            283.16265869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "263 + Báo cáo có thể được tạo trên hệ thống 264 + Các báo cáo được tạo có thể được in",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "266 + Có thể chỉnh sửa mẫu báo cáo 267",
+        "text": "15.2.Xuất hình ảnh",
+        "suffix": "268 Hình tĩnh: BMP/JPEG 269 Hình động: WMV9 270",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 2,
+        "bbox": [
+            267.6499938964844,
+            233.54034423828125,
+            385.52001953125,
+            249.08262634277344
+        ]
+    },
+    {
+        "prefix": "268 Hình tĩnh: BMP/JPEG 269 Hình động: WMV9 270",
+        "text": "16. Thu Video",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 2,
+        "bbox": [
+            267.6499938964844,
+            289.100341796875,
+            355.52001953125,
+            304.64263916015625
+        ]
+    },
+    {
+        "prefix": "272",
+        "text": "17. Chức năng bảo mật",
+        "suffix": "273 - Kiểm soát sự bảo mật",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 4,
+        "bbox": [
+            267.6499938964844,
+            380.0803527832031,
+            409.760009765625,
+            395.6226501464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "278",
+        "text": "18. Kết nối mạng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 2,
+        "bbox": [
+            267.6499938964844,
+            178.07034301757812,
+            373.0400085449219,
+            193.6126251220703
+        ]
+    },
+    {
+        "prefix": "280",
+        "text": "19. Cổng vào/cổng ra",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 4,
+        "bbox": [
+            267.6499938964844,
+            233.06036376953125,
+            397.1600036621094,
+            248.60264587402344
+        ]
+    },
+    {
+        "prefix": "288 - Để kết nối với SDD: hỗ trợ 1 SDD 289 - Cho DVD: 1ch 290",
+        "text": "20. Phân loại an toàn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 9,
+        "bbox": [
+            267.6499938964844,
+            490.1503601074219,
+            396.8000183105469,
+            505.6926574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "294",
+        "text": "21. Thiết bị phụ trợ kèm theo mua tại Việt Nam",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 4,
+        "bbox": [
+            267.6499938964844,
+            241.58035278320312,
+            556.2999877929688,
+            257.1226501464844
+        ]
+    },
+    {
+        "prefix": "295",
+        "text": "21.1 Bộ máy vi tính để bàn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 5,
+        "bbox": [
+            267.6499938964844,
+            268.5803527832031,
+            430.3000183105469,
+            284.1226501464844
+        ]
+    },
+    {
+        "prefix": "297 Ổ cứng 500 GB 298 Ram 4 GB 299 Màn hình màu LCD 18.5 inch 300 Kết nối chuột, bàn phím: USB 301 Hệ điều hành Windows có bản quyền 302",
+        "text": "21.2. Máy in laser màu",
+        "suffix": "303 Khổ giấy: A4/A5 304 Cổng giao tiếp: USD/Lan/Wifi",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 7,
+        "bbox": [
+            267.6499938964844,
+            416.0803527832031,
+            407.2400207519531,
+            431.6226501464844
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    },
+    {
+        "prefix": "306",
+        "text": "21.3. Bộ lưu điện online Santak, công suất 2KVA",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 1,
+        "bbox": [
+            267.6499938964844,
+            149.9903564453125,
+            562.4199829101562,
+            165.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "IV. CÁC YÊU CẦU KHÁC:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 6,
+        "bbox": [
+            132.86000061035156,
+            351.5203552246094,
+            256.00482177734375,
+            383.14263916015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "STT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 0,
+        "bbox": [
+            84.50399780273438,
+            113.9903564453125,
+            111.0271224975586,
+            129.5326385498047
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "CẤU HÌNH VÀ THÔNG SỐ KỸ THUẬT",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 0,
+        "bbox": [
+            294.8900146484375,
+            105.95034790039062,
+            548.97998046875,
+            121.49263000488281
+        ]
+    }
+]

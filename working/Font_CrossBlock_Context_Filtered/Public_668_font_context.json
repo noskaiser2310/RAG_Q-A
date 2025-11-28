@@ -1,0 +1,198 @@
+[
+    {
+        "prefix": "•",
+        "text": "Lò xo xoắn ốc",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 5,
+        "bbox": [
+            90.02400207519531,
+            196.3126220703125,
+            169.3400115966797,
+            210.6593475341797
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lò xo xoắn phẳng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 9,
+        "bbox": [
+            90.02400207519531,
+            434.442626953125,
+            191.77999877929688,
+            448.7893371582031
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lò xo nhíp",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 13,
+        "bbox": [
+            90.02400207519531,
+            676.9926147460938,
+            156.5,
+            691.33935546875
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lò xo đĩa",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 3,
+        "bbox": [
+            90.02400207519531,
+            133.5526123046875,
+            144.3800048828125,
+            147.8993377685547
+        ]
+    },
+    {
+        "prefix": "- Lò xo có kết cấu, hình dạng phức tạp nên được",
+        "text": "TCVN 14-78",
+        "suffix": "quy định vẽ theo quy ước.",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 7,
+        "bbox": [
+            336.42999267578125,
+            241.22265625,
+            405.66998291015625,
+            255.5693817138672
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "\"hướng xoắn phải\"",
+        "suffix": "hoặc",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 24,
+        "bbox": [
+            90.02400207519531,
+            664.5126342773438,
+            192.47280883789062,
+            678.859375
+        ]
+    },
+    {
+        "prefix": "hoặc",
+        "text": "\"hướng xoắn trái\"",
+        "suffix": "trong yêu cầu kĩ thuật.",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 24,
+        "bbox": [
+            220.3699951171875,
+            664.5126342773438,
+            318.50311279296875,
+            678.859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên gọi lò xo Hình vẽ quy ước Hình chiếu Hình cắt Khi chiếu dây mặt cắt của dây ≤ 2mm Lò xo nén",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 8,
+        "bbox": [
+            64.44000244140625,
+            86.27264404296875,
+            554.6199951171875,
+            449.62933349609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên gọi lò xo Hình vẽ quy ước Hình chiếu Hình cắt Khi chiếu dây mặt cắt của dây ≤ 2mm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 5,
+        "bbox": [
+            67.8239974975586,
+            86.27264404296875,
+            554.6199951171875,
+            145.85935974121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lò xo kéo",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 20,
+        "bbox": [
+            64.8239974975586,
+            447.0426330566406,
+            87.6240005493164,
+            506.26934814453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tên gọi lò xo Hình vẽ quy ước Hình chiếu Hình cắt Khi chiếu dây mặt cắt của dây ≤ 2mm Lò xo xoắn ốc",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 9,
+        "bbox": [
+            61.31999969482422,
+            86.27264404296875,
+            554.6199951171875,
+            258.5693664550781
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lò xo đĩa",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 20,
+        "bbox": [
+            65.90399932861328,
+            325.8226318359375,
+            86.54399871826172,
+            384.9293518066406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lò xo lá",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 27,
+        "bbox": [
+            61.439998626708984,
+            434.3226318359375,
+            91.10399627685547,
+            471.1093444824219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lò xo nhíp",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 34,
+        "bbox": [
+            61.91999816894531,
+            503.0826416015625,
+            90.50399780273438,
+            562.3093872070312
+        ]
+    }
+]

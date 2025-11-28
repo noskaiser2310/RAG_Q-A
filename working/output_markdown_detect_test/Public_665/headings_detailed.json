@@ -1,0 +1,56 @@
+[
+  {
+    "text": "1. CÁC CHI TIẾT GHÉP CÓ REN",
+    "level": 2,
+    "page": 1,
+    "probability": 0.9287399929334326,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. CÁC CHI TIẾT GHÉP CÓ REN"
+  },
+  {
+    "text": "Bulông",
+    "level": 3,
+    "page": 1,
+    "probability": 0.747898618129537,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Bulông"
+  },
+  {
+    "text": "Ký hiệu",
+    "level": 1,
+    "page": 2,
+    "probability": 0.5799973061304112,
+    "font_size": 13.09943962097168,
+    "detection_method": "ml",
+    "text_original": "Ký hiệu"
+  },
+  {
+    "text": "2. MỐI GHÉP REN",
+    "level": 2,
+    "page": 3,
+    "probability": 0.5589405163030741,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. MỐI GHÉP REN"
+  },
+  {
+    "text": "3. MỐI GHÉP VÍT CẤY",
+    "level": 2,
+    "page": 4,
+    "probability": 0.8870802488564489,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. MỐI GHÉP VÍT CẤY"
+  },
+  {
+    "text": "4. MỐI GHÉP VÍT",
+    "level": 2,
+    "page": 4,
+    "probability": 0.7518368386664191,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "4. MỐI GHÉP VÍT"
+  }
+]

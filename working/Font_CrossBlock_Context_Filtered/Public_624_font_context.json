@@ -1,0 +1,128 @@
+[
+    {
+        "prefix": "",
+        "text": "1. Các quy định chung về quy hoạch giao thông",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 2,
+        "bbox": [
+            99.38400268554688,
+            108.65120697021484,
+            380.22998046875,
+            123.17936706542969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2. Quy hoạch giao thông vùng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            99.38400268554688,
+            250.7611846923828,
+            283.3699951171875,
+            265.2893371582031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3. Quy hoạch giao thông đô thị 3.1 Hệ thống giao thông đối ngoại",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 18,
+        "bbox": [
+            99.38400268554688,
+            621.7311401367188,
+            297.4100036621094,
+            664.6993408203125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Loại ga Kiểu bố trí đường đón, tiễn tàu Chiều dài nền ga (m) Chiều rộng nền ga (m)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 12,
+        "bbox": [
+            99.86399841308594,
+            357.62261962890625,
+            536.8599853515625,
+            404.8493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Loại ga Kiểu bố trí đường đón, tiễn tàu Chiều dài nền ga (m) Chiều rộng nền ga (m)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 17,
+        "bbox": [
+            116.05999755859375,
+            415.7187805175781,
+            548.089111328125,
+            454.068359375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cấp đường",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 3,
+        "bbox": [
+            115.69999694824219,
+            128.86878967285156,
+            154.16912841796875,
+            154.25840759277344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Loại đường Tốc độ thiết kế (km/h) Bề rộng 1 làn xe (m) Bề rộng của đường (m) Khoảng cách hai đường (m) Mật độ đườn g km/km 2",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 14,
+        "bbox": [
+            178.10000610351562,
+            122.38880920410156,
+            547.1290893554688,
+            172.85838317871094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Loại nhà Nhu cầu tối thiểu về chỗ đỗ ô-tô",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 3,
+        "bbox": [
+            115.94000244140625,
+            122.51263427734375,
+            555.0999755859375,
+            136.85935974121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4. Quy hoạch giao thông điểm dân cư nông thôn.",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 6,
+        "bbox": [
+            99.38400268554688,
+            229.7311553955078,
+            386.9499816894531,
+            244.2593231201172
+        ]
+    }
+]

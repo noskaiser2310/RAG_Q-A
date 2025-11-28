@@ -1,0 +1,56 @@
+[
+  {
+    "text": "1. GIỚI THIỆU:",
+    "level": 2,
+    "page": 1,
+    "probability": 0.6475204290362805,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "1. GIỚI THIỆU:"
+  },
+  {
+    "text": "2. MỤC TIÊU:",
+    "level": 2,
+    "page": 1,
+    "probability": 0.675223619568597,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "2. MỤC TIÊU:"
+  },
+  {
+    "text": "3. NỘI DUNG CHÍNH:",
+    "level": 2,
+    "page": 1,
+    "probability": 0.7344641227979514,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "3. NỘI DUNG CHÍNH:"
+  },
+  {
+    "text": "Cầu thang 3 cánh",
+    "level": 1,
+    "page": 3,
+    "probability": 0.6063346333681715,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Cầu thang 3 cánh"
+  },
+  {
+    "text": "Bếp",
+    "level": 3,
+    "page": 3,
+    "probability": 0.7773647005326444,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Bếp"
+  },
+  {
+    "text": "Vẽ các ký hiệu điện trong sơ đồ điện chiếu sáng: Nguồn điện",
+    "level": 2,
+    "page": 3,
+    "probability": 0.8874560930654981,
+    "font_size": 14.039999961853027,
+    "detection_method": "ml",
+    "text_original": "Vẽ các ký hiệu điện trong sơ đồ điện chiếu sáng: Nguồn điện"
+  }
+]

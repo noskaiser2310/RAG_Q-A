@@ -1,0 +1,842 @@
+[
+    {
+        "prefix": "",
+        "text": "1 Các bước lắp Điện Mặt trời 1.1 Lắp đặt khung giá đỡ giàn pin",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 4,
+        "bbox": [
+            99.26399993896484,
+            178.36997985839844,
+            337.69000244140625,
+            233.25196838378906
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mục đích:",
+        "suffix": "Khung giá đỡ giữ cố định các tấm pin mặt trời, đảm bảo độ nghiêng và hướng lắp đặt tối ưu để thu được lượng ánh sáng nhiều nhất.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 5,
+        "bbox": [
+            135.25999450683594,
+            234.9679718017578,
+            187.57998657226562,
+            248.25196838378906
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Phương án lắp đặt:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 6,
+        "bbox": [
+            135.25999450683594,
+            272.7980041503906,
+            234.2060089111328,
+            286.0820007324219
+        ]
+    },
+    {
+        "prefix": "o",
+        "text": "Áp mái:",
+        "suffix": "Lắp trực tiếp trên mái nhà, chi phí thấp, tiết kiệm diện tích.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            171.25999450683594,
+            295.5979919433594,
+            213.01998901367188,
+            308.8819885253906
+        ]
+    },
+    {
+        "prefix": "o",
+        "text": "Giá đỡ độc lập:",
+        "suffix": "Lắp trên khung giàn bằng thép/nhôm đặt ở sân, vườn",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 8,
+        "bbox": [
+            171.25999450683594,
+            318.5179748535156,
+            250.406005859375,
+            331.8019714355469
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lưu ý:",
+        "suffix": "Cần khảo sát địa hình, độ dốc mái, vật liệu mái (tôn, bê tông, ngói…) để chọn phụ kiện liên kết phù hợp.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 10,
+        "bbox": [
+            135.25999450683594,
+            371.197998046875,
+            170.19198608398438,
+            384.48199462890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.2 Gắn tấm pin lên giá đỡ",
+        "suffix": "•",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 12,
+        "bbox": [
+            99.26399993896484,
+            441.72998046875,
+            248.80999755859375,
+            455.1819763183594
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mục đích:",
+        "suffix": "Cố định các tấm pin vào khung, tạo điều kiện cho việc hấp thụ ánh sáng mặt trời hiệu quả.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 12,
+        "bbox": [
+            135.25999450683594,
+            456.7779846191406,
+            187.57998657226562,
+            470.0619812011719
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Khoảng cách kỹ thuật:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 13,
+        "bbox": [
+            135.25999450683594,
+            494.5780029296875,
+            252.44601440429688,
+            507.86199951171875
+        ]
+    },
+    {
+        "prefix": "o Giữa các tấm pin:",
+        "text": "10mm",
+        "suffix": "để tránh giãn nở nhiệt và thuận tiện cho thoát",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 14,
+        "bbox": [
+            259.7300109863281,
+            517.4979248046875,
+            291.79400634765625,
+            530.7819213867188
+        ]
+    },
+    {
+        "prefix": "o Giữa tấm pin và mái:",
+        "text": "≥100mm",
+        "suffix": "để tạo không gian lưu thông gió, giúp tản",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 16,
+        "bbox": [
+            276.04998779296875,
+            555.2979736328125,
+            320.7140197753906,
+            568.5819702148438
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lưu ý:",
+        "suffix": "Sử dụng bulong, kẹp pin và phụ kiện chính hãng để đảm bảo an toàn, tránh rung lắc khi có gió mạnh.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 18,
+        "bbox": [
+            135.25999450683594,
+            593.1279296875,
+            170.19198608398438,
+            606.4119262695312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.3 Kết nối tấm pin",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 20,
+        "bbox": [
+            99.26399993896484,
+            663.52001953125,
+            211.49000549316406,
+            676.9719848632812
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mục đích:",
+        "suffix": "Liên kết các tấm pin thành mạch điện (string) để tạo điện áp và dòng điện phù hợp cho inverter.",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 21,
+        "bbox": [
+            135.25999450683594,
+            678.68798828125,
+            187.57998657226562,
+            691.9719848632812
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Cách thực hiện:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 22,
+        "bbox": [
+            135.25999450683594,
+            716.3679809570312,
+            217.16600036621094,
+            729.6519775390625
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lưu ý:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            135.25999450683594,
+            150.3679962158203,
+            170.19198608398438,
+            163.65199279785156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.4 Lắp đặt biến tần (Inverter)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 8,
+        "bbox": [
+            99.26399993896484,
+            251.74998474121094,
+            269.69000244140625,
+            265.2019958496094
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mục đích:",
+        "suffix": "Biến đổi dòng điện DC từ tấm pin thành AC sử dụng cho thiết bị điện trong gia đình/doanh nghiệp.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 9,
+        "bbox": [
+            135.25999450683594,
+            266.9179992675781,
+            187.57998657226562,
+            280.2019958496094
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Yêu cầu vị trí:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 10,
+        "bbox": [
+            135.25999450683594,
+            304.7179870605469,
+            208.86199951171875,
+            318.0019836425781
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lưu ý:",
+        "suffix": "Tránh lắp gần bếp, bình gas hoặc khu vực có nguy cơ cháy nổ.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 14,
+        "bbox": [
+            135.25999450683594,
+            388.2380065917969,
+            170.19198608398438,
+            401.5220031738281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.5 Lắp đặt thiết bị chống phát ngược lưới",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 16,
+        "bbox": [
+            99.26399993896484,
+            443.7699890136719,
+            329.2300109863281,
+            457.22198486328125
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mục đích:",
+        "suffix": "Đảm bảo hệ thống chỉ bám tải và không phát điện ngược lên lưới điện quốc gia (nếu không được phép).",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 17,
+        "bbox": [
+            135.25999450683594,
+            458.93798828125,
+            187.57998657226562,
+            472.22198486328125
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Cách thực hiện:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 18,
+        "bbox": [
+            135.25999450683594,
+            496.7380065917969,
+            217.16600036621094,
+            510.0220031738281
+        ]
+    },
+    {
+        "prefix": "o Gắn",
+        "text": "CT (Current Transformer)",
+        "suffix": "để đo dòng điện.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 19,
+        "bbox": [
+            194.2100067138672,
+            519.657958984375,
+            333.385986328125,
+            532.9419555664062
+        ]
+    },
+    {
+        "prefix": "o Kết nối",
+        "text": "Meter",
+        "suffix": "để gửi tín hiệu về inverter.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 20,
+        "bbox": [
+            209.92999267578125,
+            542.4579467773438,
+            241.16600036621094,
+            555.741943359375
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lưu ý:",
+        "suffix": "Bước này rất quan trọng để hệ thống vận hành an toàn, tránh vi phạm quy định của ngành điện.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 21,
+        "bbox": [
+            135.25999450683594,
+            565.3779296875,
+            170.19198608398438,
+            578.6619262695312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.6 Cấp nguồn PV, AC, pin lưu trữ với biến tần",
+        "suffix": "•",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 23,
+        "bbox": [
+            99.26399993896484,
+            635.9199829101562,
+            355.989990234375,
+            649.3719482421875
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mục đích:",
+        "suffix": "Khởi động hệ thống và kiểm tra khả năng hoạt động của các thành phần.",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 23,
+        "bbox": [
+            135.25999450683594,
+            650.9679565429688,
+            187.57998657226562,
+            664.251953125
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Trình tự thực hiện:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 24,
+        "bbox": [
+            135.25999450683594,
+            688.7679443359375,
+            234.80599975585938,
+            702.0519409179688
+        ]
+    },
+    {
+        "prefix": "1. Đảm bảo",
+        "text": "tất cả CB và công tắc ở trạng thái OFF",
+        "suffix": ".",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 25,
+        "bbox": [
+            217.85000610351562,
+            711.68798828125,
+            416.9259948730469,
+            724.9719848632812
+        ]
+    },
+    {
+        "prefix": "2. Bật",
+        "text": "công tắc ON trên inverter",
+        "suffix": ".",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 26,
+        "bbox": [
+            190.97000122070312,
+            734.4839477539062,
+            322.8499755859375,
+            747.7679443359375
+        ]
+    },
+    {
+        "prefix": "3. Bật",
+        "text": "CB DC",
+        "suffix": "(từ pin về inverter), chờ khoảng",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            190.97000122070312,
+            112.56794738769531,
+            227.96600341796875,
+            125.8519515991211
+        ]
+    },
+    {
+        "prefix": "(từ pin về inverter), chờ khoảng",
+        "text": "60 giây",
+        "suffix": "để inverter nhận tín",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 2,
+        "bbox": [
+            386.7099914550781,
+            112.56794738769531,
+            423.177978515625,
+            125.8519515991211
+        ]
+    },
+    {
+        "prefix": "4. Bật",
+        "text": "CB AC",
+        "suffix": "(từ inverter ra tải/lưới).",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 4,
+        "bbox": [
+            190.97000122070312,
+            150.3679962158203,
+            227.96600341796875,
+            163.65199279785156
+        ]
+    },
+    {
+        "prefix": "5. Nếu có pin lưu trữ, bật",
+        "text": "CB Battery",
+        "suffix": "cuối cùng.",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 5,
+        "bbox": [
+            283.1300048828125,
+            173.28797912597656,
+            341.41400146484375,
+            186.5719757080078
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lưu ý:",
+        "suffix": "Luôn để khoảng nghỉ",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 6,
+        "bbox": [
+            135.25999450683594,
+            196.2079620361328,
+            170.19198608398438,
+            209.49195861816406
+        ]
+    },
+    {
+        "prefix": "Luôn để khoảng nghỉ",
+        "text": "1 – 2 phút giữa các lần cấp nguồn",
+        "suffix": "để tránh sốc điện cho thiết bị.",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 6,
+        "bbox": [
+            278.57000732421875,
+            196.2079620361328,
+            449.9320068359375,
+            209.49195861816406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.7 Kết nối Wifi với biến tần",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 8,
+        "bbox": [
+            99.26399993896484,
+            266.6300048828125,
+            258.16998291015625,
+            280.0820007324219
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mục đích:",
+        "suffix": "Giúp giám sát sản lượng và tình trạng hoạt động của hệ thống qua điện thoại.",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 9,
+        "bbox": [
+            135.25999450683594,
+            281.7980041503906,
+            187.57998657226562,
+            295.0820007324219
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Cách thực hiện:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 10,
+        "bbox": [
+            135.25999450683594,
+            319.5979919433594,
+            217.16600036621094,
+            332.8819885253906
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Lưu ý:",
+        "suffix": "Các nhà phân phối (như DHC Solar) thường hỗ trợ kỹ thuật từ xa trong bước này.",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 14,
+        "bbox": [
+            135.25999450683594,
+            403.11798095703125,
+            170.19198608398438,
+            416.4019775390625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.8 Vận hành, bảo trì",
+        "suffix": "•",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 16,
+        "bbox": [
+            99.26399993896484,
+            473.6499938964844,
+            221.80999755859375,
+            487.10198974609375
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Theo dõi vận hành:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 16,
+        "bbox": [
+            135.25999450683594,
+            488.697998046875,
+            235.11798095703125,
+            501.98199462890625
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Bảo trì định kỳ:",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 19,
+        "bbox": [
+            135.25999450683594,
+            549.41796875,
+            217.04600524902344,
+            562.7019653320312
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2 Lưu ý khi tự lắp điện năng lượng mặt trời Lưu ý 1",
+        "suffix": ": Chỉ cần một tấm pin mặt trời bị bóng râm che bóng có thể khiến cả hệ thống điện mặt trời giảm hiệu suất. Đồng thời cần đảm bảo rằng nếu mùa thay đổi thì cũng không xuất hiện bóng râm trong tương lai.",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 26,
+        "bbox": [
+            99.26399993896484,
+            688.719970703125,
+            339.19000244140625,
+            727.3719482421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý 2",
+        "suffix": ": Nếu diện tích mái rộng khi lắp đặt các tấm pin mặt trời nên lắp 1 ví trị nhất định, chừa ra một khoảng không gian đáng kể để có thể bổ sung thêm nhiều tấm pin năng lượng mặt trời trong tương lai.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 2,
+        "bbox": [
+            99.26399993896484,
+            112.56794738769531,
+            141.5760040283203,
+            125.8519515991211
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý 3",
+        "suffix": ": Cần có lối đi lại để có thể vệ sinh tấm pin, bảo trì, bảo dưỡng định kỳ.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            168.2480010986328,
+            139.20001220703125,
+            181.53199768066406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý 4",
+        "suffix": ": Đảm bảo các dây dẫn cần được cách điện và chống thấm. Để tránh điện giật ta cũng cần kết nối dây tiếp đất.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 4,
+        "bbox": [
+            99.26399993896484,
+            192.1280059814453,
+            139.89601135253906,
+            205.41200256347656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý 5",
+        "suffix": ": Khung giá đỡ tấm pin theo thiết kế kỹ thuật. Không nên tự chế các loại kẹp, giá đỡ không đúng kỹ thuật.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 5,
+        "bbox": [
+            99.26399993896484,
+            231.8479766845703,
+            141.33599853515625,
+            245.13197326660156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Lưu ý 6",
+        "suffix": ": Hãy thực hiện theo các hướng dẫn được đi kèm thiết bị của nhà sản xuất.",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 6,
+        "bbox": [
+            99.26399993896484,
+            271.5979919433594,
+            139.20001220703125,
+            284.8819885253906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3 Bảng so sánh Điện mặt trời và Điện lưới nhà nước Tiêu chí Điện mặt trời Điện lưới nhà nước (EVN) Chi phí đầu tư ban đầu",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 10,
+        "bbox": [
+            99.26399993896484,
+            305.3900146484375,
+            500.5,
+            398.0419921875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Chi phí vận hành",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 17,
+        "bbox": [
+            110.66000366210938,
+            420.6579895019531,
+            173.77999877929688,
+            449.781982421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tuổi thọ hệ thống",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 23,
+        "bbox": [
+            111.37999725341797,
+            464.3379821777344,
+            173.17999267578125,
+            493.46197509765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tính ổn định",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 26,
+        "bbox": [
+            107.41999816894531,
+            523.9779663085938,
+            174.21200561523438,
+            537.261962890625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tính chủ động",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 30,
+        "bbox": [
+            103.33999633789062,
+            583.5279541015625,
+            178.22000122070312,
+            596.8119506835938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Môi trường",
+        "suffix": "Năng lượng sạch, giảm CO₂,",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 34,
+        "bbox": [
+            111.0199966430664,
+            635.2479248046875,
+            170.4199981689453,
+            648.5319213867188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Khả năng mở rộng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 39,
+        "bbox": [
+            105.73999786376953,
+            671.0079345703125,
+            178.82000732421875,
+            700.251953125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Nhận xét chung",
+        "suffix": "Điện mặt trời có lợi thế dài hạn về tiết kiệm chi phí và bảo vệ môi trường, nhưng cần vốn đầu tư ban đầu lớn. Điện lưới nhà nước thuận",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 42,
+        "bbox": [
+            100.45999908447266,
+            718.7679443359375,
+            181.17198181152344,
+            732.0519409179688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tiêu chí Điện mặt trời Điện lưới nhà nước (EVN)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 2,
+        "bbox": [
+            119.9000015258789,
+            115.80799865722656,
+            500.5,
+            129.0919952392578
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tiêu chí Điện mặt trời Điện lưới nhà nước (EVN)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 2,
+        "bbox": [
+            119.9000015258789,
+            115.80799865722656,
+            500.5,
+            129.0919952392578
+        ]
+    }
+]

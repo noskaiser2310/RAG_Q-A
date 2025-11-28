@@ -1,0 +1,240 @@
+[
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình cài đặt phun Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 5,
+        "bbox": [
+            72.02400207519531,
+            545.0826416015625,
+            442.6300048828125,
+            587.62939453125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Inject (Phun)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 7,
+        "bbox": [
+            290.2099914550781,
+            601.5126342773438,
+            367.5099792480469,
+            615.859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 0,
+        "bbox": [
+            92.66400146484375,
+            103.79266357421875,
+            442.6300048828125,
+            118.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Trường nhập áp suất và vận tốc",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            290.2099914550781,
+            198.5926513671875,
+            470.97998046875,
+            212.9393768310547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Biểu đồ nhập áp suất và vận tốc",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 15,
+        "bbox": [
+            290.2099914550781,
+            423.2826232910156,
+            466.67327880859375,
+            437.62933349609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Điều kiện chuyển tiếp",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 24,
+        "bbox": [
+            290.2099914550781,
+            603.3126220703125,
+            410.3291320800781,
+            617.6593627929688
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 0,
+        "bbox": [
+            92.66400146484375,
+            103.79266357421875,
+            442.6300048828125,
+            118.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Screw position (Vị trí trục vít)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 4,
+        "bbox": [
+            290.2099914550781,
+            218.75262451171875,
+            376.1499938964844,
+            255.5693817138672
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Inject time (Thời gian phun)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 9,
+        "bbox": [
+            290.2099914550781,
+            286.5826416015625,
+            387.981689453125,
+            323.3693542480469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Inject pressure (Áp suất phun)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 14,
+        "bbox": [
+            290.2099914550781,
+            354.38262939453125,
+            377.3499755859375,
+            391.1693420410156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "External DI (Đầu vào kỹ thuật số bên ngoài)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 21,
+        "bbox": [
+            290.2099914550781,
+            444.76263427734375,
+            361.2436828613281,
+            526.4293823242188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cut Off Activation Position (Vị trí kích hoạt ngắt)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 33,
+        "bbox": [
+            290.2099914550781,
+            591.3126220703125,
+            377.22998046875,
+            672.9793701171875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các thành phần trên màn hình Mô tả",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 0,
+        "bbox": [
+            92.66400146484375,
+            103.79266357421875,
+            442.6300048828125,
+            118.13938903808594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Inject pressure (Áp suất phun):",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 6,
+        "bbox": [
+            290.2099914550781,
+            231.5926513671875,
+            464.8805236816406,
+            245.9393768310547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Max. inject time (Thời gian phun tối đa):",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 14,
+        "bbox": [
+            290.2099914550781,
+            389.0626220703125,
+            517.541259765625,
+            403.4093322753906
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Intrusion (Xâm nhập):",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 21,
+        "bbox": [
+            290.2099914550781,
+            524.0826416015625,
+            416.5281677246094,
+            538.4293823242188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Các nút menu ngữ cảnh trên màn hình cài đặt phun",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 27,
+        "bbox": [
+            162.5,
+            675.672607421875,
+            449.7075500488281,
+            690.0193481445312
+        ]
+    }
+]

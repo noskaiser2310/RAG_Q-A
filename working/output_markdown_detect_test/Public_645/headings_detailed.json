@@ -1,0 +1,254 @@
+[
+  {
+    "text": "Dây đồng trần xoắn",
+    "level": 1,
+    "page": 23,
+    "probability": 0.7616339376876491,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây đồng trần xoắn"
+  },
+  {
+    "text": "Dây nhôm lõi thép",
+    "level": 1,
+    "page": 26,
+    "probability": 0.897130122655508,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây nhôm lõi thép"
+  },
+  {
+    "text": "Ống luồn dây điện :",
+    "level": 1,
+    "page": 27,
+    "probability": 0.7502592075277612,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Ống luồn dây điện :"
+  },
+  {
+    "text": "Dây điện bọc nhựa PVC - 0,6/1 kV (ruột đồng)",
+    "level": 1,
+    "page": 28,
+    "probability": 0.6277895039554208,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây điện bọc nhựa PVC - 0,6/1 kV (ruột đồng)"
+  },
+  {
+    "text": "Cáp đồng trần",
+    "level": 1,
+    "page": 31,
+    "probability": 0.8145444708194508,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng trần"
+  },
+  {
+    "text": "Cáp đồng bọc PVC",
+    "level": 1,
+    "page": 32,
+    "probability": 0.7255030504052983,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng bọc PVC"
+  },
+  {
+    "text": "Cáp đồng",
+    "level": 1,
+    "page": 33,
+    "probability": 0.6745492610446866,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng"
+  },
+  {
+    "text": "Cáp đồng ngầm",
+    "level": 1,
+    "page": 38,
+    "probability": 0.7672218498799862,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng ngầm"
+  },
+  {
+    "text": "Dây điện áp bên trong CTr",
+    "level": 1,
+    "page": 41,
+    "probability": 0.7714013306017098,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây điện áp bên trong CTr"
+  },
+  {
+    "text": "Cáp đồng đơn",
+    "level": 1,
+    "page": 42,
+    "probability": 0.650679160052702,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng đơn"
+  },
+  {
+    "text": "Dây ovan 2 ruột mềm",
+    "level": 1,
+    "page": 43,
+    "probability": 0.7038883323418924,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây ovan  2 ruột mềm"
+  },
+  {
+    "text": "Dây tròn đặc 2 ruột mềm",
+    "level": 1,
+    "page": 44,
+    "probability": 0.7332006589219989,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây tròn đặc 2 ruột mềm"
+  },
+  {
+    "text": "Dây đơn cứng",
+    "level": 1,
+    "page": 45,
+    "probability": 0.650679160052702,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây đơn cứng"
+  },
+  {
+    "text": "Cáp Mica",
+    "level": 1,
+    "page": 46,
+    "probability": 0.5100719013250157,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp Mica"
+  },
+  {
+    "text": "Cáp trung thế đồng",
+    "level": 1,
+    "page": 49,
+    "probability": 0.7832567347163912,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp trung thế đồng"
+  },
+  {
+    "text": "Cáp nhôm đơn cách điện",
+    "level": 1,
+    "page": 55,
+    "probability": 0.8244246743650547,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp nhôm  đơn cách điện"
+  },
+  {
+    "text": "Cáp nhôm ngầm",
+    "level": 1,
+    "page": 56,
+    "probability": 0.8066879528850015,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp nhôm ngầm"
+  },
+  {
+    "text": "Cáp nhôm vặn xoắn",
+    "level": 1,
+    "page": 56,
+    "probability": 0.7663633742795118,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp nhôm vặn xoắn"
+  },
+  {
+    "text": "Cáp nhôm trần lõi thép",
+    "level": 1,
+    "page": 58,
+    "probability": 0.7296343095267194,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp nhôm trần lõi thép"
+  },
+  {
+    "text": "Dây o van 2 ruột mềm",
+    "level": 1,
+    "page": 70,
+    "probability": 0.6225998993214796,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây o van 2 ruột mềm"
+  },
+  {
+    "text": "Dây súp rãnh",
+    "level": 1,
+    "page": 71,
+    "probability": 0.5666349865729359,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây súp rãnh"
+  },
+  {
+    "text": "Dây tròn 4 ruột mềm",
+    "level": 1,
+    "page": 72,
+    "probability": 0.7822411287890735,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Dây tròn 4 ruột mềm"
+  },
+  {
+    "text": "Cáp đồng 1 ruột 7-37 sợi",
+    "level": 1,
+    "page": 73,
+    "probability": 0.7546025287874704,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng 1 ruột 7-37 sợi"
+  },
+  {
+    "text": "Cáp đồng 1 ruột",
+    "level": 1,
+    "page": 75,
+    "probability": 0.8624847652488802,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng 1 ruột"
+  },
+  {
+    "text": "Cáp đồng 4 ruột",
+    "level": 1,
+    "page": 77,
+    "probability": 0.8213865110244217,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng  4 ruột"
+  },
+  {
+    "text": "Cáp đồng ngầm 2 ruột",
+    "level": 1,
+    "page": 80,
+    "probability": 0.7591150223898067,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng ngầm 2 ruột"
+  },
+  {
+    "text": "Cáp đồng ngầm 4 ruột",
+    "level": 1,
+    "page": 82,
+    "probability": 0.7921499789907515,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp đồng ngầm 4 ruột"
+  },
+  {
+    "text": "Cáp nhôm đơn",
+    "level": 1,
+    "page": 86,
+    "probability": 0.7574121589697385,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cáp nhôm đơn"
+  }
+]

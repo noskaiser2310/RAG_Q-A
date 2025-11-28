@@ -1,0 +1,137 @@
+[
+  {
+    "text": "Mô tả chung tính năng kỹ thuật của sản phẩm",
+    "level": 2,
+    "page": 1,
+    "probability": 0.8585635873217926,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Mô tả chung tính năng kỹ thuật của sản phẩm"
+  },
+  {
+    "text": "Chỉ tiêu tính năng",
+    "level": 2,
+    "page": 1,
+    "probability": 0.8757515364096058,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Chỉ tiêu tính năng"
+  },
+  {
+    "text": "Tính phù hợp chức năng",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9129436609880525,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Tính phù hợp chức năng"
+  },
+  {
+    "text": "Tính chính xác",
+    "level": 1,
+    "page": 10,
+    "probability": 0.9569303555885249,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Tính chính xác"
+  },
+  {
+    "text": "Khả năng tương tác",
+    "level": 2,
+    "page": 11,
+    "probability": 0.5774811886449348,
+    "font_size": 12.480000019073486,
+    "detection_method": "ml",
+    "text_original": "Khả năng tương tác"
+  },
+  {
+    "text": "Tính bảo mật",
+    "level": 1,
+    "page": 12,
+    "probability": 0.8217879483634195,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Tính bảo mật"
+  },
+  {
+    "text": "Chỉ tiêu phi chức năng",
+    "level": 2,
+    "page": 13,
+    "probability": 0.8171107279593656,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Chỉ tiêu phi chức năng"
+  },
+  {
+    "text": "Kiến trúc và công nghệ",
+    "level": 1,
+    "page": 13,
+    "probability": 0.9156295376291351,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Kiến trúc và công nghệ"
+  },
+  {
+    "text": "Tính tin cậy",
+    "level": 1,
+    "page": 15,
+    "probability": 0.7836021301677636,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Tính tin cậy"
+  },
+  {
+    "text": "Tính khả dụng",
+    "level": 1,
+    "page": 18,
+    "probability": 0.9463324815113221,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Tính khả dụng"
+  },
+  {
+    "text": "Tính hiệu quả",
+    "level": 1,
+    "page": 20,
+    "probability": 0.9306968512283588,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Tính hiệu quả"
+  },
+  {
+    "text": "Khả năng bảo trì",
+    "level": 1,
+    "page": 22,
+    "probability": 0.5795948175199551,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Khả năng bảo trì"
+  },
+  {
+    "text": "Tính khả chuyển",
+    "level": 1,
+    "page": 23,
+    "probability": 0.8247367556338743,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Tính khả chuyển"
+  },
+  {
+    "text": "Chỉ tiêu về quản trị dữ liệu",
+    "level": 1,
+    "page": 24,
+    "probability": 0.936997576156493,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Chỉ tiêu về quản trị dữ liệu"
+  },
+  {
+    "text": "Chỉ tiêu về cam kết, dịch vụ và các yêu cầu khác",
+    "level": 1,
+    "page": 30,
+    "probability": 0.5158955188794454,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Chỉ tiêu về cam kết, dịch vụ và các yêu cầu khác"
+  }
+]

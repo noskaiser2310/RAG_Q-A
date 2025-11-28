@@ -1,0 +1,1387 @@
+{
+  "file": "Public_637.pdf",
+  "config": {
+    "keywords": [
+      "VIETTEL\\s+AI\\s+RACE",
+      "PUBLIC\\s*\\d{1,4}",
+      "LAN\\s+BAN\\s+HANH"
+    ],
+    "min_width_ratio": 0.5,
+    "max_height_ratio": 0.25,
+    "merge_pad": 6,
+    "pad_pts": 12,
+    "veto_threshold": 0.12,
+    "allow_text_fallback": false
+  },
+  "targets": {
+    "0": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "1": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "2": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "3": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "4": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "5": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "6": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "7": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "8": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "9": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "10": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "11": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "12": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "13": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "14": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "15": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "16": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "17": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "18": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "19": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "20": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "21": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "22": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "23": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "24": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "25": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "26": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "27": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "28": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "29": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "30": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "31": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "32": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "33": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "34": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "35": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "36": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "37": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "38": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "39": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "40": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "41": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "42": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "43": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "44": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "45": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ],
+    "46": [
+      [
+        72.0,
+        36.0,
+        720.1,
+        103.34
+      ]
+    ]
+  },
+  "debug": {
+    "0": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "1": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "2": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "3": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "4": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "5": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "6": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "7": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "8": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "9": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "10": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "11": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "12": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "13": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "14": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "15": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "16": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "17": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "18": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "19": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "20": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "21": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "22": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "23": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "24": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "25": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "26": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "27": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "28": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "29": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "30": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "31": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "32": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "33": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "34": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "35": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "36": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "37": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "38": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "39": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "40": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "41": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "42": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "43": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "44": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "45": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    },
+    "46": {
+      "tables": [
+        [
+          72.0,
+          36.0,
+          720.1,
+          103.34
+        ]
+      ],
+      "hits": [
+        {
+          "rect": [
+            72.0,
+            36.0,
+            720.1,
+            103.34
+          ],
+          "sample_text": "VIETTEL AI RACE TD637 GIA VAT LIEU XAY DUNG TREN ĐIA BAN THANH PHO CAO BANG QUY II NAM 2025: CAT, ĐA, CUA/KHUNG CUA NHOM"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "processing_time_sec": 3.91,
+    "pages_affected": 47
+  }
+}

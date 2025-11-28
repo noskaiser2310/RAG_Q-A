@@ -1,0 +1,83 @@
+[
+  {
+    "text": "1 Các bước lắp Điện Mặt trời",
+    "level": 1,
+    "page": 1,
+    "probability": 0.9653759507211472,
+    "font_size": 18.0,
+    "detection_method": "ml",
+    "text_original": "1 Các bước lắp Điện Mặt trời"
+  },
+  {
+    "text": "Lắp đặt khung giá đỡ giàn pin",
+    "level": 2,
+    "page": 1,
+    "probability": 0.5705406799338849,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Lắp đặt khung giá đỡ giàn pin"
+  },
+  {
+    "text": "Gắn tấm pin lên giá đỡ",
+    "level": 3,
+    "page": 1,
+    "probability": 0.6222500935609754,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Gắn tấm pin lên giá đỡ"
+  },
+  {
+    "text": "Kết nối tấm pin",
+    "level": 3,
+    "page": 1,
+    "probability": 0.7058805825362257,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Kết nối tấm pin"
+  },
+  {
+    "text": "Lắp đặt biến tần (Inverter)",
+    "level": 2,
+    "page": 2,
+    "probability": 0.615706746671432,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Lắp đặt biến tần (Inverter)"
+  },
+  {
+    "text": "Lắp đặt thiết bị chống phát ngược lưới",
+    "level": 3,
+    "page": 2,
+    "probability": 0.3748656846974096,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Lắp đặt thiết bị chống phát ngược lưới"
+  },
+  {
+    "text": "Kết nối Wifi với biến tần",
+    "level": 2,
+    "page": 3,
+    "probability": 0.6403849632461365,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Kết nối Wifi với biến tần"
+  },
+  {
+    "text": "Vận hành, bảo trì",
+    "level": 3,
+    "page": 3,
+    "probability": 0.5208954674089421,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Vận hành, bảo trì"
+  },
+  {
+    "text": "Bảng so sánh Điện mặt trời và Điện lưới nhà nước",
+    "level": 1,
+    "page": 4,
+    "probability": 0.9829447287345173,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "Bảng so sánh Điện mặt trời và Điện lưới nhà nước"
+  }
+]

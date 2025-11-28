@@ -1,0 +1,119 @@
+[
+  {
+    "text": "Công ty TNHH Hồng Phong",
+    "level": 1,
+    "page": 10,
+    "probability": 0.7519609402232605,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Công ty TNHH Hồng Phong"
+  },
+  {
+    "text": "Công ty TNHH sản xuất và thương mại Tuổi Trẻ Lạng Sơn",
+    "level": 1,
+    "page": 10,
+    "probability": 0.6397736561438618,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Công ty TNHH sản xuất và thương mại Tuổi Trẻ Lạng Sơn"
+  },
+  {
+    "text": "Công ty cổ phần gạch ngói Hợp Thành",
+    "level": 1,
+    "page": 11,
+    "probability": 0.854981150403412,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Công ty cổ phần gạch ngói Hợp Thành"
+  },
+  {
+    "text": "Công ty TNHH MTV Hiếu Hằng",
+    "level": 1,
+    "page": 11,
+    "probability": 0.6947768137804329,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Công ty TNHH MTV Hiếu Hằng"
+  },
+  {
+    "text": "Công ty TNHH Tư vấn đầu tư xây dựng An Khánh VQ",
+    "level": 1,
+    "page": 11,
+    "probability": 0.6441784283223623,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Công ty TNHH Tư vấn đầu tư xây dựng An Khánh VQ"
+  },
+  {
+    "text": "Công ty CP kinh doanh gạch ốp lát VIGLACERA",
+    "level": 1,
+    "page": 12,
+    "probability": 0.6983695799587214,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Công ty CP kinh doanh gạch ốp lát VIGLACERA"
+  },
+  {
+    "text": "Công ty TNHH MTV Hồng Phong ATK",
+    "level": 1,
+    "page": 13,
+    "probability": 0.7626587287062191,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Công ty TNHH MTV Hồng Phong ATK"
+  },
+  {
+    "text": "Cát tự nhiên",
+    "level": 1,
+    "page": 13,
+    "probability": 0.7733688974436239,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cát tự nhiên"
+  },
+  {
+    "text": "Thép ống mạ kẽm",
+    "level": 1,
+    "page": 17,
+    "probability": 0.9076548686785618,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Thép ống mạ kẽm"
+  },
+  {
+    "text": "Ống tôn mạ kẽm",
+    "level": 1,
+    "page": 18,
+    "probability": 0.7934279990893992,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Ống tôn mạ kẽm"
+  },
+  {
+    "text": "Xi măng",
+    "level": 1,
+    "page": 20,
+    "probability": 0.7925750293000683,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Xi măng"
+  },
+  {
+    "text": "Cột điện chữ H",
+    "level": 1,
+    "page": 40,
+    "probability": 0.8953486399787017,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cột điện chữ H"
+  },
+  {
+    "text": "Cột BT ly tâm",
+    "level": 1,
+    "page": 41,
+    "probability": 0.713972457750129,
+    "font_size": 9.479999542236328,
+    "detection_method": "ml",
+    "text_original": "Cột BT ly tâm"
+  }
+]

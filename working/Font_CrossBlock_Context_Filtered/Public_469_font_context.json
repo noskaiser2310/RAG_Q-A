@@ -1,0 +1,58 @@
+[
+    {
+        "prefix": "",
+        "text": "1. QUY ĐỊNH KỸ THUẬT ĐỐI VỚI XE CHƯA QUA SỬ DỤNG 1.1 Yêu cầu chung",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 3,
+        "bbox": [
+            99.26399993896484,
+            150.29115295410156,
+            483.0999755859375,
+            194.45262145996094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.2 Động cơ và hệ thống truyền động 1.3 Động cơ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 23,
+        "bbox": [
+            99.26399993896484,
+            618.2337646484375,
+            329.5,
+            656.4193725585938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.5 Hệ thống di chuyển 1.6 Bánh lốp",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 19,
+        "bbox": [
+            99.26399993896484,
+            518.2437744140625,
+            250.87998962402344,
+            556.4293823242188
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1.8 Hệ thống phanh 1.9 Yêu cầu chung",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 7,
+        "bbox": [
+            99.26399993896484,
+            236.55374145507812,
+            227.59999084472656,
+            274.8893127441406
+        ]
+    }
+]

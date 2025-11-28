@@ -1,0 +1,56 @@
+[
+  {
+    "text": "1. CÁC PHIÊN BẢN HỆ ĐIỀU HÀNH WINDOWS",
+    "level": 1,
+    "page": 1,
+    "probability": 0.36890265821517787,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "1. CÁC PHIÊN BẢN HỆ ĐIỀU HÀNH WINDOWS"
+  },
+  {
+    "text": "2. MÀN HÌNH DESKTOP",
+    "level": 1,
+    "page": 3,
+    "probability": 0.40354036593812487,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "2. MÀN HÌNH DESKTOP"
+  },
+  {
+    "text": "3. CẤU HÌNH MÀN HÌNH LÀM VIỆC",
+    "level": 1,
+    "page": 4,
+    "probability": 0.5665403693303669,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "3. CẤU HÌNH MÀN HÌNH LÀM VIỆC"
+  },
+  {
+    "text": "4. CÀI ĐẶT NGÀY GIỜ VÀ NGÔN NGỮ HIỂN THỊ",
+    "level": 1,
+    "page": 7,
+    "probability": 0.8029149647880693,
+    "font_size": 12.0,
+    "detection_method": "ml",
+    "text_original": "4. CÀI ĐẶT NGÀY GIỜ  VÀ NGÔN NGỮ HIỂN THỊ"
+  },
+  {
+    "text": "5. CÀI ĐẶT, GỠ BỎ PHẦN MỀM",
+    "level": 2,
+    "page": 11,
+    "probability": 0.7203761021863573,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "5. CÀI ĐẶT, GỠ BỎ PHẦN MỀM"
+  },
+  {
+    "text": "6. KIỂM TRA THÔNG TIN HỆ THỐNG",
+    "level": 1,
+    "page": 12,
+    "probability": 0.7977545261695925,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "6. KIỂM TRA THÔNG TIN HỆ THỐNG"
+  }
+]

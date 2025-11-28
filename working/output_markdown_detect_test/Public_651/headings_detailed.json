@@ -1,0 +1,65 @@
+[
+  {
+    "text": "CÁC LOẠI MÁY TÍNH PHỔ BIẾN",
+    "level": 1,
+    "page": 1,
+    "probability": 0.7903230168091615,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "CÁC LOẠI MÁY TÍNH PHỔ BIẾN"
+  },
+  {
+    "text": "CÁC BỘ PHẬN CƠ BẢN CỦA MÁY TÍNH",
+    "level": 1,
+    "page": 2,
+    "probability": 0.9928067165673312,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "CÁC BỘ PHẬN CƠ BẢN CỦA MÁY TÍNH"
+  },
+  {
+    "text": "TRÌNH TỰ KHI SỬ DỤNG MÁY TÍNH",
+    "level": 1,
+    "page": 4,
+    "probability": 0.9397065324953455,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "TRÌNH TỰ KHI SỬ DỤNG MÁY TÍNH"
+  },
+  {
+    "text": "Bật máy tính",
+    "level": 3,
+    "page": 5,
+    "probability": 0.976377247622044,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Bật máy tính"
+  },
+  {
+    "text": "Đăng nhập vào hệ điều hành",
+    "level": 3,
+    "page": 6,
+    "probability": 0.9768419362510563,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Đăng nhập vào hệ điều hành"
+  },
+  {
+    "text": "Mở và làm việc với ứng dụng hoặc chương trình:",
+    "level": 3,
+    "page": 6,
+    "probability": 0.9792018105851374,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Mở và làm việc với ứng dụng hoặc chương trình:"
+  },
+  {
+    "text": "Đóng ứng dụng",
+    "level": 3,
+    "page": 7,
+    "probability": 0.9838781270948208,
+    "font_size": 12.960000038146973,
+    "detection_method": "ml",
+    "text_original": "Đóng ứng dụng"
+  }
+]

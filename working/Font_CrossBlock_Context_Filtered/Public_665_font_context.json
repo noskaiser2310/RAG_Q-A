@@ -1,0 +1,128 @@
+[
+    {
+        "prefix": "",
+        "text": "Phân loại Tên gọi Hình dạng Hình chiếu Ký hiệu Bulông Bulông tinh đầu S áu cạnh",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 11,
+        "bbox": [
+            85.2239990234375,
+            246.26263427734375,
+            519.3399658203125,
+            350.8493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vít Vít cấy",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 21,
+        "bbox": [
+            81.14399719238281,
+            417.40264892578125,
+            183.02000427246094,
+            472.1893615722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Phân loại Tên gọi Hình dạng Hình chiếu Ký hiệu Vít đầu trụ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 4,
+        "bbox": [
+            90.6240005493164,
+            97.192626953125,
+            519.3399658203125,
+            189.7793426513672
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vít đầu chìm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 12,
+        "bbox": [
+            139.94000244140625,
+            243.14263916015625,
+            184.72084045410156,
+            272.4893493652344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vít định vị",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 21,
+        "bbox": [
+            139.94000244140625,
+            375.50262451171875,
+            200.8100128173828,
+            389.8493347167969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Đai Đai ốc",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 33,
+        "bbox": [
+            95.30400085449219,
+            468.0426330566406,
+            174.61424255371094,
+            522.7094116210938
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Phân loại Tên gọi Hình dạng Hình chiếu Ký hiệu Đai ốc xẻ rãnh",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 5,
+        "bbox": [
+            90.6240005493164,
+            97.192626953125,
+            519.3399658203125,
+            189.7793426513672
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Vòng đệm",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 17,
+        "bbox": [
+            139.94000244140625,
+            277.5826416015625,
+            199.97000122070312,
+            291.9293518066406
+        ]
+    },
+    {
+        "prefix": "•",
+        "text": "Mối ghép bulông",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 24,
+        "bbox": [
+            108.0199966430664,
+            387.9826354980469,
+            204.0500030517578,
+            402.329345703125
+        ]
+    }
+]

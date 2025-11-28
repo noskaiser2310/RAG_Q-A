@@ -1,0 +1,20 @@
+[
+  {
+    "text": "1. BÊN PHẢI",
+    "level": 1,
+    "page": 1,
+    "probability": 0.95,
+    "font_size": 12.960000038146973,
+    "detection_method": "rule_based",
+    "text_original": "1. BÊN PHẢI"
+  },
+  {
+    "text": "3. MẶT SAU",
+    "level": 1,
+    "page": 4,
+    "probability": 0.95,
+    "font_size": 12.960000038146973,
+    "detection_method": "rule_based",
+    "text_original": "3. MẶT SAU"
+  }
+]

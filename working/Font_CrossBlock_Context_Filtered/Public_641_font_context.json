@@ -1,0 +1,5420 @@
+[
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "I Đá xây dựng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 19,
+        "bbox": [
+            88.58399963378906,
+            199.56332397460938,
+            152.1088409423828,
+            220.97767639160156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1,1 Mỏ đá Lùng Hang, phố Tân An, trị trấn Văn Quan",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 1,
+        "block_num": 19,
+        "bbox": [
+            84.50399780273438,
+            225.00332641601562,
+            323.41998291015625,
+            235.49769592285156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 26,
+        "bbox": [
+            585.0700073242188,
+            238.56332397460938,
+            663.9151000976562,
+            270.8976745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            276.4833068847656,
+            663.9151000976562,
+            308.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            314.5233154296875,
+            663.9151000976562,
+            346.8776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 52,
+        "bbox": [
+            585.0700073242188,
+            352.58331298828125,
+            663.9151000976562,
+            384.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 61,
+        "bbox": [
+            585.0700073242188,
+            390.5033264160156,
+            663.9151000976562,
+            422.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 69,
+        "bbox": [
+            585.0700073242188,
+            428.5433044433594,
+            663.9151000976562,
+            460.90765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 1,
+        "block_num": 78,
+        "bbox": [
+            585.0700073242188,
+            466.6133117675781,
+            663.9151000976562,
+            498.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại mỏ, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 26,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            663.9151000976562,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1,2 Công ty TNHH Đá Thượng Thành",
+        "suffix": "(địa chỉ: khu Trung tâm, thị trấn Đồng Mỏ, huyện Chi Lăng, tỉnh Lạng Sơn)",
+        "style": "bold",
+        "page_num": 2,
+        "block_num": 28,
+        "bbox": [
+            84.50399780273438,
+            237.48330688476562,
+            256.8646545410156,
+            247.97767639160156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            259.9233093261719,
+            662.9197387695312,
+            292.2576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 42,
+        "bbox": [
+            585.0700073242188,
+            297.84332275390625,
+            662.9197387695312,
+            330.1976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            335.9033203125,
+            662.9197387695312,
+            368.2376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 58,
+        "bbox": [
+            585.0700073242188,
+            373.9433288574219,
+            662.9197387695312,
+            406.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 64,
+        "bbox": [
+            585.0700073242188,
+            411.8633117675781,
+            662.9197387695312,
+            444.1976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 70,
+        "bbox": [
+            585.0700073242188,
+            449.9333190917969,
+            662.9197387695312,
+            482.2676696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 2,
+        "block_num": 77,
+        "bbox": [
+            585.0700073242188,
+            487.9732971191406,
+            662.9197387695312,
+            520.3036499023438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 24,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1,3 Mỏ đá Giang Sơn 1, huyện Cao Lộc",
+        "suffix": "(Địa chỉ: thôn Tềnh Chè, xã Hồng Phong, huyện Cao Lộc) 58 Đá xây dựng",
+        "style": "bold",
+        "page_num": 3,
+        "block_num": 26,
+        "bbox": [
+            84.50399780273438,
+            237.48330688476562,
+            260.9125671386719,
+            247.97767639160156
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            251.04330444335938,
+            662.9197387695312,
+            283.3776550292969
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 37,
+        "bbox": [
+            585.0700073242188,
+            326.5433044433594,
+            662.9197387695312,
+            358.877685546875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 3,
+        "block_num": 44,
+        "bbox": [
+            585.0700073242188,
+            402.0233154296875,
+            662.9197387695312,
+            434.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 4,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            275.0433044433594,
+            662.9197387695312,
+            307.3776550292969
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            350.5433044433594,
+            662.9197387695312,
+            382.877685546875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 4,
+        "block_num": 45,
+        "bbox": [
+            585.0700073242188,
+            426.0233154296875,
+            662.9197387695312,
+            458.3876647949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 24,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1,4 Mỏ đá Hồng Phong I, huyện Cao Lộc",
+        "suffix": "(Địa chỉ: thôn Tềnh Chè, xã Hồng Phong, huyện Cao Lộc) 66 Đá xây dựng",
+        "style": "bold",
+        "page_num": 5,
+        "block_num": 26,
+        "bbox": [
+            84.50399780273438,
+            275.0433044433594,
+            267.2546691894531,
+            285.53765869140625
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 31,
+        "bbox": [
+            585.0700073242188,
+            288.4833068847656,
+            662.9197387695312,
+            320.8176574707031
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            364.1033020019531,
+            662.9197387695312,
+            396.43768310546875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 5,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            439.58331298828125,
+            662.9197387695312,
+            471.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            275.0433044433594,
+            662.9197387695312,
+            307.3776550292969
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 38,
+        "bbox": [
+            585.0700073242188,
+            350.5433044433594,
+            662.9197387695312,
+            382.877685546875
+        ]
+    },
+    {
+        "prefix": "Không",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 6,
+        "block_num": 46,
+        "bbox": [
+            585.0700073242188,
+            426.0233154296875,
+            662.9197387695312,
+            458.3876647949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1,5 Mỏ đá Lùng Khứ, xã Hưng Vũ, huyện Bắc Sơn",
+        "suffix": "(Địa chỉ: thôn Nông Lục, xã Hưng Vũ, huyện Bắc Sơn)",
+        "style": "bold",
+        "page_num": 6,
+        "block_num": 48,
+        "bbox": [
+            84.50399780273438,
+            501.5333251953125,
+            304.47308349609375,
+            512.0277099609375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 7,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            662.9197387695312,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            662.9197387695312,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            662.9197387695312,
+            383.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            401.5433044433594,
+            662.9197387695312,
+            433.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 7,
+        "block_num": 57,
+        "bbox": [
+            585.0700073242188,
+            452.0932922363281,
+            662.9197387695312,
+            484.42767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            662.9197387695312,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "154,454",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 39,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            662.9197387695312,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1,6 Mỏ đá Hồng Phong IV, thị trấn Bình Gia, huyện Bình Gia",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 8,
+        "block_num": 40,
+        "bbox": [
+            84.50399780273438,
+            351.0233154296875,
+            351.6199951171875,
+            361.5176696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 47,
+        "bbox": [
+            585.0700073242188,
+            364.58331298828125,
+            662.9197387695312,
+            396.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 54,
+        "bbox": [
+            585.0700073242188,
+            415.1033020019531,
+            662.9197387695312,
+            447.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 8,
+        "block_num": 61,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            662.9197387695312,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "200,000",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "250,000",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            662.9197387695312,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "170,000",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 39,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            662.9197387695312,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "1,7 Mỏ đá Khau Đêm, xã Quan Sơn, huyện Chi Lăng, tỉnh Lạng Sơn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 9,
+        "block_num": 40,
+        "bbox": [
+            84.50399780273438,
+            351.0233154296875,
+            361.0211486816406,
+            372.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 46,
+        "bbox": [
+            585.0700073242188,
+            373.3432922363281,
+            662.9197387695312,
+            405.67767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 54,
+        "bbox": [
+            585.0700073242188,
+            411.3833312988281,
+            662.9197387695312,
+            443.7176513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 62,
+        "bbox": [
+            585.0700073242188,
+            449.45330810546875,
+            662.9197387695312,
+            481.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 9,
+        "block_num": 70,
+        "bbox": [
+            585.0700073242188,
+            487.3733215332031,
+            662.9197387695312,
+            519.7036743164062
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 24,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "II Gạch xây dựng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 26,
+        "bbox": [
+            86.66400146484375,
+            237.48330688476562,
+            178.0699920654297,
+            247.97767639160156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2,1 Công ty TNHH Hồng Phong",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 26,
+        "bbox": [
+            84.50399780273438,
+            251.04330444335938,
+            231.47000122070312,
+            261.53765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            264.4833068847656,
+            662.9197387695312,
+            296.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            302.5233154296875,
+            662.9197387695312,
+            334.8776550292969
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 52,
+        "bbox": [
+            585.0700073242188,
+            340.58331298828125,
+            662.9197387695312,
+            372.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2,2 Công ty TNHH sản xuất và thương mại Tuổi Trẻ Lạng Sơn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 10,
+        "block_num": 54,
+        "bbox": [
+            84.50399780273438,
+            378.5033264160156,
+            356.7799987792969,
+            388.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "1,180",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 63,
+        "bbox": [
+            585.0700073242188,
+            392.0633239746094,
+            662.9197387695312,
+            424.3976745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "1,200",
+        "style": "italic",
+        "page_num": 10,
+        "block_num": 72,
+        "bbox": [
+            585.0700073242188,
+            442.58331298828125,
+            662.9197387695312,
+            474.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "5,550",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 26,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2,3 Công ty cổ phần gạch ngói Hợp Thành",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 27,
+        "bbox": [
+            84.50399780273438,
+            250.08331298828125,
+            273.3800048828125,
+            260.5776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "1,198",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            263.5233154296875,
+            662.9197387695312,
+            295.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2,4 Công ty TNHH MTV Hiếu Hằng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 37,
+        "bbox": [
+            84.50399780273438,
+            314.0433044433594,
+            249.58999633789062,
+            324.53765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 46,
+        "bbox": [
+            585.0700073242188,
+            327.5033264160156,
+            662.9197387695312,
+            359.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 56,
+        "bbox": [
+            585.0700073242188,
+            365.5433044433594,
+            662.9197387695312,
+            397.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 66,
+        "bbox": [
+            585.0700073242188,
+            403.58331298828125,
+            662.9197387695312,
+            435.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2,5 Công ty TNHH Tư vấn đầu tư xây dựng An Khánh VQ",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 11,
+        "block_num": 68,
+        "bbox": [
+            84.50399780273438,
+            441.5033264160156,
+            340.6999816894531,
+            451.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "1,050",
+        "style": "italic",
+        "page_num": 11,
+        "block_num": 77,
+        "bbox": [
+            585.0700073242188,
+            455.0932922363281,
+            662.9197387695312,
+            487.42767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "1,050",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 26,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            662.9197387695312,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "2,6 Công ty CP kinh doanh gạch ốp lát VIGLACERA",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 27,
+        "bbox": [
+            84.50399780273438,
+            250.08331298828125,
+            319.1000061035156,
+            260.5776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán đến chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "1.789.095",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 38,
+        "bbox": [
+            585.0700073242188,
+            263.5233154296875,
+            658.97607421875,
+            295.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán đến chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "1.904.595",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            318.6233215332031,
+            658.97607421875,
+            350.9576721191406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "III Cát xây dựng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 52,
+        "bbox": [
+            84.86399841308594,
+            373.8233337402344,
+            147.78775024414062,
+            395.2376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3,1 Công ty TNHH Hồng Phong",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 52,
+        "bbox": [
+            84.50399780273438,
+            399.2633361816406,
+            231.47000122070312,
+            409.7576904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 59,
+        "bbox": [
+            585.0700073242188,
+            412.8233337402344,
+            662.9197387695312,
+            445.15765380859375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 67,
+        "bbox": [
+            585.0700073242188,
+            450.7733154296875,
+            662.9197387695312,
+            483.107666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3,2 Công ty Cổ phần Gia Lộc",
+        "suffix": "(Địa chỉ: xã Hùng Sơn, huyện Tràng Định, tỉnh Lạng Sơn)",
+        "style": "bold",
+        "page_num": 12,
+        "block_num": 69,
+        "bbox": [
+            84.50399780273438,
+            488.8133239746094,
+            220.07276916503906,
+            499.30767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 12,
+        "block_num": 75,
+        "bbox": [
+            585.0700073242188,
+            502.3733215332031,
+            662.9197387695312,
+            534.7036743164062
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3,3 Công ty TNHH MTV Hồng Phong ATK",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 18,
+        "bbox": [
+            84.50399780273438,
+            199.56332397460938,
+            279.0199890136719,
+            210.0576934814453
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "385,000",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            213.00332641601562,
+            662.9197387695312,
+            245.3376922607422
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại kho bên bán, bao gồm chi phí bốc xúc lên xe",
+        "suffix": "385,000",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 32,
+        "bbox": [
+            585.0700073242188,
+            263.5233154296875,
+            662.9197387695312,
+            295.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "3,4 Cát tự nhiên",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 33,
+        "bbox": [
+            84.50399780273438,
+            314.0433044433594,
+            167.50999450683594,
+            324.53765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố và thị trấn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 38,
+        "bbox": [
+            585.0700073242188,
+            327.5033264160156,
+            666.0386962890625,
+            359.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố và thị trấn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 44,
+        "bbox": [
+            585.0700073242188,
+            365.5433044433594,
+            666.0386962890625,
+            397.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố và thị trấn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 13,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            403.58331298828125,
+            666.0386962890625,
+            435.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "IV Thép xây dựng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 52,
+        "bbox": [
+            85.10399627685547,
+            441.5033264160156,
+            177.58999633789062,
+            451.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4,1 Thép Nghi Sơn",
+        "suffix": "(Công ty cổ phần Ganh thép Nghi Sơn)",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 52,
+        "bbox": [
+            84.50399780273438,
+            455.0932922363281,
+            177.65919494628906,
+            465.587646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Địa chỉ: Phường Hải Thượng, thị xã Nghi Sơn, tỉnh Thanh Hóa",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 13,
+        "block_num": 53,
+        "bbox": [
+            114.0199966430664,
+            468.5332946777344,
+            372.6199951171875,
+            479.02764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Thép cuộn",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 13,
+        "block_num": 53,
+        "bbox": [
+            87.98400115966797,
+            482.09332275390625,
+            158.38999938964844,
+            492.5876770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 14,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            666.067138671875,
+            253.73768615722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            262.5633239746094,
+            666.067138671875,
+            316.7376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            325.58331298828125,
+            666.067138671875,
+            379.7576904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Thép thanh vằn",
+        "suffix": "TCVN 1651-",
+        "style": "bold_italic",
+        "page_num": 14,
+        "block_num": 45,
+        "bbox": [
+            87.98400115966797,
+            388.58331298828125,
+            178.6699981689453,
+            399.0776672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 54,
+        "bbox": [
+            585.0700073242188,
+            414.0233154296875,
+            666.067138671875,
+            468.2276611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 14,
+        "block_num": 63,
+        "bbox": [
+            585.0700073242188,
+            477.0533142089844,
+            666.067138671875,
+            531.2236938476562
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 15,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            666.067138671875,
+            253.73768615722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            262.5633239746094,
+            666.067138671875,
+            316.7376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            325.58331298828125,
+            666.067138671875,
+            379.7576904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 53,
+        "bbox": [
+            585.0700073242188,
+            388.58331298828125,
+            666.067138671875,
+            442.7576904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 15,
+        "block_num": 62,
+        "bbox": [
+            585.0700073242188,
+            451.6133117675781,
+            666.067138671875,
+            505.78765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại TP Lạng Sơn, thêm cước vận chuyển đối với các địa điểm xa hơn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            666.067138671875,
+            253.73768615722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4,3 Thép SEAL",
+        "suffix": "(Công ty TNHH thép SEAH Việt Nam)",
+        "style": "bold",
+        "page_num": 16,
+        "block_num": 27,
+        "bbox": [
+            84.50399780273438,
+            262.5633239746094,
+            164.7095489501953,
+            273.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 16,
+        "block_num": 28,
+        "bbox": [
+            87.98400115966797,
+            283.8033142089844,
+            95.15399932861328,
+            294.29766845703125
+        ]
+    },
+    {
+        "prefix": "Địa chỉ: Số 7, đường 3A, KCN Biên Hòa II, tỉnh Đồng Nai",
+        "text": "Thép đen",
+        "suffix": "126",
+        "style": "bold_italic",
+        "page_num": 16,
+        "block_num": 29,
+        "bbox": [
+            114.0199966430664,
+            289.5633239746094,
+            153.11000061035156,
+            300.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 16,
+        "block_num": 30,
+        "bbox": [
+            87.98400115966797,
+            313.9233093261719,
+            92.7239990234375,
+            324.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "27,700",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 38,
+        "bbox": [
+            585.0700073242188,
+            303.0033264160156,
+            664.2564697265625,
+            335.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Thép ống đen",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 16,
+        "block_num": 39,
+        "bbox": [
+            114.0199966430664,
+            353.5433044433594,
+            170.26998901367188,
+            364.03765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "26,900",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 48,
+        "bbox": [
+            585.0700073242188,
+            367.1033020019531,
+            664.2564697265625,
+            399.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "26,600",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 55,
+        "bbox": [
+            585.0700073242188,
+            417.5033264160156,
+            664.2564697265625,
+            449.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "26,600",
+        "style": "italic",
+        "page_num": 16,
+        "block_num": 62,
+        "bbox": [
+            585.0700073242188,
+            468.0533142089844,
+            664.2564697265625,
+            500.3876647949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 17,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "26,800",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 24,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.2564697265625,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "27,000",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 31,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            664.2564697265625,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "27,600",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 40,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            664.2564697265625,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Thép ống mạ kẽm",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 17,
+        "block_num": 41,
+        "bbox": [
+            87.98400115966797,
+            351.0233154296875,
+            186.8300018310547,
+            361.5176696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "33,800",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 49,
+        "bbox": [
+            585.0700073242188,
+            364.58331298828125,
+            664.2564697265625,
+            396.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "33,000",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 55,
+        "bbox": [
+            585.0700073242188,
+            415.1033020019531,
+            664.2564697265625,
+            447.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "33,600",
+        "style": "italic",
+        "page_num": 17,
+        "block_num": 61,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            664.2564697265625,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "32,800",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.2564697265625,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "32,800",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 31,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            664.2564697265625,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "33,200",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 37,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            664.2564697265625,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "33,800",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            664.2564697265625,
+            383.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Ống tôn mạ kẽm",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 18,
+        "block_num": 44,
+        "bbox": [
+            87.98400115966797,
+            401.5433044433594,
+            181.54998779296875,
+            412.03765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "27,900",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 52,
+        "bbox": [
+            585.0700073242188,
+            415.1033020019531,
+            664.2564697265625,
+            447.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "4,4 Ống thép mạ kẽm - VINAPINE (Công ty TNHH ống thép Việt Nam)",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 18,
+        "block_num": 53,
+        "bbox": [
+            84.50399780273438,
+            465.5332946777344,
+            368.1280212402344,
+            486.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "23,182",
+        "style": "italic",
+        "page_num": 18,
+        "block_num": 59,
+        "bbox": [
+            585.0700073242188,
+            487.9732971191406,
+            664.2564697265625,
+            520.3036499023438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 19,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "29,091",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.2564697265625,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "38,182",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            243.72332763671875,
+            664.2564697265625,
+            276.05767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "45,455",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 35,
+        "bbox": [
+            585.0700073242188,
+            287.88330078125,
+            664.2564697265625,
+            320.2176818847656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "60,000",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 41,
+        "bbox": [
+            585.0700073242188,
+            332.1833190917969,
+            664.2564697265625,
+            364.5176696777344
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "78,182",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 47,
+        "bbox": [
+            585.0700073242188,
+            376.3432922363281,
+            664.2564697265625,
+            408.67767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "115,455",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 53,
+        "bbox": [
+            585.0700073242188,
+            420.5033264160156,
+            664.2564697265625,
+            452.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "136,364",
+        "style": "italic",
+        "page_num": 19,
+        "block_num": 59,
+        "bbox": [
+            585.0700073242188,
+            464.6933288574219,
+            664.2564697265625,
+            497.1476745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn",
+        "suffix": "181,818",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.2564697265625,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "V Xi măng",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 20,
+        "block_num": 24,
+        "bbox": [
+            87.02400207519531,
+            243.72332763671875,
+            150.9499969482422,
+            254.2176971435547
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tại kho Công ty xi măng La Hiên",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            257.1632995605469,
+            657.6583251953125,
+            278.6976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tại kho Công ty xi măng La Hiên",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 38,
+        "bbox": [
+            585.0700073242188,
+            307.6833190917969,
+            657.6583251953125,
+            329.11767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn và các thị trấn",
+        "suffix": "1,407",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 45,
+        "bbox": [
+            585.0700073242188,
+            358.2232971191406,
+            664.2564697265625,
+            390.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn và các thị trấn",
+        "suffix": "1,500",
+        "style": "italic",
+        "page_num": 20,
+        "block_num": 51,
+        "bbox": [
+            585.0700073242188,
+            421.2232971191406,
+            664.2564697265625,
+            453.55767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn và các thị trấn",
+        "suffix": "1,407",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.2564697265625,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn và các thị trấn",
+        "suffix": "1,500",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            262.5633239746094,
+            664.2564697265625,
+            294.8976745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn và các thị trấn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            325.58331298828125,
+            664.2564697265625,
+            357.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại trung tâm thành phố Lạng Sơn và các thị trấn",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 40,
+        "bbox": [
+            585.0700073242188,
+            363.5033264160156,
+            664.2564697265625,
+            395.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Tại kho Công ty xi măng La Hiên",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 21,
+        "block_num": 45,
+        "bbox": [
+            585.0700073242188,
+            401.5433044433594,
+            657.6583251953125,
+            422.9576721191406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VI Vữa, bê tông",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 47,
+        "bbox": [
+            85.10399627685547,
+            452.0932922363281,
+            147.91098022460938,
+            473.5076904296875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "6,1 Công ty cổ phần Gạch ngói Hợp Thành",
+        "suffix": "Địa chỉ: Thị trấn Cao Lộc, huyện Cao Lộc, tỉnh Lạng Sơn)",
+        "style": "bold",
+        "page_num": 21,
+        "block_num": 47,
+        "bbox": [
+            84.50399780273438,
+            477.5333251953125,
+            276.1399841308594,
+            488.0276794433594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.4934692382812,
+            242.8176727294922
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            664.4934692382812,
+            293.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 44,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            664.4934692382812,
+            343.7576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 54,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            664.4934692382812,
+            394.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "6,2 Công ty cổ phần bê tông Lạng Sơn",
+        "suffix": "Địa chỉ: thôn Đại Sơn, xã Hợp Thành, thành phố Lạng Sơn",
+        "style": "bold",
+        "page_num": 22,
+        "block_num": 56,
+        "bbox": [
+            84.50399780273438,
+            401.5433044433594,
+            256.58001708984375,
+            412.03765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 64,
+        "bbox": [
+            585.0700073242188,
+            428.5433044433594,
+            664.4934692382812,
+            471.8276672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 22,
+        "block_num": 73,
+        "bbox": [
+            585.0700073242188,
+            479.09332275390625,
+            664.4934692382812,
+            522.3436889648438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 23,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.4934692382812,
+            242.8176727294922
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            664.4934692382812,
+            293.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            664.4934692382812,
+            343.7576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 52,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            664.4934692382812,
+            394.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 61,
+        "bbox": [
+            585.0700073242188,
+            401.5433044433594,
+            664.4934692382812,
+            444.79766845703125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 23,
+        "block_num": 70,
+        "bbox": [
+            585.0700073242188,
+            452.0932922363281,
+            664.4934692382812,
+            495.34765625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.4934692382812,
+            242.8176727294922
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            664.4934692382812,
+            293.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            664.4934692382812,
+            343.7576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 52,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            664.4934692382812,
+            394.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "6,2 Công ty TNHH đá Thượng Thành",
+        "suffix": "Địa chỉ: tại kho xã Mai Sao, huyện Chi Lăng, Lạng Sơn",
+        "style": "bold",
+        "page_num": 24,
+        "block_num": 54,
+        "bbox": [
+            84.50399780273438,
+            401.5433044433594,
+            255.5,
+            412.03765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 63,
+        "bbox": [
+            585.0700073242188,
+            428.5433044433594,
+            664.4934692382812,
+            471.8276672363281
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 24,
+        "block_num": 73,
+        "bbox": [
+            585.0700073242188,
+            479.09332275390625,
+            664.4934692382812,
+            522.3436889648438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 26,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            664.4934692382812,
+            242.8176727294922
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            664.4934692382812,
+            293.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 46,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            664.4934692382812,
+            343.7576599121094
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán tại nơi bán, chưa bao gồm vận chuyển và bơm bê tông",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 56,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            664.4934692382812,
+            394.27764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "VII Cấu kiện bê tông đúc sẵn",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 58,
+        "bbox": [
+            83.27999877929688,
+            401.5433044433594,
+            218.50999450683594,
+            412.03765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7,1 Công ty cổ phần Gạch ngói Hợp Thành",
+        "suffix": "(Địa chỉ: Thị trấn Cao Lộc, huyện Cao Lộc, tỉnh Lạng Sơn)",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 58,
+        "bbox": [
+            84.50399780273438,
+            415.1033020019531,
+            276.04266357421875,
+            425.59765625
+        ]
+    },
+    {
+        "prefix": "(Địa chỉ: Thị trấn Cao Lộc, huyện Cao Lộc, tỉnh Lạng Sơn)",
+        "text": "*",
+        "suffix": "Cống bê tông cốt thép",
+        "style": "bold",
+        "page_num": 25,
+        "block_num": 58,
+        "bbox": [
+            87.98400115966797,
+            428.5433044433594,
+            95.15399932861328,
+            439.03765869140625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "270,613",
+        "style": "italic",
+        "page_num": 25,
+        "block_num": 67,
+        "bbox": [
+            585.0700073242188,
+            442.1033020019531,
+            665.2045288085938,
+            474.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 26,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "330,750",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 26,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "370,841",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 33,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            665.2045288085938,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "390,887",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 41,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            665.2045288085938,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "506,147",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 48,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            665.2045288085938,
+            383.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "546,238",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 56,
+        "bbox": [
+            585.0700073242188,
+            401.5433044433594,
+            665.2045288085938,
+            433.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "882,000",
+        "style": "italic",
+        "page_num": 26,
+        "block_num": 63,
+        "bbox": [
+            585.0700073242188,
+            452.0932922363281,
+            665.2045288085938,
+            484.42767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 27,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "927,103",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "1.508.421",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 33,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            665.2045288085938,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "2.430.512",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 41,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            665.2045288085938,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "2.530.738",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 49,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            665.2045288085938,
+            383.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "2.600.897",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 57,
+        "bbox": [
+            585.0700073242188,
+            401.5433044433594,
+            665.2045288085938,
+            433.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "2.876.522",
+        "style": "italic",
+        "page_num": 27,
+        "block_num": 65,
+        "bbox": [
+            585.0700073242188,
+            452.0932922363281,
+            665.2045288085938,
+            484.42767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 28,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "3.026.863",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 25,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "3.177.204",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 33,
+        "bbox": [
+            585.0700073242188,
+            250.08331298828125,
+            665.2045288085938,
+            282.41766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "3.683.353",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 41,
+        "bbox": [
+            585.0700073242188,
+            300.4833068847656,
+            665.2045288085938,
+            332.8376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "3.878.796",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 49,
+        "bbox": [
+            585.0700073242188,
+            351.0233154296875,
+            665.2045288085938,
+            383.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "4.049.182",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 57,
+        "bbox": [
+            585.0700073242188,
+            401.5433044433594,
+            665.2045288085938,
+            433.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "7.562.147",
+        "style": "italic",
+        "page_num": 28,
+        "block_num": 65,
+        "bbox": [
+            585.0700073242188,
+            452.0932922363281,
+            665.2045288085938,
+            484.42767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cột điện chữ H",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 28,
+        "block_num": 66,
+        "bbox": [
+            87.98400115966797,
+            502.6133117675781,
+            176.75,
+            513.107666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 29,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 42,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 48,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 54,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 61,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 29,
+        "block_num": 67,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            665.2045288085938,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 30,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 22,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cột BT ly tâm",
+        "suffix": "208 Cấu kiện bt đúc sẵn Cột LT 7A, TL 456 kg/cột cột",
+        "style": "bold_italic",
+        "page_num": 30,
+        "block_num": 24,
+        "bbox": [
+            87.98400115966797,
+            237.48330688476562,
+            153.91183471679688,
+            258.8976745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 28,
+        "bbox": [
+            585.0700073242188,
+            264.0033264160156,
+            665.2045288085938,
+            296.3376770019531
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 35,
+        "bbox": [
+            585.0700073242188,
+            302.0433044433594,
+            665.2045288085938,
+            334.3976745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 41,
+        "bbox": [
+            585.0700073242188,
+            340.1033020019531,
+            665.2045288085938,
+            372.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 47,
+        "bbox": [
+            585.0700073242188,
+            378.0233154296875,
+            665.2045288085938,
+            410.357666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 53,
+        "bbox": [
+            585.0700073242188,
+            416.0633239746094,
+            665.2045288085938,
+            448.3976745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 59,
+        "bbox": [
+            585.0700073242188,
+            454.1333312988281,
+            665.2045288085938,
+            486.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 30,
+        "block_num": 65,
+        "bbox": [
+            585.0700073242188,
+            492.0533142089844,
+            665.2045288085938,
+            524.3836669921875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 31,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 22,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 58,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 66,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 31,
+        "block_num": 74,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            665.2045288085938,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 32,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 31,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 39,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 47,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 55,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 63,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 71,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 32,
+        "block_num": 79,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            665.2045288085938,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 33,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 31,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 39,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 47,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Cột BT ly tâm PC,I",
+        "suffix": "235 Cấu kiện bt đúc sẵn PC,I-7,5-160-2,0 cột",
+        "style": "bold_italic",
+        "page_num": 33,
+        "block_num": 50,
+        "bbox": [
+            114.0199966430664,
+            351.5033264160156,
+            191.62998962402344,
+            361.9976806640625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 54,
+        "bbox": [
+            585.0700073242188,
+            365.0633239746094,
+            665.2045288085938,
+            397.3976745605469
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 61,
+        "bbox": [
+            585.0700073242188,
+            403.1033020019531,
+            665.2045288085938,
+            435.43768310546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 68,
+        "bbox": [
+            585.0700073242188,
+            441.0233154296875,
+            665.2045288085938,
+            473.3876647949219
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 33,
+        "block_num": 75,
+        "bbox": [
+            585.0700073242188,
+            479.09332275390625,
+            665.2045288085938,
+            511.42767333984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 34,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 22,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 57,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 64,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 34,
+        "block_num": 71,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            665.2045288085938,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 35,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 22,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 57,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 64,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 35,
+        "block_num": 71,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            665.2045288085938,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 36,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 22,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 57,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 64,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 36,
+        "block_num": 71,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            665.2045288085938,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 37,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 22,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 29,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 36,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 43,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 50,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 57,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 64,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7,2 Công ty cổ phần bê tông Lạng Sơn",
+        "suffix": "(Địa chỉ, Thôn Đại Sơn, Xã Hợp Thành, Huyện Cao Lộc, Tỉnh Lạng Sơn)",
+        "style": "bold",
+        "page_num": 37,
+        "block_num": 67,
+        "bbox": [
+            84.50399780273438,
+            465.5332946777344,
+            256.3622131347656,
+            476.02764892578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "*",
+        "suffix": "270",
+        "style": "bold",
+        "page_num": 37,
+        "block_num": 69,
+        "bbox": [
+            87.98400115966797,
+            487.9732971191406,
+            95.15399932861328,
+            498.4676513671875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 37,
+        "block_num": 74,
+        "bbox": [
+            585.0700073242188,
+            501.4132995605469,
+            665.2045288085938,
+            533.74365234375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 38,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 31,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 39,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 47,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 55,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 63,
+        "bbox": [
+            585.0700073242188,
+            389.5433044433594,
+            665.2045288085938,
+            421.877685546875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 71,
+        "bbox": [
+            585.0700073242188,
+            427.58331298828125,
+            665.2045288085938,
+            459.9476623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 38,
+        "block_num": 79,
+        "bbox": [
+            585.0700073242188,
+            465.5332946777344,
+            665.2045288085938,
+            497.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 39,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            665.2045288085938,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 31,
+        "bbox": [
+            585.0700073242188,
+            237.48330688476562,
+            665.2045288085938,
+            269.8176574707031
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 39,
+        "bbox": [
+            585.0700073242188,
+            275.5233154296875,
+            665.2045288085938,
+            307.857666015625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 47,
+        "bbox": [
+            585.0700073242188,
+            313.5633239746094,
+            665.2045288085938,
+            345.91766357421875
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá tại kho bên bán, bao gồm chi phí bốc xếp lên xe VC",
+        "suffix": "",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 55,
+        "bbox": [
+            585.0700073242188,
+            351.5033264160156,
+            665.2045288085938,
+            383.837646484375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7,3 Công ty CP kinh doanh gạch ốp lát VIGLACERA",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 39,
+        "block_num": 58,
+        "bbox": [
+            84.50399780273438,
+            389.5433044433594,
+            258.5615234375,
+            410.9576721191406
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán đến chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "5.024.250",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 68,
+        "bbox": [
+            585.0700073242188,
+            411.8633117675781,
+            658.97607421875,
+            444.1976623535156
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán đến chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "4.389.000",
+        "style": "italic",
+        "page_num": 39,
+        "block_num": 78,
+        "bbox": [
+            585.0700073242188,
+            474.893310546875,
+            658.97607421875,
+            507.2276611328125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 40,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Giá bán đến chân công trình trên địa bàn tỉnh Lạng Sơn",
+        "suffix": "3.522.750",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 26,
+        "bbox": [
+            585.0700073242188,
+            199.56332397460938,
+            658.97607421875,
+            231.89768981933594
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "7,4 Công ty TNHH SX và TM Hải Bách",
+        "suffix": "",
+        "style": "bold",
+        "page_num": 40,
+        "block_num": 28,
+        "bbox": [
+            84.50399780273438,
+            262.5633239746094,
+            262.82000732421875,
+            273.05767822265625
+        ]
+    },
+    {
+        "prefix": "Địa chỉ: KM 10, Quốc lộ 1A cũ, xã Tân Thành, huyện Cao Lộc",
+        "text": "* Cột điện chữ H",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 40,
+        "block_num": 29,
+        "bbox": [
+            87.98400115966797,
+            289.5633239746094,
+            176.75,
+            300.05767822265625
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.320.000",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            310.8033142089844,
+            661.1375732421875,
+            332.2376708984375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.545.241",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 40,
+        "bbox": [
+            585.0700073242188,
+            348.8633117675781,
+            661.1375732421875,
+            370.27764892578125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.633.536",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 46,
+        "bbox": [
+            585.0700073242188,
+            386.9033203125,
+            661.1375732421875,
+            408.31768798828125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.600.000",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 52,
+        "bbox": [
+            585.0700073242188,
+            424.8233337402344,
+            661.1375732421875,
+            446.2376708984375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.853.633",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 58,
+        "bbox": [
+            585.0700073242188,
+            462.893310546875,
+            661.1375732421875,
+            484.30767822265625
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.940.649",
+        "style": "italic",
+        "page_num": 40,
+        "block_num": 64,
+        "bbox": [
+            585.0700073242188,
+            500.9333190917969,
+            661.1375732421875,
+            522.3436889648438
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 41,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.806.287",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 22,
+        "bbox": [
+            585.0700073242188,
+            207.36331176757812,
+            661.1375732421875,
+            228.77769470214844
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.110.652",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 28,
+        "bbox": [
+            585.0700073242188,
+            245.4033203125,
+            661.1375732421875,
+            266.8176574707031
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.411.555",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 34,
+        "bbox": [
+            585.0700073242188,
+            283.32330322265625,
+            661.1375732421875,
+            304.7376708984375
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "* Cột BT ly tâm",
+        "suffix": "",
+        "style": "bold_italic",
+        "page_num": 41,
+        "block_num": 36,
+        "bbox": [
+            87.98400115966797,
+            313.5633239746094,
+            170.989990234375,
+            324.05767822265625
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "1.905.200",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 42,
+        "bbox": [
+            585.0700073242188,
+            334.82330322265625,
+            661.1375732421875,
+            356.2376708984375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.085.725",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 49,
+        "bbox": [
+            585.0700073242188,
+            372.8633117675781,
+            661.1375732421875,
+            394.27764892578125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.157.230",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 56,
+        "bbox": [
+            585.0700073242188,
+            410.9033203125,
+            661.1375732421875,
+            432.31768798828125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.190.210",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 63,
+        "bbox": [
+            585.0700073242188,
+            448.8533020019531,
+            661.1375732421875,
+            470.2676696777344
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.372.812",
+        "style": "italic",
+        "page_num": 41,
+        "block_num": 70,
+        "bbox": [
+            585.0700073242188,
+            486.893310546875,
+            661.1375732421875,
+            508.30767822265625
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 42,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.605.300",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            207.36331176757812,
+            661.1375732421875,
+            228.77769470214844
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.682.215",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            245.4033203125,
+            661.1375732421875,
+            266.8176574707031
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.702.500",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 37,
+        "bbox": [
+            585.0700073242188,
+            283.32330322265625,
+            661.1375732421875,
+            304.7376708984375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.830.210",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 44,
+        "bbox": [
+            585.0700073242188,
+            321.38330078125,
+            661.1375732421875,
+            342.79766845703125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "2.910.205",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 51,
+        "bbox": [
+            585.0700073242188,
+            359.4233093261719,
+            661.1375732421875,
+            380.837646484375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "3.302.100",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 58,
+        "bbox": [
+            585.0700073242188,
+            397.3432922363281,
+            661.1375732421875,
+            418.7576904296875
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "3.751.300",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 65,
+        "bbox": [
+            585.0700073242188,
+            435.3833312988281,
+            661.1375732421875,
+            456.8276672363281
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "3.817.120",
+        "style": "italic",
+        "page_num": 42,
+        "block_num": 72,
+        "bbox": [
+            585.0700073242188,
+            473.45330810546875,
+            661.1375732421875,
+            494.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 43,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "4.700.602",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            207.36331176757812,
+            661.1375732421875,
+            228.77769470214844
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "5.100.030",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            245.4033203125,
+            661.1375732421875,
+            266.8176574707031
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "5.420.245",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 37,
+        "bbox": [
+            585.0700073242188,
+            283.32330322265625,
+            661.1375732421875,
+            304.7376708984375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "6.564.800",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 44,
+        "bbox": [
+            585.0700073242188,
+            321.38330078125,
+            661.1375732421875,
+            342.79766845703125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "7.995.623",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 51,
+        "bbox": [
+            585.0700073242188,
+            359.4233093261719,
+            661.1375732421875,
+            380.837646484375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "12.102.362",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 58,
+        "bbox": [
+            585.0700073242188,
+            397.3432922363281,
+            661.1375732421875,
+            418.7576904296875
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "12.908.200",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 65,
+        "bbox": [
+            585.0700073242188,
+            435.3833312988281,
+            661.1375732421875,
+            456.8276672363281
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "16.312.120",
+        "style": "italic",
+        "page_num": 43,
+        "block_num": 72,
+        "bbox": [
+            585.0700073242188,
+            473.45330810546875,
+            661.1375732421875,
+            494.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 44,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "17.291.300",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            207.36331176757812,
+            661.1375732421875,
+            228.77769470214844
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "16.251.604",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            245.4033203125,
+            661.1375732421875,
+            266.8176574707031
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "18.190.812",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 37,
+        "bbox": [
+            585.0700073242188,
+            283.32330322265625,
+            661.1375732421875,
+            304.7376708984375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "19.312.210",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 44,
+        "bbox": [
+            585.0700073242188,
+            321.38330078125,
+            661.1375732421875,
+            342.79766845703125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "18.195.410",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 51,
+        "bbox": [
+            585.0700073242188,
+            359.4233093261719,
+            661.1375732421875,
+            380.837646484375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "19.925.320",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 58,
+        "bbox": [
+            585.0700073242188,
+            397.3432922363281,
+            661.1375732421875,
+            418.7576904296875
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "19.995.235",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 65,
+        "bbox": [
+            585.0700073242188,
+            435.3833312988281,
+            661.1375732421875,
+            456.8276672363281
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "21.235.272",
+        "style": "italic",
+        "page_num": 44,
+        "block_num": 72,
+        "bbox": [
+            585.0700073242188,
+            473.45330810546875,
+            661.1375732421875,
+            494.86767578125
+        ]
+    },
+    {
+        "prefix": "",
+        "text": "Stt Nhóm vật liệu Tên vật liệu, loại vật liệu Đơn vị tính Tiêu chuẩn kỹ thuật Quy cách Nhà sản xuất Vận chuyển Ghi chú Giá bán (chưa VAT)",
+        "suffix": "Địa bàn",
+        "style": "bold",
+        "page_num": 45,
+        "block_num": 12,
+        "bbox": [
+            84.02400207519531,
+            133.77102661132812,
+            755.5827026367188,
+            178.10096740722656
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "19.542.332",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 23,
+        "bbox": [
+            585.0700073242188,
+            207.36331176757812,
+            661.1375732421875,
+            228.77769470214844
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "22.520.140",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 30,
+        "bbox": [
+            585.0700073242188,
+            245.4033203125,
+            661.1375732421875,
+            266.8176574707031
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "23.686.242",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 37,
+        "bbox": [
+            585.0700073242188,
+            283.32330322265625,
+            661.1375732421875,
+            304.7376708984375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "24.512.909",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 44,
+        "bbox": [
+            585.0700073242188,
+            321.38330078125,
+            661.1375732421875,
+            342.79766845703125
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "22.379.500",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 51,
+        "bbox": [
+            585.0700073242188,
+            359.4233093261719,
+            661.1375732421875,
+            380.837646484375
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "23.980.600",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 58,
+        "bbox": [
+            585.0700073242188,
+            397.3432922363281,
+            661.1375732421875,
+            418.7576904296875
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "24.956.227",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 65,
+        "bbox": [
+            585.0700073242188,
+            435.3833312988281,
+            661.1375732421875,
+            456.8276672363281
+        ]
+    },
+    {
+        "prefix": "Chưa bao gồm VC",
+        "text": "Giá bán tại nơi sản xuất",
+        "suffix": "27.555.723",
+        "style": "italic",
+        "page_num": 45,
+        "block_num": 72,
+        "bbox": [
+            585.0700073242188,
+            473.45330810546875,
+            661.1375732421875,
+            494.86767578125
+        ]
+    }
+]
